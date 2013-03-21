@@ -1,5 +1,4 @@
 *Greetings|Bannaghtyn
-Hello.|Kys t'ou?
 Hello.|Ta shiu cheet.
 Hello everybody.|She nyn mea diu ooilley.
 Hello old chap.|Uss t'ayn.
@@ -134,9 +133,7 @@ I was a little afraid.|Va red beg d'aggle orrym.
 **Gratitude|Booise
 Thank you.|Gura mie eu.
 Thank you.|Gura mie ayd.
-Thank you - don't mention it.|Gura mie ayd - she dty vea.
 Thank you in anticipation.|Gura mie eu rolaue.
-Thank you ever so much.|Gura mie mooar ayd.
 Thank you very much.|Gura mie mooar ayd.
 Thank you very much my friend.|Gura mie mooar ayd my charrey.
 Thank you very much indeed.|Gura milley mie ayd.
@@ -184,7 +181,6 @@ I enjoy good health.|Ta mee goaill soylley jeh slaynt vie.
 I am bodily fit.|Ta slaynt vie aym.
 I am not quite myself today.|Cha nel mee lhiam pene jiu.
 I am not in good trim today.|Cha nel mee ooilley mee hene jiu.
-I am not in good trim today.|Cha nel mee lhiam pene jiu.
 I am not well.|Cha nel yn claynt aym feer vie.
 I am not well.|Cha nel aym pene.
 I am under the weather.|Ta mee red beg ching.
@@ -274,7 +270,6 @@ I am half drunk.|Ta mee lieh er meshtey.
 I drank overmuch.|Diu mee roud.
 I am fond of drink.|Ta mee currit da'n jough.
 **Hot and Cold|Cheh as Feayr
-I am frozen with the cold.|Ta mee lhejit.
 I am frozen.|Ta mee lhejit.
 I am frozen.|Ta mee lhejey.
 I am cold.|Ta mee feayr.
@@ -282,7 +277,6 @@ I am cold.|Ta feayraght orrym.
 My feet are as cold as ice.|Ta my chassyn lhejit.
 My feet are like ice.|Ta my chassyn riojit.
 It's freezing in this room.|T'eh feayr agglagh 'sy chamyr shoh.
-I am soaked through.|Ta mee fliugh gys y chrackan.
 I am soaked to the skin.|Ta mee fliughit trooid as trooid.
 I am soaked to the skin.|Ta mee fliugh-vaiht.
 I am soaked to the skin.|Ta mee fliugh gys y chrackan.
@@ -319,7 +313,6 @@ They are always greedy for money.|T'ad rieau shegin er argid.
 I am in financial difficulty.|Ta mee fo arkys.
 I can't live on air.|Cha noddym beaghey er y gheay.
 I am broke.|Ta mee rooisht argid.
-I am broke.|Cha nel ping ruy aym.
 I am out of cash.|Ta my phoggaid follym.
 I am out of debt.|Ta mee neulhiastynagh.
 I consider it expensive.|S'deyr lhiam eh.
@@ -367,18 +360,10 @@ Down with you!|Sheese lhiat!
 Away with you!|Ersooyl-jee!
 Away with you!|Ersooyl lhiat!
 Beat it!|Fow royd!
-Beat it!|Ersooyl lhiat!
 Be off!|Immee royd!
-Be off!|Ersooyl lhiat!
-Be off!|Fow royd!
-Clear off!|Fow royd!
-Clear off!|Ersooyl lhiat!
 Clear off!|Ass my hilley!
 Clear off!|Sthoo!
-Clear out of this!|Magh ass shoh!
 Clear out!|Magh ass shoh!
-Get away with you!|Bee dty host!
-Get along with you!|Ersooyl lhiat!
 Curse them!|Giare heill orroo!
 Curse them!|Skeayll orroo rass as cass!
 Curse them!|Scaalhean orroo!
@@ -389,17 +374,14 @@ Bad luck to them!|Drogh-oor orroo!
 For God's sake!|Son graih Yee!
 For the love of God!|Er graih Yee!
 **Warnings|Raaeuyn
-Beware!|Bee er dty hwoaie!
 Beware!|Bee er dty arrey!
 Beware!|Bee-jee er nyn dwoaie!
 Be careful of what you are doing!|Jeeagh er yn red t'ou jannoo!
 Be careful of it!|Cur arrey da!
 Be on your guard!|Bee er dty hwoaie!
 Careful now!|Gow kiarail!
-Careful now!|Bee er dty hwoaie!
 Careful now!|Arrey nish!
 Caution!|Gow arrey!
-Caution!|Bee er dty hwoaie!
 **Toasts|Iuyn Slaynt
 Cheers!|Shoh hood!
 Cheers!|Slane!
@@ -420,14 +402,12 @@ Tomorrow's weather.|Emshir ny vairagh.
 It is sunny.|Ta grian ayn.
 The sun is shining.|Ta'n ghrian soilshean.
 The sun is shining.|Ta'n ghrian mooie.
-The sun is setting.|Ta'n ghrian goll dy lhie.
 It's fine weather.|Ta emshir aalin ayn.
 It is a fine day.|Ta laa braew ayn.
 It's a fine night.|Ta oie aalin ayn.
 The sun is beginning to break through.|Ta'n ghrian goaill toshiaght dy vrishey trooid.
 Sunny day.|Laa grianagh.
 Fair weather.|Emshir aalin.
-It's beautiful weather.|Ta emshir aalin ayn.
 We shall have a fine day.|Bee laa aalin ain.
 Good weather.|Emshir vie.
 Steady weather.|Emshir veayn.
@@ -440,8 +420,8 @@ The weather bids fair.|S'cosoylagh vees emshir vie ayn.
 The weather is settling.|Ta bun cheet er yn emshir.
 The sky is clearing.|Ta'n speyr glenney.
 It is clearing up.|Ta ny bodjallyn troggal.
-It is clearing up.|T'eh giallaghey.
 It is clearing up.|T'eh sloateil.
+It's drying now.|T'eh sloateil nish.
 The weather is clearing up already.|Ta'n emshir hannah cleeiral.
 The bad weather is lifting.|Ta'n earish troggal seose.
 They say it's a sign of fine weather, in the morning.|Ta feallagh gra dy nee cowrey emshir aalin eh, ayns y voghrey.
@@ -450,22 +430,17 @@ How can you go out in such weather?|Kys vod shiu goll magh ayns lheid yn earish?
 Is it raining?|Vel jeein ayn?
 A little rain.|Smooidraght.
 There was a little rain during the day.|Va smooidraght dy liaghey ayn er y laa.
-It looks like rain.|T'eh mooirjeenagh.
-It looks like rain.|T'eh curthooillaghey.
 It looks like rain.|T'eh baggyrt fliaghey.
 It is teeming rain.|T'eh deayrtyey.
 It is raining.|T'eh ceau fliaghey.
 It is rainy weather.|T'eh jannoo emshir liugh.
 It is raining with a vengeance.|T'eh ceau fliaghey as cur fliaghey er shen.
 It is raining in real earnest now.|T'eh ceau fliaghey dy kiart nish.
-It is raining heavily.|T'eh deayrtey fliaghey.
 It is raining fast.|T'eh ceau dy trome.
 It is raining cats and dogs.|Ta thooilley ayn.
 It is raining bucketfuls.|T'eh deayrtey fliaghey.
-It's raining hard.|T'eh ceau dy trome.
 It's pelting rain.|Ta'n fliaghey greddey roish.
 Drenching rain.|Fliugh-liaghee.
-Fall of rain.|Ceau fliaghee.
 Scattered showers.|Frassyn skeaylt.
 Shower of rain.|Ceau fliaghee.
 Showery day.|Laa frassagh.
@@ -486,7 +461,6 @@ The rain has revived all the plants.|Ta'n fliaghey er n'aavioghey ny lossreeyn o
 The rain is heavy.|Ta trome-liaghee ayn.
 It has rained a great deal.|Ta ram fliaghey er ve jeant.
 It's blowing up for rain.|T'eh sheidey seose fliaghey.
-It has stopped raining.|T'eh sloateil.
 It has the appearance of rain.|T'eh moorjeenagh.
 I don't think it will rain.|Cha nel mee smooinaghtyn dy geau eh.
 We're in great want of rain.|Ta shin ayns feme mooar jeh fliaghey.
@@ -502,10 +476,7 @@ The rain is heavy.|Ta'n fliaghey trome.
 Pelting with rain.|Deayrtey fliaghey.
 I think it is going to rain.|Ta mee credjal dy vel eh mysh ceau.
 It's pouring.|Te teaymey.
-It is pouring with rain.|T'eh deayrtey fliaghey.
 It is pouring rain.|T'eh teaumey fliaghey.
-It is pouring rain.|T'eh deayrtey fliaghey.
-It has the appearance of rain.|Te mooirjeenagh.
 I don't think it will rain.|Er lhiam nagh geauee eh.
 We shall have rain.|Bee fliaghey ain.
 It's rainy weather.|Te jannoo emshir fliugh.
@@ -525,7 +496,6 @@ Angry sky.|Speyr voorjeenagh.
 Bitter weather.|Emshir fannee.
 Foul weather.|Earish vooar.
 Raw weather.|Emshyr ghlass.
-Rough weather.|Earish vooar.
 Rough weather.|Emshir vooar.
 Rough weather.|Emshir gharroo.
 Showery weather.|Frassaght.
@@ -597,7 +567,6 @@ The wind is settling in the east.|Ta'n gheay tannaghtyn 'sy niar.
 The wind is rising.|Ta'n gheay troggal.
 The wind is in the west.|Ta'n gheay heear.
 The wind is singing.|Ta'n gheay cronnaney.
-The wind is veering to the north.|Ta'n gheay goll seose.
 The wind is veering.|Ta'n gheay goll seose.
 The wind is turning.|Ta'n gheay garraghey.
 The wind is in the north-east.|Ta geay niar hwoaie ayn.
@@ -606,8 +575,6 @@ The wind is blowing in at the window.|Ta'n gheay cheet stiagh er yn uinnag.
 The wind is backing.|Ta'n gheay goll sheese.
 The wind is getting up.|Ta'n gheay gyrjaghey.
 The wind is in the north.|Geay hwoaie t'ayn.
-The wind is high.|Ta ram geay ayn.
-The wind is getting up.|Ta'n gheay troggal.
 The wind kept the rain off.|Dimman yn gheay y fliaghey ersooyl.
 The wind has changed.|Ta'n gheay er chaghlaa.
 It's very windy.|Te feer gheayagh.
@@ -659,7 +626,6 @@ A trout in the hand is worth two in the pool.|Ta breck 'sy laue ny share na brad
 A bird in the hand is as well as two in the bush.|Ta ushag 'sy laue chammah's jees 'sy thammag.
 Your son is your son until marriage.|Ta dty vac dty vac gys poosey.
 Your daughter is your daughter for ever.|Ta dty 'neen dty 'neen dy bra.
-It's not the cow that shouts the most that milks most.|Cha nee yn wooa smoo eieys smoo vlieaunys.
 A new broom sweeps clean.|Ta skeab noa skeabey dy glen.
 Bird in the hand is worth two in the bush.|Ta ushag 'sy laue chammah as jees 'sy thammag.
 Birds of a feather flock together.|Ta enney ec muc er muc elley.
@@ -707,7 +673,6 @@ Tell me not what I was but tell me what I am.|Ny insh dou ny va mee agh insh dou
 Give a piece to the raven and he'll come again.| Cur meer da'n feeagh as hig eh reesht.
 To thee as thou deservest.|Lhiat myr hoilliu.
 Let every bird hatch its own eggs.|Lhig da dy-chooilley ushag guirr e hoohyn hene.
-The idle hand gets nothing.|Cha vow laue ny haaue veg.
 When one poor man helps the other poor man, God Himself smiles.|Tra ta'n derrey voght cooney lesh y voght elley, ta Jee hene garaghtee.
 Make hay while the sun shines.|Jean traagh choud as ta'n ghrian soilshean.
 Keeping the bone green.|Freayll y craue glass.
@@ -758,7 +723,6 @@ He is penny-wise and pound-foolish.|T'eh ping-chreeney as punt-ommijagh.
 The pitcher goes once too often to the well.|Ta'n cruishtin goll keayrt ro vennick dys y chibbyr.
 To build castles in the air.|Troggal cashtallyn 'syn aer.
 There are two sides to every question.|Ta daa lhiattee er dagh feysht.
-Unless custom is indulged with custom, custom will weep.|Mannagh vow cliaghtey cliaghtey, nee cliaghtey coe.
 The pot is calling the kettle black.|Yn oghe g'yllagh toyn losht da'n aiee.
 As you make your bed, so must you lie.|Myr t'ou kiartagh dty lhiabbee myr shen shegin dhyt lhie.
 To seek a needle in a haystack.|Shirrey son snaid ayns creagh-traagh.
@@ -809,7 +773,6 @@ Where there is no fear there is no grace.|Raad nagh vel aggle cha vel grayse.
 Hunger will break through stone walls.|Brishee accrys trooid boallaghyn cloaie.
 Hunger is the best sauce.|S'mie yn sollagh yn accrys.
 He who acknowledges no judge condemns himself.|Eshyn nagh gow rish briw erbee t'eh deyrey eh hene.
-No one is so deaf as he who will not hear.|Cha vel fer erbee cha bouyr as eshyn nagh jean clashtyn.
 Eaten food is soon forgotten.|Ta bee eeit leah jarroodit.
 He who hatches harm catches harm.|Eshyn ghuirrys skielley hayrys skielley.
 Better the evil we know than the evil we know not.|Share yn olk shione dooin na'n olk nagh nhione dooin.
@@ -840,7 +803,6 @@ Store miser and eat little mouse.|Tasht prughag as ee lughag.
 A liar is not believed though he tells the truth.| Cha bee breagerey creidit ga dy n'insh eh yn irriney.
 A big head with little wit and a little head without any at all.|Kione mooar er y veggan cheilley as kione beg gyn veg edyr.
 He who lies with dogs rises with fleas.|Eshyn lhieys marish moddee irrys marish jarganyn.
-A silent tongue is better than saying evil.|Ta chengey ny host ny share na olk y ghra.
 Pride will have a fall.|Yiow moyrn lhieggey.
 One must take the horns with the hide.|Shegin goaill ny eairkyn marish y cheh.
 They are living a cat and dog life.|T'ad beaghey bwoalley er kayt as bwoalley er moddey.
@@ -903,7 +865,6 @@ Learn these two pages by heart.|Ynsee yn daa heu shoh liorish cree.
 
 
 *Commands|Annaghyn
-Be on your look out.|Bee er dty hwoaie.
 Be cautious off it.|Cur twoaie da.
 Be merciful.|Jean myghin er.
 Calm yourself.|Gow greim jeed hene.
@@ -970,7 +931,6 @@ Do it by all means.|Jean eh er chor erbee.
 Do it another time.|Jean eh keayrt elley.
 Do it if you must.|Jean eh my shegin dhyt.
 Do it for my sake.|Jean eh er my hons.
-Do it again.|Jean reesht eh.
 Do away with that nonsense.|Cur jerrey er y voghtynid shen.
 Don't be afraid of me.|Ny gow aggle roym.
 Don't be afraid of me.|Ny gow aggle rhym.
@@ -1172,7 +1132,6 @@ Close on nine o'clock.|Bunnys nuy er y chlag.
 At ten o'clock in the forenoon.|Ec jeih er y chlag 'sy voghrey.
 The sun is getting higher.|Ta'n ghrian gyrjaghey.
 All morning through.|Car y voghree.
-All morning.|Car y voghree.
 At noon.|Ec munlaa.
 At noon.|Er y vunlaa.
 A bit after midday.|Red beg lurg munlaa.
@@ -1254,7 +1213,6 @@ The year was wearing to its close.|V'eh tayrn er jerrey ny bleeaney.
 During Yuletide.|Er y Nollick.
 To-morrow is Christmas Day.|Ta laa ny vairagh Laa n'Ollick.
 Christmas is here.|Ta'n Nollick ayn.
-During Christmas.|Er y Nollick.
 Merry Christmas and a happy new year.|Nollick ghennal as blein vie noa.
 New Year's Eve.|Oie Nollick Veg.
 New Year's Eve.|Oie ny Bleeaney Noa.
@@ -1307,7 +1265,6 @@ Every day.|Gagh laa.
 Every couple of minutes.|Gagh cubbyl dy vinnid.
 Every Monday morning.|Gagh moghrey Jelune.
 Every few days.|Gagh reggyryn dy laghyn.
-Day after day.|Laa lurg laa.
 Night after night.|Oie er oie.
 Every other day.|Dagh ooilley cor laa.
 Every second day.|Gagh derrey laa.
@@ -1413,7 +1370,6 @@ It is growing late.|T'eh lesh yn anmys.
 It is growing dark.|T'eh keeiraghey.
 It is hailing.|T'eh ceau claghyn sniaghtee.
 It is hailing.|T'eh ceau sniaghtey garroo.
-It is going to rain.|T'eh curthooillaghey.
 It is going to clear.|Ta glenney er.
 It is going to clear.|Ta glenney ayn.
 It is growing cloudy.|T'eh moorjeeney.
@@ -1485,7 +1441,6 @@ It is in bad taste.|Cha nel eh cooie.
 It is in my possession.|T'eh aym.
 It is in my possession.|T'eh ayns my helloo.
 It is little he knows.|S'beg ta'n fys echey.
-It is likely to rain.|T'eh mooirjeenagh.
 It is merely a question of time.|Hig eh lesh traa.
 It is meet and right so to do.|S'kiart as cooie eh shen y yannoo.
 It is later than I thought.|T'eh ny s'anmagh na heill mee.
@@ -1613,7 +1568,6 @@ It is unrestricted.|T'eh gyn quing.
 It is unrestricted.|T'eh gyn cagliagh.
 It is valued at a hundred pounds.|Sheeagh keead punt eh.
 It is true to a considerable extent.|S'feer y chooid smoo jeh.
-It is turning to rain.|Ta mooirjeenys ayn.
 It is turning to rain.|T'eh ceau fliaghey.
 It is well known to me.|Surrys enn dou.
 It is well known.|T'eh dy mie er fys.
@@ -1632,7 +1586,6 @@ It is soaking.|T'eh er boggyr.
 It is superior to this.|T'eh ny share na shoh.
 It is thundering.|T'eh taarnaghey.
 It is three o'clock.|T'eh tree er y chlag.
-It is threatening rain.|T'eh mooirjeenagh.
 It is to be had.|T'eh ry-gheddyn.
 It is true.|Ta shen slane firrinagh.
 It is too deep.|T'eh ro ghowin.
@@ -1792,7 +1745,6 @@ It stirs my bile.|T'eh cur ferg orrym.
 It stinks.|T'eh breinn.
 It stopped my breath.|Ghow eh yn ennal jeem.
 It struck me dumb.|Ren eh bolvane jeem.
-It stopped raining.|Ren eh sloateil.
 It was done by him.|V'eh jeant liorish.
 It was done beautifully.|V'eh jeant dy aalin.
 It was dinning me.|V'eh dy my vouyraghey.
@@ -1837,7 +1789,6 @@ It was broken.|Vrish eh.
 It was borne.|V'eh ymmyrkit.
 It was behind me.|Cooyl aym v'eh.
 It was beyond description there.|V'eh erskyn insh ayns shen.
-It was blowing very hard.|Va ram geay ayn.
 It was blowing storm force.|Va slane dorrin ayn.
 It was beyond me.|V'eh ro ghoillee dou.
 It's pretty much the same thing.|T'eh bunnys yn 'un red.
@@ -1954,7 +1905,6 @@ It's as good as done.|T'eh er-chee jeant.
 It's as clear as mud.|Cha jinnagh peiagh erbee toiggal eh.
 It's bust.|T'eh brisht.
 It's early in the night yet.|T'eh aeg 'syn oie foast.
-It's drying now.|T'eh sloateil nish.
 It's far easier here.|T'eh foddey s'assey ayns shoh.
 It's exceedingly good.|T'eh ree-vie.
 It's enough to make your hair stand on end.|Hroggagh eh folt dty ching.
