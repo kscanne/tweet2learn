@@ -11,6 +11,7 @@ Good morning!|Maddin vie!
 Good morning!|Moghrey mie!
 Good morning!|Moghrey dhyt!
 Good night!|Oie vie!
+Good evening.|Fastyr mie.
 How are you?|Cre dty reill?
 How are you?|Kys t'ou?
 How are you?|Kanys ta shiu?
@@ -34,6 +35,10 @@ Remember me to her most affectionately.|Cur ayns cooinaghtyn mee jee lesh gien.
 My love to your children.|My ghraih da ny lhiennoo eu.
 Give my kind regards to X.|Cur my yeearreeyn share da X.
 Please, present my compliments to her.|Cur my chorp-as-slaynt huic, my sailliu.
+Send my compliments to him.|Cur my vannaghtyn da.
+Send her my wishes.|Cur corp as slaynt j'ee er my hon.
+Good luck to you.|Oorey vie ort.
+Good luck to you.|Noorey vie ort.
 
 *Questions|Keishtyn
 Have you taken leave of your senses?|Vel oo ass dty cheeall?
@@ -102,6 +107,7 @@ I am angry.|Ta mee corree.
 I am angry.|Ta corree orrym.
 Getting in a rage.|Goll er ouyl.
 Getting in a rage.|Goll cheagh.
+In a rage.|Er ouyl.
 Angry to an extreme degree.|Sproghtit.
 Angry to an extreme degree.|Jiarg-chorree.
 Never in my life did I see anything so contemptible.|Cha naik mee rieau ayns my vea red erbee cha faghidagh.
@@ -118,6 +124,15 @@ I am scared.|Ta atchim orrym.
 It gave me a scare.|Hug eh aggle orrym.
 I was a little afraid.|Va red beg d'aggle orrym.
 **Gratitude|Booise
+Thank you.|Gura mie eu.
+Thank you.|Gura mie ayd.
+Thank you - don't mention it.|Gura mie ayd - she dty vea.
+Thank you in anticipation.|Gura mie eu rolaue.
+Thank you ever so much.|Gura mie mooar ayd.
+Thank you very much.|Gura mie mooar ayd.
+Thank you very much my friend.|Gura mie mooar ayd my charrey.
+Thank you very much indeed.|Gura milley mie ayd.
+Thank you very much. You're welcome.|Gura mie mooar ayd. She dty vea.
 I am very thankful to you.|Ta mee lane kianglt booise dhyt.
 I am very thankful.|Ta mee feer vooisal.
 I am truly grateful to you.|Ta mee feer wooisal dhyt.
@@ -149,6 +164,7 @@ I am behind with the work.|Ta mee ergooyl lesh yn obbyr.
 The daily grind.|Obbyr yn laa.
 I cannot spare the time.|Cha noddym fordrail yn traa.
 I have so much to do, I shall hardly have finished by to-morrow.|Ta wheesh aym dy yannoo s'goan vees jerrey er m'obbyr liorish laa ny vairagh.
+Working like blazes.|Gobbragh gollrish y Jouyll.
 I am bored.|Ta dreeys orrym.
 
 *Physical State|Slaynt
@@ -164,6 +180,8 @@ I am not well.|Cha nel aym pene.
 I am under the weather.|Ta mee red beg ching.
 I feel sick.|Ta mee ching.
 I feel sick.|Ta mee g'ennagh ching.
+I've been ill during the last few days.|Va mee ching rish laa ny ghaa.
+I've been ill during the last few days.|Ta mee er ve ching rish laa ny ghaa.
 Fresh attack of sickness.|Teaym noa dy hingys.
 I have a disposition to catch colds.|Ta mee currit da feayraghtyn.
 I caught a cold.|Hooar mee mughane.
@@ -357,6 +375,7 @@ Cheers!|Slaynt!
 Here's to your health.|Slaynt vie.
 Here's a toast to you.|Er hoh jough laynt dhyt.
 Life and health to you.|Seihll as slaynt dhyt.
+Good health, a long life, a wet mouth, and death in Mann.|Slaynt vie, bea veayn, beeal fliugh as baase ayns Mannin.
 
 
 *Weather|Emshir
@@ -404,9 +423,11 @@ It is raining cats and dogs.|Ta thooilley ayn.
 It is raining bucketfuls.|T'eh deayrtey fliaghey.
 Drenching rain.|Fliugh-liaghee.
 Fall of rain.|Ceau fliaghee.
+Scattered showers.|Frassyn skeaylt.
 Shower of rain.|Ceau fliaghee.
 Showery day.|Laa frassagh.
 Showery day.|Laa drappanagh.
+Soaking downpour.|Fliaghey ragh trooid claare darragh.
 The rain has beaten down the corn.|Ta'n plaggad lhieggit ec y fliaghey.
 The rain flooded the river.|Hug y fliaghey yn awin harrish y broogh eck.
 The rain has cooled the air.|Ta'n fliaghey er n'eayraghey yn aer.
@@ -477,10 +498,12 @@ The thermometer stood at ninety degrees.|Va kiare feed keim as jeih dy hiass ayn
 How warm it is!|Cre cha cheh as te! Nagh cheh eh!
 This is the warmest spring I can remember.| Shoh yn arragh s'choe dy voddym cooinaghtyn.
 It's very close.|T'eh feer vreen.
+The day is very sultry.|Ta'n laa feer vreenagh.
 There is not a breath of air stirring.|Cha nel geay erbee ayn.
 **Cold and Snow|Feayr as Sniaghtey
 Driven snow.|Sniaghtey sheebit.
 Covered with snow.|Coodit lesh sniaghtey.
+The snow is drifting.|Ta'n sniaghtey sheebey.
 Fall of snow.|Ceau sniaghtee.
 The weather is on the cool side.|T'eh red beg feayr.
 I'm afraid it will snow.|Ta aggle orrym dy bee sniaghtey ain.
@@ -496,6 +519,7 @@ The snow is melting.|Ta'n sniaghtey tenniu.
 The snow lies very deep.|Ta'n sniaghtey ny lhie feer dowin.
 It is turning cold.|T'eh feayraghey.
 It's terribly cold.|Te feayr atchimagh.
+Jack Frost is out today.| Ta Eean y ghob jiarg mooie jiu.
 It's snowing in great flakes.|Ta floagyn sniaghtee mooarey ayn.
 Frosty weather.|Emshir rioeeagh.
 Long spell of cold weather.|Shayll liauyr jeh emshir feayr.
@@ -549,13 +573,17 @@ It's very cloudy.|Te feer vodjallagh.
 **Fog|Kay
 It's foggy.|Te froughagh.
 Heavy fog.|Kay chiu.
+Foggy day.|Laa kayeeagh.
 The fog persisted.|Va'n kay foast ayn.
 The fog persisted.|Hannee yn kay.
 The fog is lifting.|Ta'n frough girree.
 Dewy fog rising from the earth.|Kay ghruightoilagh veih'n ooir girree seose.
+Fog blankets the airport.|Ta kay coodaghey yn aerphurt.
 
 
 *Proverbs|Raaghyn creeney
+Work without order, work without thanks.|Obbyr gyn oardagh, obbyr gyn bwooise.
+Worry kills people quicker than work.|Ta boirey marroo sleih ny s'tappee na obbyr.
 A man's own praise never went far from his door.|Cha jagh moylley ghooinney hene rieau foddey voish.
 A liar is not to be believed even if he tells the truth.|Cha vel breagerey dy ve credjit ga dy vel eh ginsh yn irriney.
 A large heap is made from little stones.|Ta carn mooar jeant jeh claghyn beggey.
@@ -567,6 +595,7 @@ A man has his own will but a woman has her own way.|Ta aigney ec dooinney agh ta
 A trout in the hand is worth two in the pool.|Ta breck 'sy laue ny share na braddan 'sy lhingey.
 A bird in the hand is as well as two in the bush.|Ta ushag 'sy laue chammah's jees 'sy thammag.
 A bad reaper never got a good sickle.|Cha dooar rieau drogh veaynee corran mie.
+It's not the cow that shouts the most that milks most.|Cha nee yn wooa smoo eieys smoo vlieaunys.
 A new broom sweeps clean.|Ta skeab noa skeabey dy glen.
 Bird in the hand is worth two in the bush.|Ta ushag 'sy laue chammah as jees 'sy thammag.
 Birds of a feather flock together.|Ta enney ec muc er muc elley.
@@ -697,6 +726,7 @@ Lawyers grow fat on the pennies of fools.|Ta turneyryn gaase roauyr er pingyn yn
 Thou wouldst fain be numbered with the flock but thy bleat is the bleat of the goats.|S'laik lhiat ve marish y chioltane agh ta'n eamagh ayd eamagh ny goair.
 A wise man often makes a friend of his enemy.| Ta'n dooinney creeney mennick jannoo carrey jeh e noid.
 You are as impudent as a white stone.|T'ou cha daaney as clagh vane.
+Shameful leavings are worse than scandalous eating.|Ta fooillaght neareydagh ny smessey na ee scammyltagh.
 From hand to mouth.|Voish y laue gys y veeal.
 Bought wit is the best, if it be not bought too dear.|Keeal chionnit yn keeal share, mannagh vel ee kionnit ro gheyr.
 A few good cows have had bad calves.|Ta booa vie ny ghaa agh drogh lheiy eck.
@@ -799,6 +829,9 @@ The Manx language is not so easy to learn as some people imagine.|Cha nel y Ghae
 All languages are difficult to learn.|Ta ooilley chengaghyn doillee dy ynsagh.
 If you speak slowly and distinctly I can understand you, but if you speak too fast I cannot understand you.|My loayrys shiu dy-moal as dy-baghtal foddym toiggal shiu, agh my loayrys shiu ro happee cha noddym toiggal shiu.
 Put the story into Manx.|Chyndaa y skeeal ayns Gaelg.
+Teaching through Manx.|Gynsagh trooid Gaelg.
+Learn one page at least.|Ynsee un cheu ec y chooid sloo.
+Learn these two pages by heart.|Ynsee yn daa heu shoh liorish cree.
 
 
 *Commands|Annaghyn
@@ -961,6 +994,7 @@ Playing backgammon.|Cloie ec y tawlish mooar.
 Playing bridge all night.|Cloie biritch fud ny hoie.
 Playing bo-peep.|Cloie follaghey.
 Playing billiards.|Cloie billiardyn.
+Working on a book.|Screeu lioar.
 
 
 *Where?|C'raad?
@@ -968,6 +1002,7 @@ At home.|Sthie.
 At home.|Ec y thie.
 Away from home.|Ass y thie.
 Away from home.|Ass y valley.
+In the countryside.|Er y cheer.
 At the wedding.|Ec y vannish.
 At church.|'Sy cheeill.
 At school.|Ec y scoill.
@@ -976,15 +1011,20 @@ At the fair.|Ec y vargey.
 Along the seashore.|Rish oirr ny marrey.
 All over the world.|Er feie ny cruinney.
 Beside the river.|Riosh yn awin.
+Somewhere else.|Boayl ennagh elley.
 
 *When?|Cuin?
 **Time of Day|Laa
+Four o'clock in the morning.|Kiare er y chlag 'sy voghrey.
 Five o'clock in the morning.|Queig er y chlag 'syn voghrey.
+The first light of dawn.|Breckey yn laa.
 At cock-crow.|Ec gerrym y chellee.
 At cock-crow.|'Sy vadran.
+The day is dawning.|Ta'n laa dowaney.
 The sun is rising.|Ta'n ghrian g'irree.
 Close on nine o'clock.|Bunnys nuy er y chlag.
 At ten o'clock in the forenoon.|Ec jeih er y chlag 'sy voghrey.
+The sun is getting higher.|Ta'n ghrian gyrjaghey.
 All morning through.|Car y voghree.
 All morning.|Car y voghree.
 At noon.|Ec munlaa.
@@ -992,8 +1032,17 @@ At noon.|Er y vunlaa.
 A bit after midday.|Red beg lurg munlaa.
 At four p.m.|Ec kiare er y chlag 'syn astyr.
 At four o'clock sharp.|Ec bwoalley yn kiare.
+The very late afternoon.|Yn fastyr beg.
+The sun is declining.|Ta'n ghrian goll sheese.
+The sun is declining.|Ta'n ghrian goll dy lhie.
+The day is declining.|Ta'n laa goll ass.
+The sun is down.|Ta'n ghrian er n'gholl dy lhie.
 At the hour of seven.|Ec shiaght er y chlag.
+The evening arrived.|Haink yn fastyr er.
+The evening, just before dark.|Yn cheerid.
+The evening, just before dark.|Beeal ny h-oie.
 Ten o'clock at night.|Jeih er y chlag 'syn oie.
+The time for sleep has come.|Ta traa cadlee er jeet.
 At night time.|Ec yn oie.
 At night-time.|Ayns yn oie.
 At night.|'Syn oie.
@@ -1002,28 +1051,108 @@ After dark.|Lurg tuittym ny hoie.
 All night.|Fud ny hoie.
 At dead of night.|Ayns dromm ny hoie.
 The middle of the night.|Dromm ny hoie.
+**Time of Year|Blein
+New Year's Day.|Laa yn Vlein Noa.
+New Year's Day.|Laa ny Bleeaney Noa.
+It's winter now.|Ta'n geurey ayn nish.
+The dead of winter.|Yn doo-gheurey.
+In the dead of winter.|'Sy ghoolaght.
+In the dead of winter.|Ayns doo-gheurey.
+In the deep of winter.|Ayns doolagh y gheuree.
+The weather is like spring.|Ta'n earish goll-rish yn arragh.
+We've had no winter this year.|Cha nel geurey erbee er ve ain mleeaney.
+Early in the year.|Ayns toshiaght ny bleeaney.
+First Sunday in Lent.|Doonaght Innyd.
+The first breath of Spring.|Chied ghooishtey yn Arree.
+The Spring of the year.|Arragh ny bleeaney.
+Easter Sunday.|Jelune shiaullee.
+Eastertime is the time for eggs.|Ta'n Chaisht traa son oohyn.
+Easter is late this year.|Ta'n Chaisht anmagh mleeaney.
+The entry into May.|Beeal Voaldyn.
+The month of May.|Mee ny Cooagyn.
+The month of May.|Mee ny Boaldyn.
+Day of Pentecost.|Doonaght Kingeesh.
+From mid May to mid August.|Voish mean Voaldyn gys mean Luanistyn.
+The days are getting longer.|Ta ny laghyn sheeyney.
+Summer time.|Traa souree.
+Summer solstice.|Shass greiney souree.
+No wonder it's so warm, the dog-days are here.|Cha nhyrrys da ve cha cheh, ta ny laghyn-moddee ayn.
+In late summer.|Magh ayns jerrey yn touree.
+Summer is over.|Ta'n sourey harrish.
+The first touches of Autumn.|Ny chied cosoylaghtyn jeh'n Ouyir.
+The leaves are already falling.|Ta ny duillagyn hannah tuittym.
+The fall of the year.|Yn fouyr.
+The fifth of November.|Yn queigoo laa jeh Mee Houney.
+The days are getting much shorter.|Ta ny laghyn g'aase lane s'girrey.
+Winter is drawing near.|Ta'n geurey tayrn er-gerrey.
+Winter has come.|Ta'n geurey er jeet.
+The year was wearing to its close.|V'eh tayrn er jerrey ny bleeaney.
+To-morrow is Christmas Day.|Ta laa ny vairagh Laa n'Ollick.
+Christmas is here.|Ta'n Nollick ayn.
+During Christmas.|Er y Nollick.
+Merry Christmas and a happy new year.|Nollick ghennal as blein vie noa.
+New Year's Eve.|Oie Nollick Veg.
+New Year's Eve.|Oie ny Bleeaney Noa.
+New Year greetings.|Bannaghtyn y Vlein Noa.
+End of the year.|Kione ny bleeaney.
 **Past|Traaghyn Shaghey
-A long time ago.|Foddey er dy henney.
+In ancient times.|Ayns shenn traaghyn.
+In the distant past.|Foddey 'sy yoin.
+In the distant past.|Feer foddey er dy henney.
 A long time ago.|Foddey 'sy yoin 'sy yughtee.
+In olden times.|Foddey er dy henney.
+In olden days.|'Sy chenn earish.
+In the days of my grandfather.|Ayns lhing my hennayr.
+In former times.|Ayns shenn hraaghyn.
+The year before last.|Arroo y nurree.
 A year last March.|Blein roish y Vayrnt shoh chaie.
 A year ago to the very day.|Blein er dy henney gys yn laa t'ayn jiu hene.
 A while ago.|Tammylt er dy henney.
 A while ago.|Vaidjin.
 A week ago.|Shiaghtin jiu.
+Some days ago.|Kuse dy laghyn er dy henney.
+Day before yesterday.|Arroo y jea.
+Night before last.|Arroo y riyr.
 **Ongoing|Er Chosh
 At the present.|Ec yn traa t'ayn.
 At the present.|Ec yn chooyl.
+The present year.|Yn vlein shoh.
 All the year round.|Car ny bleeaney.
 All the day long.|Feiy'n laa liauyr.
 All day long.|Feiy yn laa.
 All day.|Feie'n laa.
+Day in day out.|Dagh ooilley laa t'ayn.
+Day in day out.|Laa ny yei laa.
+Day by day.|Laa lurg laa.
+Day by day.|Laa er laa elley.
+Every day.|Gagh laa.
+Every couple of minutes.|Gagh cubbyl dy vinnid.
+Every Monday morning.|Gagh moghrey Jelune.
+Every few days.|Gagh reggyryn dy laghyn.
+Day after day.|Laa lurg laa.
+Night after night.|Oie er oie.
+Every other day.|Dagh ooilley cor laa.
+Every second day.|Gagh derrey laa.
+Every three days.|Gagh tree laa.
+Every other week.|Dagh ooilley cor hiaghtin.
+Every other week.|Yn derrey shiaghtin.
+Every other Sunday.|Gagh derrey Doonaght.
+Every other day.|Yn derrey laa.
+Every now and then.|Nish as rish.
 **Future|Ry-heet
+From this time forth.|Veih'n traa shoh magh.
+From this day forward.|Veih'n laa shoh magh.
+From tomorrow onwards.|Veih laa ny vairagh magh.
+The morning after tomorrow.|Moghrey nuyr.
+Day after tomorrow.|Nuyr.
+Day after tomorrow.|Laa ny nuyr.
+The coming week.|Yn shiaghtyn shoh cheet.
+The year after next.|Yn vlein ny yei'n vlein ry heet.
 At some future date.|Laa ennagh s'odjey noon.
 
 <EOF>
 
 
-Christmas is here.|Ta'n Nollick ayn.
 Be plain with him.|Insh yn irriney da.
 Be on your look out.|Bee er dty hwoaie.
 Be in the know.|Fys er ve ec.
@@ -1057,54 +1186,8 @@ Burn something to ashes.|Leoie y yannoo jeh red ennagh.
 Burn it to ashes.|Jean leoie jeh.
 Bundle something into a corner.|Red ennagh y charnanaghey seose ayns corneil.
 Bull the market.|Kionnaghey er y leagh s'ardjey.
-Bus stop.|Stad bus.
-Burnt sugar.|Shugyr daahit.
-Burnt down to the ground.|Lostit sheese gys y thalloo.
-Bursting into bloom.|Cheet my vlaa.
-Bus station.|Stashoon barroose.
-Broken down earth hedge.|Boghlane.
-Brother in distress.|Braar fo arkys.
-Build vain hopes on something.|Treishtyn ommidjagh y chur ayns red ennagh.
-Brussel sprouts.|Buinnaghyn brussyl.
-Brought to the boil.|Currit er cloie.
-Both he and I went home.|Hie shin dy valley, eh hene as mee hene.
-Both ends together.|King ry cheilley.
 Both these stories must be told.|Shegin da'n daa skeeal shoh goll er insh.
 Both you and I.|Chammah uss as mish.
-Both women and children.|Chammah mraane as paitchyn.
-Boat swung out.|Baatey croghit harrish boayrd.
-Board of Education.|Boayrd Ynsee.
-Boat that follows the coast.|Baatey ta shiaulley rish y choose.
-Body linen.|Eaddagh kirpey.
-Bodily needs.|Femeyn callinagh.
-Drink that makes the throat raw.|Jough scoaldagh.
-Dress the children as quickly as you can.|Cur mysh ny paitchyn cha tappee as oddys oo.
-Dress shirt.|Lheiney chreoi.
-Dress length.|Peesh gooyn.
-Dress yourself quickly.|Cur mood dy tappee.
-Dried fruit.|Mess chirrym.
-Dressed with taste.|Coamrit lesh briwnys.
-Dress yourselves.|Cur miu.
-Drink with a kick in it.|Jough as ram bree ayn.
-Driver's seat.|Soiag yn immanagh.
-Drive in a wedge.|Jeenys y chur dy valley.
-Drive in a pile.|Peel y 'haih stiagh.
-Drag it here.|Tayrn eh dys shoh.
-Draught of medicine.|Jough lheeys.
-Drawn sword.|Cliwe lommyrtagh.
-Drawn to scale.|Tayrnit rere scaailley.
-Dregs of humanity.|Boanlagh ny theayee.
-Drawer pull.|Tayrneen.
-Draw a line.|Sheeynag y hayrn.
-Draw a line.|Linney y hayrn.
-Due north.|Twoaie jeeragh.
-During Christmas.|Er y Nollick.
-During all his life.|Ayns ooilley'n seihll echey.
-During aeons.|Car millioonyn dy vleeantyn.
-During the harvest.|Car yn ouyir.
-During the day.|Feie'n laa.
-During her periods.|Tra ta ny coorsyn urree.
-Drop me at my house.|Faag mee ec my hie.
 Drop him a line sometime.|Screeu rish traa ennagh.
 Drop over and see us.|Tar noal lesh shilley orrin.
 Don't meddle with it.|Ny cur eie er.
@@ -1140,51 +1223,10 @@ Don't keep him waiting.|Ny cur ersyn dy fuirraghtyn.
 Don't intrude on her just now.|Ny brish stiagh urree kiart nish.
 Don't go so far.|Nar immee choud.
 Don't fret.|Ny gow ort.
-Don't forget to come on Tuesday.|Ny jean jarrood cheet Jemayrt.
-Don't force the engine.|Ny jean sheeyney yn jeshaght.
-Don't go down.|Ny gow sheese.
 Don't go and let on that I was there.|Nar insh dy row mish ayn.
-Double-dyed rogue.|Jiarg-vitchoor.
-Double-breasted jacket.|Jaggad ghooblit.
-Double whiskey.|Dram d'ushtey bea.
-Double-pole switch.|Slattag ghaaphoullagh.
-Down our way.|Heese yn raad ain.
-Down our way.|'Syn ard ain.
-Down the river.|Sheese yn awin.
-Down to recent times.|Neose gys y traa t'ayn jiu.
-Down to here.|Neose gys shoh.
-Down there.|Heese ayns shen.
-Down our way.|'Sy cheer ain.
-Dovetail together.|Fee ry-cheilley.
-Douglas versus Castletown.|Doolish noi Balley Chashtal.
-Down an aeroplane.|Etlan y chur neose.
-Down line.|Yn raad sheese.
-Down in the country.|Heese er y cheer.
-Down here.|Ayns shoh wass.
-Done to a T.|Coagyrit dy bollagh.
-Done.|Ec kione.
-Done.|Aarloo.
-Don't tumble my hair.|Ny mill m'olt.
 Don't trouble to write.|Ny jean screeu hym.
 Don't upset yourself.|Ny gow er.
-Don't waste your food.|Ny jean brockey dty vee.
 Don't use such terms to me.|Ny loayr myr shen rhym.
-Done up to kill.|Coamrit gys peccah.
-Doss down.|Ny craueyn y heeyney.
-Doss down.|Fow thie lhiabbagh.
-Doorjamb.|Keeil dorrysh.
-Dot the i's.|Ponck y chur er ny h-i-aghyn.
-Double as long as this.|Daa cheayrt cha liauyr as shoh.
-Double a note.|Notey y ghooblaghey.
-Dots and dashes.|Ponkyn as skilleigyn.
-Every day.|Gagh laa.
-Every couple of minutes.|Gagh cubbyl dy vinnid.
-Every Monday morning.|Gagh moghrey Jelune.
-Every few days.|Gagh reggyryn dy laghyn.
-Ever since.|Rieau er dy henney.
-Ever before.|Rieau roie.
-Ever and anon.|Nish as rieau.
-Ever since then.|Rieau neayr's shen.
 Ever so long ago.|Foddey rieau er dy henney.
 Enquire how they got it.|Fenee fys hooar ad eh.
 Even now.|Nish hene.
@@ -1193,106 +1235,16 @@ Ere long.|My jig ny voddey.
 Ere he die.|Roish my vow eh baase.
 Ere he comes.|Roish my jig eh.
 Ere night.|My jig yn oie.
-Every one of us.|Dagh ooilley 'er j'in.
-Every one.|Dagh unnane.
-Every now and then.|Ny cheayrtyn.
-Every other day.|Dagh ooilley cor laa.
-Every other week.|Dagh ooilley cor hiaghtin.
-Every other Sunday.|Gagh derrey Doonaght.
-Every other day.|Yn derrey laa.
-Every now and then.|Nish as rish.
 Every man for himself.|Dagh ooilley ghooinney er e hon hene.
-Every man.|Dagh ooilley ghooinney.
-Every means.|Dagh vod.
-Every mother's son.|Gagh mac mayrey.
-Every modern convenience.|Gagh cooieid noa-emshyragh.
-Every minute counts.|Cha nel minnid ry-choayl.
-Every other week.|Yn derrey shiaghtin.
-Every second day.|Gagh derrey laa.
-Every three days.|Gagh tree laa.
-East of the island.|Cheu hiar jeh'n ellan.
-Easter Sunday.|Jelune shiaullee.
-Easter is late this year.|Ta'n Chaisht anmagh mleeaney.
-East wind.|Geay niar.
-Easily led.|So-choyrlaghey.
-Ease the engine.|Lhaggee yn greie.
-Earthly paradise.|Pargys er y theihll shoh.
-Ease the engine.|Lhaggee yn innyl.
-Easily broken.|Brishlagh.
-Easier said than done.|S'aasey dy ghra na dy yannoo.
-Ease the helm.|Lhig neose ee.
-Easterly course.|Coorse shiar.
-Eaten up with pride.|Eeit seose lesh moyrn.
-Eaten food is forgotten.|Ta bee eeit jarroodit.
-Easy to get on with.|Soccaragh.
-Eddy currents.|Strooghyn eeiree.
-Editorial staff.|Fwirran reagheydys.
-Edged tool.|Yiarn giarree.
-Edge of the sea.|Oirr ny marrey.
-Easy to find.|So-feddyn.
-Eastertime is the time for eggs.|Ta'n Chaisht traa son oohyn.
-Easterly wind.|Geay niar.
-Easterly current.|Troa niar.
-Easy done.|Jeant dy aashagh.
-Easy style.|Aght rea.
-Easy paced horse.|Cabbyl dy vel shooyl rea lesh.
-Easy life.|Bea soccoil.
 During Yuletide.|Er y Nollick.
-During the year.|Car ny bleeaney.
-Dutiful son.|Mac ammyssagh.
 Each day.|Gagh laa.
 Each alternate week.|Dagh ooilley chor-shiaghtin.
-Dwarf tree.|Crouw.
 During the winter.|Car y gheuree.
 During the late afternoon.|Anmagh er yn astyr.
-During the last few years.|Rish reggyryn dy vleeantyn shoh chaie.
-During the king's pleasure.|Choud's saillish yn ree.
-During the night.|Fud ny h-oie.
 During the summer.|Car y touree.
-Each of them.|Dagh fer jeu.
 Early Spring.|Arragh gheuree.
 Early last evening.|Fastyr jea.
-Early to the lake, late to the river.|Moghey da'n logh, anmagh da'n awin.
-Earnest request.|Jeean-aghin.
-Early vegetables.|Lossreeyn leah.
-Early vegetables.|Glassreeyn toshee.
-Early in the year.|Ayns toshiaght ny bleeaney.
-Each thing.|Dagh unnane.
-Each thing.|Dagh red.
-Each of them.|Dagh fer oc.
-Early age.|Eash veg.
-Early in season.|Dy traa.
-Early closing day.|Yn lieh-laa.
-Enclosed shape.|Cummey doont.
-Emulsion paint.|Peint vluightoil.
-Emergency ration.|Lowanse eignagh.
-Elevation above sea level.|Yrjid erskyn y cheayn.
-End of the year.|Kione ny bleeaney.
 Don't be so cut up about it.|Ny ghow ort wheesh my e chione.
-Cutaneous reaction.|Freggyrt crackanagh.
-Cut-short.|Cuttagh.
-Cut with a knife.|Giarrey lesh skian.
-Cutlet frill.|Robbee pabyr.
-Day after day.|Laa lurg laa.
-Day before yesterday.|Arroo y jea.
-Day after tomorrow.|Nuyr.
-Day after tomorrow.|Laa ny nuyr.
-Deep shelf.|Skelloo lhean.
-Deep sea fishery.|Eeastagh ny marrey mooar.
-Deep sleep.|Cadley trome.
-Deep-sea fishing.|Eeastagh ny marrey mooar.
-Deep-sea fishing.|Eeastagh mooar-varrey.
-Day off.|Laa seyr.
-Days of his life.|Laghyn e heihll.
-Daylight is failing.|T'eh conghorraghey.
-Day off.|Laa jeh.
-Day in day out.|Dagh ooilley laa t'ayn.
-Day by day.|Laa lurg laa.
-Day by day.|Laa er laa elley.
-Day in day out.|Laa ny yei laa.
-Day of service.|Laa booney.
-Day of Pentecost.|Doonaght Kingeesh.
-Day of doom.|Laa mooar ny briwnys.
 Dead calm.|Kiuney vooar.
 Dead tired.|Cha skee as moddey.
 Dead stop.|Sthap marroo.
@@ -1308,17 +1260,6 @@ Dead drunk.|Slane er meshtey.
 Dead hedge.|Faal chirrym.
 Dead of night.|Trimshey ny hoie.
 Dead of night.|Dromm ny hoie.
-Constructive total loss.|Lane-cailjynys.
-Conspicuous gallantry.|Dunnallys harrish yn chadjin.
-Constructive works.|Obbraghyn troggee.
-Continued next week.|Tooilley 'sy chiaghtin shoh cheet.
-Continued in the next column.|Farraghtyn 'sy nah cholloo.
-Consult your own convenience.|Jean rere dty chaays hene.
-Consider it seriously.|Smooinee dy dowin er.
-Considering that.|Goaill tastey jeh shen.
-Considerable amount of money.|Sym geiltagh d'argid.
-Contrary to law.|Anleighagh.
-Control yourself.|Gow greim jeed hene.
 Compliments of the season to you.|Corp as slaynt yn imbagh diu.
 Do it slowly.|Jean eh ass dt'aash.
 Do it over again.|Jean reesht eh.
@@ -1353,12 +1294,9 @@ Do as well as you can.|Jean dty chooid share.
 Do as you desire.|Jean myr saillt hene.
 Do it by all means.|Jean eh er chor erbee.
 Do it another time.|Jean eh keayrt elley.
-Do it equally.|Jean eh dy corrym.
-Do it in chorus.|Jean eh cooidjagh.
 Do it if you must.|Jean eh my shegin dhyt.
 Do it for my sake.|Jean eh er my hons.
 Do it again.|Jean reesht eh.
-Do away with the trees.|Lhiegg ny biljyn.
 Do away with that nonsense.|Cur jerrey er y voghtynid shen.
 Don't be afraid of me.|Ny gow aggle roym.
 Don't be afraid of me.|Ny gow aggle rhym.
@@ -1367,33 +1305,10 @@ Don't be racing the horse.|Ny bee roie y cabbyl.
 Don't be cross with me.|Ny bee corree rhym.
 Do the job thoroughly.|Jean y staartey dy slane.
 Discard that idea.|Jioold yn eie shen.
-From the west.|Neear.
-From the wall.|Jeh'n voalley.
-From the twelfth century downwards.|Veih'n nah eash jeig neose.
-From there.|Veih shen.
-From time immemorial.|Er dy rieau.
-From this time forth.|Veih'n traa shoh magh.
-From this day forward.|Veih'n laa shoh magh.
-From the outset.|Veih'n toshiaght.
-From the bottom of my heart.|Veih diunid my chree.
-From the beginning of the world.|Er dyn toshiaght y theihll.
-From the east.|Niar.
-From the morning to the night.|Veih'n voghrey gys yn oie.
-From the grass roots.|Voish bun ny cheerey.
-From the first.|Veih'n toshiaght.
-From tomorrow onwards.|Veih laa ny vairagh magh.
-From within.|Veih'n cheusthie.
-From underneath.|Neese voish.
-From top to bottom.|Voish bun gys baare.
-From year's end to year's end.|Voish kione gys kione ny bleeaney.
-Generally speaking.|Trooid as trooid.
 Gather your thoughts.|Cruinnee dty smooinaghtyn.
-From that day on.|Veih'n laa shen magh.
 Fortnight ago.|Kegeesh er dy henney.
 Forget about it.|Jarrood eh.
-Forgive us our sins.|Leih dooin nyn beccaghyn.
 Form into line.|Strane y yannoo.
-Four o'clock in the morning.|Kiare er y chlag 'sy voghrey.
 From end to end of the ship.|Veih kione dys kione jeh'n lhong.
 From early times.|Voish ny traaghyn toshee.
 From day to day.|Veih laa dy laa.
@@ -1401,7 +1316,6 @@ From eternity.|Er dy rieau.
 From place to place.|Veih boayl dy boayl.
 From start to finish.|Voish toshiaght gys jerrey.
 From that day forward.|Veih'n laa shen magh.
-From mid May to mid August.|Voish mean Voaldyn gys mean Luanistyn.
 From now on.|Veih'n traa shoh magh.
 Fresh air.|Aer ghlen.
 Give us a song.|Cur arrane dooin.
@@ -1526,47 +1440,16 @@ Give a hint.|Fraaue y chur da peiagh.
 Give a fish plenty of line.|Mooarane rimlagh y chur da eeast.
 Give a double knock.|Daa vuilley y choyrt ny yei y cheilley.
 Give an impulse to.|Bree y chur ayns.
-Give him a shove off.|Cur seiy magh da.
-Give him a poke in the ribs.|Cur brod da er e asnaghyn.
-Give him a lift home.|Cur markiaght thie da.
-Give him his due.|E chair hene y chur da.
-Give him his.|Cur e chooid da.
-Give him his.|Cur da yn fer echey.
-Give him a free hand.|Cur e chione echey hene da.
-Give her hers.|Cur jee e cooids.
-Give her a fright.|Cur aggle urree.
-Give countenance to.|Red y chredjal.
-Give her my condolences.|Abbyr r'ee dy vel mee cocheayney maree.
-Give him a drink.|Cur jough da.
-Give him a call tomorrow.|Cur shilley er mairagh.
-Give her my regards.|Cur my vannaghey j'ee.
-Finish your drink.|Iu dty yough.
-Fire a salute.|Curteish y skeaylley.
 Fetch it here.|Cur lhiat wass eh.
 Fetch a blow.|Builley y choyrt da.
 Fetch up at a port.|Purt y roshtyn.
-Few of the flock.|Reggyryn jeh'n chioltane.
-Few more.|Tooilley.
-Few more.|Beggan elley.
-Fill it up.|Lhieen seose eh.
-Fill in the date.|Cur y dait stiagh.
-Fast worker.|Gaskeydagh.
-Face this way.|Cur dt'eddin myr shoh.
-Face it.|Yn oaie y chur er.
-Face up.|Eddin heose.
-Face uppermost.|Eddin er ardjid.
-Face up to it.|Cur dt'oaie rish.
 Excuse me.|Jean my leshtal.
 Excuse me.|Gow my leshtal.
 Excuse my being late.|Gow my leshtal son ve anmagh.
-Far in the remoteness of time.|Foddey 'sy yoin.
 Far into the night.|Anmagh 'syn oie.
 Far into the night.|Magh 'syn oie.
 Far into the night.|Foddey magh 'syn oie.
 For God's sake.|Son graih Yee.
-For ever and ever.|Son dy bragh as dy bragh.
-For ever.|Er dy rieau.
-For ever.|Choud's nee booa keck 'sy vargey.
 For many a long day.|Rish shimmey'n laa foddey.
 For many a long year.|Rish ymmodee bleeantyn.
 For a long time.|Rish foddey dy hraa.
@@ -1575,92 +1458,8 @@ For the past few days.|Rish ny laghyn jerrinagh shoh.
 For some length of time.|Rish tammylt.
 For the better part of the day.|Son y chooid smoo jeh'n laa.
 For the love of God.|Er graih Yee.
-Fit a handle to a broom.|Cur lauraghan ayns skeab.
-Fit of nerves.|Lheenree.
-Fit of coughing.|Teaym chassaghtee.
-Fit a handle to the knife.|Cur cass 'sy skynn.
-Five or six years.|Queig ny shey dy vleeantyn.
-Five thousand men out of employment.|Queig thousane deiney gyn obbyr.
-Five pound note.|Pabyr queig punt.
-Five percent.|Queig 'sy cheead.
-First and foremost.|Hoshiaght.
-First aid outfit.|Cullee chied chouyr.
-First come, first served.|Hoshiaght cheet, hoshiaght goll.
-First quarter of the moon.|Kerroo eayst.
-First of all.|Yn chied red.
-First milk after calving.|Bainney nooys.
-Fire machines.|Greienyn ailey.
-Fire broke out in the barn.|Hie yn soalt er aile.
-Fire rake.|Corlaig aile.
-Fireside tales.|Skeealyn keeil chiollee.
-Fire-escape.|Greeish aile.
-Fire shooting out of the window.|Aile deayrtey magh ass yn uinnag.
-First rising of the spring tide after neap.|Bioghey-roayrt.
-First Sunday in Lent.|Doonaght Innyd.
-First tier box.|Kishtey yn chied laare.
-Fish-hook.|Dooan.
-Fish struggling in the net.|Eeast strepey 'sy lhieen.
-Fish of the salmon kind.|Eeast jiargey.
-Fly the Manx flag.|Crogh y brattagh Manninagh.
-Fly a flag.|Brattagh y chroghey.
-Flush with the door.|Corrym rish y dorrys.
-Fold your hands.|Fill dty laueyn.
-Fold it back.|Fill er ash eh.
-Fodder jury.|Bing foddyragh.
-Foggy Spring.|Arragh kayeeagh.
-Foggy day.|Laa kayeeagh.
-Fog blankets the airport.|Ta kay coodaghey yn aerphurt.
-Fleecy clouds.|Bodjallyn clooieagh.
-Flesh of ling.|Feill vart ny marrey.
-Fleet of warships.|Lhuingys chaggee.
-Flat-footed.|Spaagagh.
-Flap valve.|Cooylley-rap.
-Flanked by two bottles of wine.|Eddyr daa voteil dy feeyn.
-Floor swimming in blood.|Laare baiht ayns fuill.
-Floor polish.|Follid laare.
-Flotsam cast up on the shore.|Mooirchooraghyn ceaut er y traie.
-Flower garden.|Garey blaa.
-Flower arrangement.|Jeshaghey blaaghyn.
-Flour is going up in price.|Ta'n flooyr girree.
-Flood tide.|Roayrt.
-Float a loan.|Eeasaght y chur er y vargey.
 Guess the riddle if you can.|Feayshil y raa dorraghey my oddys oo.
-Hair in ringlets.|Folt skeogagh.
-Hail Mary.|Dy bannee dhyt y Voirrey.
-Hail down curses on.|Mynnaghyn mollaght y cheau neose er.
-Hair in ringlets.|Folt skiogagh.
-Hair stiff with grease.|Folt roauyr lesh smarrey.
-Hair of the dog that bites you.|Lheeys y phott.
-Hair net.|Ingagh fuilt.
 Had I but known.|Dy beagh fys er ve aym.
-Guilty of murder.|Kyndagh rish dunverys.
-Gutpock herring.|Skeddan gailley.
-Had he not been with us.|Erbey dy row eh er ve marin.
-Half an hour.|Lieh oor.
-Half one thing and half another.|Lieh feill as lieh eeast.
-Half wittingly, half under compulsion.|Eddyr mian as egin.
-Half laughing, half crying.|Eddyr garaghtee as keayney.
-Good evening.|Fastyr mie.
-Good for Mann, good for Ireland.|Mie Mannin, mie Nerin.
-Good for a pound.|Feeu punt.
-Good fishing.|Eeastagh mie.
-Gone out of use.|Naggyr.
-Good beyond everything.|Mie er bashtal.
-Good deal.|Dellal mie.
-Good country for corn.|Thalloo mie son arroo.
-Good conduct.|Jeih-ymmyrkey.
-Good for two months.|Shassoo rish daa vee.
-Good man.|Dooinney mie.
-Good luck to you.|Oorey vie ort.
-Good luck to you.|Noorey vie ort.
-Good man.|Jeih-ghooinney.
-Good meal without frills.|Lhongey mie fegooish yn frea.
-Good management.|Tarmaynys.
-Good job.|Thurn mie.
-Good investments.|Argid baiht dy mie.
-Good health, a long life, a wet mouth, and death in Mann.|Slaynt vie, bea veayn, beeal fliugh as baase ayns Mannin.
-Good layer.|Breyder.
-Good listener.|Cleaysh liauyr.
 Good on you.|Noorey vie ort.
 Good name.|Goo mie.
 Have a go at it.|Cur dty laue rish.
@@ -1668,73 +1467,15 @@ Have enough for one's material needs.|Rere dty chooid heilltagh y ve ayds.
 Have one's doubts about.|Drogh ourys er ve ec mychione.
 Have nothing to do with those gentry.|Ny benn rish yn sleih shen.
 Have no fear.|Ny bee aggle ort.
-Head downwards.|Kione fo.
-Head down a tree.|Baare billey y phollal.
-Head a chapter with certain words.|Focklyn ennagh y chur erskyn cabdil.
-Head sea.|Tonnyn toshee.
-Headlong fall.|Lhieggey gour y ching.
-Heart of flint.|Cree cloaie.
-Hear my prayer.|Eaisht rish my ghuee.
 Hear me out.|Eaisht rhym.
-Heart strain.|Chennid chree.
-Hearty goodnight.|Oie vie my chree dhyt.
-Hearty eater.|Eeder soogh.
-Heart valve.|Cooylley-chree.
-Hear a piece of news.|Naight y chlashtyn.
-Healthy appetite.|Gailley mie.
-Headstrong person.|Raghtane.
-Heads and tails.|Oaieyn as cooylyn.
-Heap of seaweed.|Thorran amlee.
-Heaps of times.|Dy mennick.
-Heaped measure.|Towse chummit.
-Henpecked husband.|Pittane.
-Hen pigeon.|Kirk chalmane.
-Hempen rope.|Tead kennipey.
-Hemp cloth.|Eaddagh kennipey.
-Hence and thence.|Noon as noal.
-Henpecked husband.|Fer ta fo ordaag e ven.
-Henhead knot.|Cront kione kirkey.
-Hence his anger.|Shen y fa e chorree.
 Help yourself.|Cooin lhiat hene.
 Here is the point.|Shoh'n cheisht.
-Here is the point.|Shoh'n feysht.
 Here's something new.|Er hoh red ennagh noa.
 Hold your head up.|Trog dty chione.
 How kind it is of you.|Cre cha dooie as ta shiu.
 How good it is.|S'mie eh.
 If you will only be patient.|My vees oo agh surransagh.
 If you were more modest.|Dy beagh oo ny s'fastee.
-In a sorry state.|Ayns stayd moal.
-In a short time.|Ayns tammylt beg.
-In a second.|Ayns tullagh.
-In a split second.|Ayns meekey sooilley.
-In a strange land.|Ayns cheer yoarree.
-In a moment.|Ayns shallid.
-In a little while.|Foast tammylt beg.
-In a moment.|Er y chooyl.
-In a rage.|Er ouyl.
-In a precautionary measure.|Er aght ouryssagh.
-In a parallel direction.|Ayns co hroa rish.
-In a trance.|My neealloo.
-In addition to his wages.|Myr bishaght er y faill echey.
-In addition.|Ny s'odjey na shen.
-In accordance with the law.|Rere yn leigh.
-In all my existence.|Ayns ooilley yn seihll aym.
-In after years.|Ayns ny bleeantyn ta ry heet.
-In addition to that.|Ny smoo na shen.
-In a very small way.|Er aght feer veg.
-In a very low degree.|Ass cooid y veggan.
-In a trice.|Ayns meekey-sooilley.
-In a week or so.|Ayns shiaghtin ny myr shen.
-In a word.|Dy yannoo skeeal giare jeh.
-In a whisper.|Myr hannish.
-In a week's time.|Ec kione shiaghtin.
-In a hurry.|Siyragh.
-In a hurry.|Jeean.
-In a few minutes.|Ayns reggyryn dy vinnidyn.
-I've had my fill.|Ta my haie aym.
-I've been ill during the last few days.|Va mee ching rish laa ny ghaa.
-I've been ill during the last few days.|Ta mee er ve ching rish laa ny ghaa.
 I've got it.|T'eh aym.
 If I am not mistaken.|Mannagh vel marranys orrym.
 If all goes well.|My vees ooilley dy mie.
@@ -1753,24 +1494,11 @@ In past times.|Ayns traaghyn t'er ngholl shaghey.
 In the literal sense of the word.|Ayns keeall chiart yn 'ockle.
 In the future.|'Sy traa ta ry-heet.
 In the daytime.|'Sy laa.
-In the days of my grandfather.|Ayns lhing my hennayr.
-In the dead of winter.|'Sy ghoolaght.
-In the deep of winter.|Ayns doolagh y gheuree.
-In the dead of winter.|Ayns doo-gheurey.
-In the countryside.|Er y cheer.
-In ancient times.|Ayns shenn traaghyn.
-In the distant past.|Foddey 'sy yoin.
-In the distant past.|Feer foddey er dy henney.
-In olden times.|Foddey er dy henney.
-In olden days.|'Sy chenn earish.
-In former times.|Ayns shenn hraaghyn.
 In the desert.|'Syn aasagh.
 In the depth of winter.|Ayns y doo-gheurey.
 In another ten years.|Ayns jeih bleeaney.
 In the distant future.|'Sy traa liauyr ry heet.
 In good humour.|Ayns gien mie.
-In late summer.|Magh ayns jerrey yn touree.
-I'll take all four.|Gowym yn kiare ooilley cooidjagh.
 I'll attend to you just now.|Bee'm hood kiart nish.
 I'll be alright.|Chan aggle dou.
 I'll be indulgent this time.|Neeym lhiggey lesh y cheayrt shoh.
@@ -1787,11 +1515,6 @@ I'll bet you anything you like.|Verym gioal er ooilley ny t'ayn.
 I'll be on the ground just now.|Beeym er y thalloo nish hene.
 I'll call on you to speak.|Verym ort dy loayrt.
 I'll bring the book tomorrow.|Verym lhiam y lioar mairagh.
-I'll see him damned first.|Bare lhiam y jouyll dy ghoaill eh.
-I'll repay him with interest.|Verym towse my laue da as tooilley.
-I'll see him no more.|Cha vaikym arragh eh.
-I'll see him off at the station.|Faagym my vannaghtyn er ec y stashoon.
-I'll race you to the house.|Roieym oo gys y thie.
 I'll meet you halfway.|Scoltym yn anchaslys mayrt.
 I'll make it do.|Neeym jannoo lesh.
 I'll never be up here again.|Cha beeym dy bragh heose ayns shoh reesht.
@@ -2429,13 +2152,11 @@ It's only a drop in the bucket.|Cha nel eh agh soo-hallooin ayns beeal assyl.
 It's not worth mentioning.|Cha nel eh feeu cheet er.
 It's not to be seen.|Cha nel eh ry akin.
 It's not to be got.|Cha nel eh ry-gheddyn.
-It's not the cow that shouts the most that milks most.|Cha nee yn wooa smoo eieys smoo vlieaunys.
 It's not up to much.|Cha nel eh feeu monney.
 It's not worth a penny.|Cha neeagh ping eh.
 It's not worth a brass farthing.|Cha n'eeu eh ushtey ny braase.
 It's not very easy.|Cha nel eh feer aashagh.
 It's time to push on.|T'eh traa dy immeeaght.
-Jack Frost is out today.| Ta Eean y ghob jiarg mooie jiu.
 It's unpopular with them.|Cha mie lhieu eh.
 It's very wrong of you to say it.|T'eh feer aggairagh dhyt shen y raa.
 It's natural enough.|T'eh dooghyssagh dy liooar.
@@ -2545,7 +2266,6 @@ Mind you own business.|Cur arrey da dty churrym hene.
 May he rest in peace.|Shee Yee da'n annym echey.
 May God prosper you.|Dy bishee Jee shiu.
 May was in its pride.|Va'n Boaldyn my vlaa.
-Merry Christmas and a happy new year.|Nollick ghennal as blein vie noa.
 Meet me there.|Tar my whail ayns shen.
 My money is at an end.|Ta'n argid aym ceaut.
 My mind misgives me.|Ta drogh ourys orrym.
@@ -2622,8 +2342,6 @@ Pain in stomach.|Gailley ching.
 Out in the fresh air.|Mooie fo'n aer.
 No, not a bit.|Cha nel er chor erbee.
 Nobody spoke to me.|Cha loayr peiagh erbee rhym.
-Night after night.|Oie er oie.
-Night before last.|Arroo y riyr.
 Not material to the point in question.|Nagh vel bentyn da'n chooish.
 Not under any circumstance.|Cha nee er chor erbee.
 Not particularly.|Cha nel monney.
@@ -2638,11 +2356,6 @@ Not here.|Cha nee ayns shoh.
 Not a sound was heard.|Cha row sheean ry chlashtyn.
 Neither do I take any notice of you.|Chamoo ta mish cur geill dhyt.
 Neither you nor I know.|Cha nel fys ayds ny ayms.
-New Year's Day.|Laa yn Vlein Noa.
-New Year's Day.|Laa ny Bleeaney Noa.
-New Year greetings.|Bannaghtyn y Vlein Noa.
-New Year's Eve.|Oie Nollick Veg.
-New Year's Eve.|Oie ny Bleeaney Noa.
 Next year.|Yn vlein ry heet.
 Next week.|Yn chiaghtin shoh cheet.
 Never look a gift horse in the mouth.|Ny fow foill ayns red hooar oo nastee.
@@ -2697,731 +2410,32 @@ Please let me know.|Cur fys hym my sailt.
 Please answer immediately.|Freggyr chelleeragh my sailliu.
 Please accept my compliments.|Gow corp as slaynt voym my sailliu.
 Set your heart at rest.|Ny bee imneagh.
-Set in train.|Toshiaghey.
-Set in rows.|Roaghey.
-Set him on his road.|Cur eh er e hoshiaght.
-Set it going.|Cur eh fo raad.
-Set it down in black and white.|Screeu eh.
-Set it down here.|Soie eh sheese ayns shoh.
-Set it alight.|Foadd eh.
-Set him at the table.|Soie eh ec y voayrd.
-Set a ship afloat.|Lhong y chur 'syn ushtey.
-Set a ship afloat.|Lhong y chur 'sy cheayn.
-Set a man to work.|Dooinney y chur ec obbyr.
-Set a ship afloat.|Lhong y chur gys yn aarkey.
-Set him at liberty.|Feayshil eh.
-Set against.|Cur noi.
-Set a snare.|Lhoob y chuirrey.
-Set it lower.|Cur ny s'injley eh.
-Set solid.|Currit seose dy gloo.
-Set out words.|Reamys y chur eddyr ny focklyn.
-Set on fire.|Foaddey.
-Set something bottom upwards.|Red ennagh y chur bun ry skyn.
-Set square on its base.|Soit corrym er y vun.
-Set square.|Dronvaccart.
-Set spurs to your horse.|Ny spuirryn y choyrt da dty chabbyl.
-Set of weights.|Fwirran meihaghyn.
-Set of books.|Ymlioar.
-Set it upright.|Cur ny hassoo eh.
-Set it to a tune.|Cur carr er.
-Set of rooms.|Strane shamyryn.
-Set of the sun.|Lhie ny greiney.
-Set of the moon.|Lhie ny heayst.
-Set of teeth.|Straih feeacklyn.
-Shameful leavings are worse than scandalous eating.|Ta fooillaght neareydagh ny smessey na ee scammyltagh.
-Rolling in wealth.|Baiht 'syn argid.
-Romance of the sea.|Druaightys ny marrey.
-Room barely furnished.|Shamyr ghoan lesh chooid hie.
-Roof of mouth.|Carbad.        
-Ronaldsway airport.|Purt Aeragh Roonysvaie.
-Root of the tongue.|Bun ny chengey.
-Rough vellum.|Crackan screeuee garroo.
-Rough to the feel.|Garroo da'n ennaghtyn.
-Rough sieve.|Creear garroo.
-Rough diamond.|Daiman neuyiarrit.
-Rose wine.|Feeyn ruissagh.
-Rope of two strands.|Tead daa 'illey.
-Rope of three strands.|Tead tree filley.
-Rotational symmetry.|Shimmeadraght chyndaae.
-Rouge one's cheeks.|Jiarg y chur ort.
-Rouge one's cheeks.|Dty lieckanyn y yiargaghey.
-Rotten wood.|Musthane.
-Road up.|Raad goll er karragh.
-Road transport.|Ymmyrkey bayrey.
-Road traffic.|Traaght raad.
-Roads.|Raaidyn.
-Roast meat.|Feill rostit.
-Roaring fire.|Aile lheimmagh.
-Roads cut up with the rain.|Raaidyn goit ec y fliaghey.
-Road to the mountain.|Giat.
-Road closed to motor traffic.|Raad doont da gleashtanyn.
-Riverside police.|Poleenyn awiney.
-Road repairs.|Karraghyn bayr.
-Road that runs along the river.|Bayr ta sheeynt rish yn awin.
-Road that lies between two hills.|Raad ta goll eddyr daa chronk.
-Road stopped.|Raad doont.
-Roll of honour.|Rolley ny fenee.
-Rogation days.|Laghyn ny rogaid.
-Rogation days.|Laghyn ny haghinyn.
-Rolled steel.|Staillin rollit.
-Rolling his eyes.|Cassey e hooillyn mygeayrt.
-Rolling from side to side.|Leaystey.
-Rolling down hill.|Rowlal neose y chronk.
-Rocky place.|Borrane.
-Rock salt.|Sollan meainey.
-Rock abounding in cormorants.|Creggyn scarrooagh.
-Robot traffic lights.|Traghthoilshaghyn robot.
-Rocket signal.|Cowrey roggad.
-Rocky ground.|Skreg.
-Rocky bottom.|Grunt garroo.
-Rocking the house.|Craa yn thie.
-Seemingly alive.|Bioysagh.
-Seeking tips.|Dooraghtagh.
-Seeking shelter.|Shirrey fastee.
-Seine net.|Saihan.
-Seise with an estate.|Fo-hellooderys er stayd y chur da.
-Seeking intelligence about.|Goll er vriaght lurg.
-Seeing is believing.|She my ghaa hooill honnick eh.
-See you soon again.|Heeym oo dy gerrid.
-Seeing that you have done that.|Fakin dy vel oo er n'yannoo shen.
-Seeking alms.|Shirrey jeirk.
-Seeking alms.|Jeirkey.
-Seeing that you have done that.|Neayr's t'ou er n'yannoo shen.
-Select committee.|Bing reiht.
-Sell something at half price.|Red ennagh y chreck er lieh y leagh.
-Sell something at a discount.|Red ennagh y chreck fo leagh.
-Sell by auction.|Cantey.
-Sell sugar by the pound.|Shugyr y chreck rere y punt.
-Send a letter by hand.|Screeuyn y chur liorish chaghter.
-Semi-detached house.|Thie lieh scarrit.
-Semi-detached house.|Lieh-hie.
-Selfish person.|Sonderey.
-Selection match.|Cloie reiht.
-Selected portion.|Cutremys.
-Select it.|Gow myr reih eh.
-Self educated man.|Dooinney hooar ynsagh magh da hene.
-Self styled scholar.|Scoillar myr s'feer da hene.
-Self made man.|Dooinney ren dagh ooilley nhee cheet lesh gyn cooney.
-Self is his god.|Cha nel jee echey agh eh hene.
 See for yourself.|Faik dhyt hene.
-Send it through the post.|Cur eh trooid yn phost.
-Send him home.|Cur eh gys e hie.
-Send him at ease.|Cur aash er.
 Send it to me.|Cur hym eh.
-Send word to John to come.|Cur fys hug Juan dy heet.
-Send my compliments to him.|Cur my vannaghtyn da.
 Send it up to me.|Cur neese hym eh.
 Send for him.|Cur fys er.
-Send her my wishes.|Cur corp as slaynt j'ee er my hon.
-Send for the doctor.|Cur fys er y fer lhee.
-Send for John.|Cur fys er Juan.
-Senior to me in position.|Ny s'ardjey na mish.
-Senior master.|Mainshtyr s'ardjey.
-Senior master.|Ard vainshtyr.
-Sense of hearing.|Keeall chlashtyn.
-Sense of sight.|Keeall shilley.
-Sense of pleasure.|Ennaghtyn haitnys.
-Sense of judgement.|Tappey.
-Second crop.|Aavaair.
-Say mass.|Erin y hebbal.
-Say it was I did it.|Cur orrym eh.
-Say mass.|Erin y lhaih.
-Say grace.|Oltee yn bee.
-Sawyer's jack.|Bink saauederagh.
-Savoury biscuit.|Brishtag vlasstal.
-Savings bank.|Banc tashtee.
-Say your prayers.|Gow dty phadjeryn.
-Save her.|Agh ish.
-Save for me.|Er lhimmey jeem.
-Saucy person.|Perkin.
-Satisfaction of mind.|Lhieeney aigney.
-Satellite town.|Crouw-valley.
-Satellite state.|Fo-staait.
-Saturday night.|Oie Ghoonee.
-Saucy person.|Fer daaney.
-Saturday's moon.|Eayst Harn.
-Saturday night.|Oie Jesarn.
-Sculptor with a bold touch.|Grainneyder laue-ghaaney.
-Sculling to the South Quay.|Scolley gys Cheu ny Howe.
-Screw up.|Dy hionney.
-Sea air.|Aer varrey.
-Sea of cares.|Shiaght currymyn y theihill.
-Sea of blood.|Logh vooar folley.
-Sea battle.|Caggey marrey.
-Screw that attachment in here.|Scrod y lhiantag shen stiagh ayns shoh.
-Scrapped material.|Sthoo brishlagh.
-Scrapings.|Yn screeblagh.
-Scrape of the pen.|Screeb jeh'n phenney.
-Scraps of food.|Fooillagh.
-Screw steamship.|Scriu-ghaaltan.
-Scratching stone.|Clagh screebee.
-Scraps of the conversation.|Corocklyn jeh'n choloayrtys.
-Sea of faces.|Millaghyn oaie.
-Seaside town.|Balley marrey.
-Searching in the dark.|Prookal.
-Searching for herrings.|Er y vriaght.
-Seasonal variations.|Caghlaaghyn imbee.
-Second class.|Y nah graid.
-Seated round the table.|Nyn soie mygeayrt y voayrd.
-Seat a valve.|Cooylley y chiartaghey.
-Searching for clues.|Shirrey leeidyn.
-Sea unicorn.|Un-eairkagh marrey.
-Sea trip.|Turrys marrey.
-Sea tide.|Tidey varrey.
-Sea worn stone.|Mooirlaig.
-Seal Point.|Gob ny Rauney.
-Seafarers.|Lught yn aarkey.
-Seaboard town.|Balley claddee.
-School leaver.|Faageyder scoill.
-School children.|Scollagyn.
-Scholarly man.|Dooinney lioaragh.
-School ma'am.|Ben ynsee scoill.
-School of fish.|Cleeah.
-School of art.|Scoill ellyn.
-School ma'am.|Benainshtyr scoill.
-Scenic railway.|Raad yiarn beg.
-Scarlet fever.|Yn chiassaghey jiarg.
-Scarcest.|S'genney.
-Scarcely had I gone.|S'goan va mee ersooyl.
-Scattered parts.|Rinkyn.
-Scattering dung.|Skeaylley eoylley.
-Scattered showers.|Frassyn skeaylt.
-Scattered parts.|Roankyn.
-School of thought.|Lught tuarym.
-Scouring sand.|Geinnagh scooiree. 
-Scores of times.|Feedyn cheayrt.
-Scorching heat.|Gred-hiass.
-Scrap a ship.|Lhong y vrishey.
-Scrap metal merchant.|Kionneyder prashey.
-Scrap metal merchant.|Delleyder ayns shenn veaiyn.
-Scolding woman.|Scryssag.
-Scientific men.|Lught ny hoaylleeaght.
-Scientific investigation.|Ronsaght skeeandagh.
-Scientific investigation.|Ronsaghey skeeandagh.
-Scissor jump.|Lheim shuddyragh.
-Scold of a woman.|Postyr dy ven.
-Scissors stop.|Stad shuddyragh.
-Sparkling white.|Gial-vane.
-Sparkling white.|Bane-ghial.
-Spark plug.|Plug drillinagh.
-Spawn herring.|Skeddan correy.
 Speak at your ease.|Loayr ass dt'aash.
-Speak a ship.|Bannaghey y chur er lhong.
-Spawning herrings.|Skeddan correy.
-Spares.|Aynyn brash.
-Spare the sugar.|Spaar y shugyr.
-Spare parts.|Aynyn brash. 
-Spare part.|Ayrn spaare.
-Spare time.|Traa seyr.
-Sparely built.|Thanney.
-Sparely built.|Lhome-craueagh.
-Spare wheel.|Queeyl vrash.
-Speak under breath.|Sonsheraght.
-Speak under breath.|Sansheraght.
 Speaking for myself.|Loayrt er my hon hene.
-Speaking disparagingly about him.|Loayrt lesh jee-voylley mychione echey.
-Speak with feeling.|Loayr dy ennaghtagh.
-Speak to her.|Loayr r'ee.
-Speak in Manx.|Loayr ass y Ghaelg.
-Speak firmly to him.|Loayr dy fondagh rish.
 Speak coherently.|Loayr dy rea.
 Speak Manx.|Loayr Gaelg.
-Speak of it.|Loayr eh.
-Sound smote upon his ear.|Woaill sheean er e chleayshyn.
-Sound one's r's.|Feeam y chur da ny r'yn ayd.
-Sour grapes.|Shillishyn sharroo.
-Sour-lime.|Theiley sharroo.
-Sour-faced woman.|Ben as eddin harroo eck.
-Sour milk.|Bainney soor.
-Sound of the sea on rocks.|Sheean creggey.
-Sorry look.|Groam.
-Sorrowing household.|Thie treih.
-Sort out the facts from the fable.|Yn irriney y scarrey veih ny breagyn.
-Sound horse.|Cabbyl follan.
-Sound asleep.|Cadley trome.
-Sound a blast.|Yn eairk y heidey.
-Source of river.|Moir-awin.
-Spain lies south of France.|Ta'n Spaainey my yiass jeh'n Rank.
-Space rocket.|Roggad spoar.
-Sovereign remedy.|Lheeys harrish lheeys.
-Spare cash.|Argid spaarit.
-Spare part.|Ayrn brash.
-Southwest wind.|Geay neear ass.
-South by East.|Jiass gys yn Shiar.
-Soused herring.|Skeddan sailjey.
-Source of the waters.|Moir ny hushtaghyn.
-South by West.|Jiass gys y Sheear.
-Southerly exposure.|Oaie da'n jiass.
-South wind.|Geay yiass.
-Splashing noise.|Glonk.
-Splashing money about in the pub.|Skeolley argid mygeayrt 'sy thie oast.
-Spiteful person.|Goanlyssagh.
-Splice the main-brace.|Cur magh yn jough.
-Split pin.|Freeney scoltit.
-Split pin.|Freeney goallagh.
-Spiteful person.|Elgyssagh.
-Spiritual life.|Bea ny hanmey.
-Spiritual court.|Quaiyl agglish.
-Spiritual adviser.|Annym-charrey.
-Spit and polish.|Scooirey as glenney.
-Spit upon.|Smuggit.
-Spit upon.|Shellit er.
-Spit for roasting meat.|Bher chum rostey feill.
-Split ring.|Fainey scoltit.
-Spotlessly clean.|Cha glen as ushtey.
-Spot of trouble.|Beggan boirey.
-Spot cash.|Argid sheese.
-Spots on her face.|Spohttyn er yn eddin eck.
-Spread a road with tar.|Brat terr y chur er bayr.
-Spray gun.|Gunn spreih.
-Sprained joints.|Juntyn sheeynt.
-Sporting on the shore.|Cloie er y traie. 
-Sponge food.|Lhongey y yeearree.
-Split them fifty-fifty.|Rheynn ad lieh myr lieh.
-Split the difference.|Scolt eh.
-Sponge money.|Argid y yeearree.
-Sport not unattended by danger.|Spoyrt nagh vel seyr veih gaue.
-Sponging the car.|Thoagey y gleashtan.
-Sponging on her.|Jiole voee.
-Speckled animal.|Briggin.
-Specified.|Sonrit.
-Specified.|Enmyssit.
-Speed on the level.|Bieauid er yn rea.
-Spend the balance.|Ceau yn corrillagh.
-Spell of wind.|Sheidey.
-Speeding along.|Kirtagh roish.
-Specific heat.|Chiass er lheh.
-Speaking ironically.|Gammlagh.
-Speaking in an undertone.|Loayrt lesh coraa injil.
-Speaking generally.|Loayrt trooid as trooid.
-Speaking likeness.|Caslys bio.
-Specific gravity.|Trimmid er lheh.
-Speaking to her.|Loayrt r'ee.
-Speaking Manx.|Taggloo 'sy Ghaelg.
-Spend the night with her.|Ceau yn oie maree.
-Spirit away.|Cur ass.
-Spinning jenny.|Jinnag sneeuee.
-Spinning dive.|Thummey cassee.
-Spirit away.|Geid gyn yss.
-Spiritual advice.|Coyrle anmey.
-Spiritless person.|Drollane.
-Spirit thirty percent below proof.|Spyrryd jeih as feed 'sy cheead fo proof.
-Spin a penny.|Ping y chur er daunsin.
-Spending power.|Pooar kionnee.
 Spend what you have while you live.|Stroie yn foddyr er y ghrunt.
-Spend the night with them.|Cur stiagh yn oie maroo.
-Spent trout.|Far vreck.
-Spin a penny.|Ping y cheau.
-Spike file.|Birran.
-Spherical triangle.|Troorane cruinn.
-Sorrowful person.|Truanagh.
-So to say.|Dy ghra myr shen. 
 So the story runs.|Shen t'ad gra.
 So to speak.|Dy ghra myr shen.
 So to speak.|Myr yiarrin.
 So to speak.|My yiarragh ad.
 So the matter rests.|Myr shen ta'n chooish ny lhie.
-So much more.|Wheesh elley.
-So much better.|Wheesh cheddin ny share.
-So much a dozen.|Wheesh y dussan.
-So much more.|Wheesh smoo. 
 So much the better.|Wheesh share.
-So much percent.|Wheesh shoh 'sy cheead.
-So, my dear, I am forced to leave.|As shen eh y chree, t'eh orrym faagail.
-Social democrat.|Deynlagh soshialagh.
-Social democracy.|Deynlaghys soshialagh.
-Sober colours.|Daahghyn sheeltey.
-Social science.|Oaylleeaght sheshoil.
-Social standing.|Keimeeaght.
-Social services.|Shirveishyn sheshoil.
-Soapy water.|Ushtey sheeabinagh.
-Soaked to the skin.|Fliugh gys y chrackan.
-Soak a sponge.|Thoag y lhieeney.
-So-called Manxman.|Manninagh myr t'ad gra rish.
-Soaked to the skin.|Fliugh-vaiht.
-Soapy potatoes.|Praaseyn ushtoil.
-Soap box orator.|Oraid ny kiare raaidyn.
-Soaking downpour.|Fliaghey ragh trooid claare darragh.
-Snick the ball.|Mynvuilley y chur da'n vluckan.
-Snail spit.|Shelley crammag.
-Snail broth.|Broit crammag.
-Sniff of fresh air.|Bolgum jeh geay ny speyr.
-Snotty boy.|Guilley smuggagh.
-Snooker.|Cur ayns neuyantys.
-Smuggling whisky.|Roie ushtey bea.
-Smooth road.|Raad rea.
-Smooth ride.|Markiagh meeley.
-Smooth over difficulties.|Doilleeidyn y smoodal.
-Smooth talk.|Goan bane brynnagh.
-Smuggle into a room.|Cur stiagh ayns shamyr gyn yss.
-Smuggle away.|Cur ersooyl gyn yss.
-Smug independent.|Bock mooar.
-So long before.|Choud roie.
-So long.|Choud cheddin.
-So many.|Whilleen.
-So much.|Wheesh cheddin.
-So much.|Wheesh.
-So far.|Choud's cheddin.
-So far.|Choud cheddin.
-So far.|Choud shoh.
-So it seems.|T'eh cosoylagh.
-So far.|Hug shoh.
-Something in the nature of a box.|Keint dy chishtey ennagh.
-Someone stepped on my foot.|Ren peiagh ennagh shassoo er my chass.
-Someone has taken my book.|Ta peiagh ennagh er n'ghoaill my lioar.
-Something is preying on his mind.|Ta red ennagh jannoo er yn aigney echey.
-Something will turn up.|Hig red ennagh.
-Something severe.|Terrish.
 Something of that sort.|Red ennagh myr shen.
-Someone else.|Peiagh ennagh elley.
 Some time ago.|Tammylt er dy henney.
-Some people.|Feallagh ennagh.
-Some of them are right.|Ta paart jeu kiart dy liooar.
-Some twenty pounds.|Red gollrish feed punt.
 Somehow I'm getting through the day.|Ta mee cur stiagh y laa er aght ennagh.
-Somebody else.|Peiagh ennagh elley.
 Some way or another.|Aght ennagh.
-Somewhat new.|Lesh y noaid.
-Soon ripe soon rotten.|Leah appee leah loau.
-Soon after.|Giare ny yei.
-Soon after.|Giare ny yei.
-Sore eyes.|Sooillyn chingey.
-Sorrowful person.|Trimshagh.
-Sorely tried.|Prowit dy trome. 
-Sore temptation.|Miolagh trome.
-Song without words.|Arrane gyn focklyn.
-Son of a fisherman.|Mac eeasteyragh.
-Somewhere else.|Boayl ennagh elley.
-Somewhat new.|Red beg noa.
-Son of perdition.|Mac imshee.
-Song of praise.|Arrane moyllee.
-Son of the soil.|Mac ny hooirey.
-Son of the soil.|Fer cheerey.
-Solar heat.|Chiass greiney.
-Solar flare.|Lossan greiney.
-Soldier of fortune.|Sidoor failee.
-Solemn promise on oath.|Breearrey.
-Solemn promise.|Jarroo-ghialdyn.
-Sole and heel.|Trie as breban.
-Softer than silk.|Ny s'meeiney na sheeidey.
-Sodium bicarbonate.|Jastee-hollan.
-Sodden with drink.|Baiht 'sy jough.
-Soda water.|Ushtey soda.
-Soft drinks.|Joughinyn glassey.
-Soft yelp of a dreaming dog.|Boogh.
-Soft shirt.|Lheiney vog.
-Solid food.|Bee chirrym.
-Some have plenty.|Ta feallagh ayn as palchey oc.
-Some fool of a man.|Ommidan ennagh dy ghooinney.
-Some five hundred people came.|Haink mysh queig cheead dy leih.
-Some house.|Thie ennagh.
-Some of them.|Paart jeu.
-Some of the women.|Paart dy vraane.
-Some man.|Dooinney ennagh.
-Some fellow.|Fer ennagh.
-Solitary place.|Fadanys.
-Solitary place.|Fadane.
-Solid tyre.|Crou chreoi.
-Some came.|Haink paart jeu.
-Some days he is better.|Ta laghyn ayn as eshyn ny share.
-Some days ago.|Kuse dy laghyn er dy henney.
-Some days.|Reggyryn dy laaghyn.
-Stiff shirt.|Lheiney chreoi.
-Stiff joint.|Olt neulhoobagh.
-Stiff climb.|Drappal geyre.
-Stiff-necked person.|Creoi-wannalagh.
-Still to come.|Foast ry-heet.
-Stifling smoke.|Torcan.
-Stiff-neckedness.|Creoi-wannalys.
-Stiff brush.|Skeaban lajer.
-Stick-on label.|Lipaid ghreimmey.
-Stick pictures in a book.|Caslyssyn y festal ayns lioar.
-Sticking bills on the walls.|Festal fograghyn er ny boallaghyn.
-Stiff as a poker.|Cha jeeragh as sidoor.
-Sticky thing.|Tootey.
-Sticking pigs.|Seiy muick.
-Still water.|Ushtey marroo.
-Stock exchange bull.|Bulley.
-Stock argument.|Arganeys jeh'n chenn hraa.
-Stock a house with coal.|Stoyr geayil y chur ayns thie.
-Stock phrase.|Shenn abbyrt.
-Stolen goods.|Cooid vrednagh.
-Stockings in holes.|Oashyryn towlit.
-Stock play.|Cloie stoyr.
-Stirrup strap.|Lhiare streipey.
-Stink out.|Cur magh lesh torcan.
-Stingy woman.|Gorteog.
-Stillborn animal.|Slink.
-Stirring days.|Laghyn corragh.
-Stirring up sediment.|Seiy drundin.
-Stirring the porridge.|Mestey yn phoddash.
-Stirring the old embers.|Chiow yn chenn vroit.
-Steering oar.|Maidjey stiuree.
-Steer north-east by east.|Stiur shiar hwoaie gys y shiar.
-Steer North West half North.|Stiur Sheear Hwoaie lieh Hwoaie.
-Steering pillar.|Croan stiuree.
-Step a mast.|Croan y chur 'sy chiap.
-Steering wheel.|Queeyl stiuree.
-Steering quadrant.|Kerrooane stiuree.
-Steer clear of that rock.|Shaghyn y creg shen.
-Steel file.|Caignan staillinagh.
-Steel edge.|Beeal staillinagh.
-Steamship line.|Colught gaaltan.
-Steep slope.|Liargagh gheyre.
-Steer a zig-zag course.|Camhiaulteyrys.
-Steeped in sin.|Mooghit ayns peccah.
-Steep slope.|Ughtagh gheyre.
-Step by step.|Keim er cheim.
-Stick it down here.|Cur eh sheese ayns shoh.
-Stick down the envelope.|Greim sheese y coodagh.
-Stick a pin through it.|Cur freeney ny hrooid.
-Stick on your hat.|Bwoall dty edd ort.
-Stick of grease paint.|Kibbin daah smarree.
-Stick it in the ground.|Seiy eh 'sy thalloo.
-Stick a flower in your buttonhole.|Cur blaa ayns dty lhoobag.
-Step this way please.|Yn raad shoh my sailliu.
-Step on the brakes.|Yn cass y woalley er yn ghlackan.
-Step up the work.|Bree y chur er yn obbyr.
-Stern oar.|Maidjey jerree.
-Stern ladder.|Aarey yerree.
-Steps of a key.|Feeacklyn ogheragh.
-Story without foundation.|Skeeal gyn bun.
-Story that lacks zest.|Skeeal eig.
-Storm in a tea cup.|Caggey ny lughee.
-Stout stick.|Maidjey chiu.
-Straight line.|Sheeynag yeeragh.
-Straight from the shoulder.|Veih'n gheaylin magh.
-Straight before me.|Dy jeeragh er my veealloo.
-Storeroom.|Shamyr stoyr.
-Stop with us for the summer.|Tannee marin car y touree.
-Stop valve.|Cast-chooylley.
-Stoppage of the bowels.|Lhiettalys minnee.
-Stopping teeth.|Lhieeney feeacklyn.
-Stopping a blood flow.|Castey folley.
-Stopped end.|Kione rish boalley.
-Straight line that joins two points.|Linney yeeragh eddyr daa phoynt.
-Strange place.|Joarreeaght.
-Strange man.|Dooinney quaagh.
-Strange face.|Eddin yoarree.
-Strange to relate.|Myr s'yindyssagh dy ghra eh.
-Strap it up.|Kiangle eh.
-Stranger in a strange land.|Joarree ayns cheer yoarree.
-Strange to say.|Myr s'yindyssagh dy ghra eh.
-Strange beasts.|Beiyn anoayshagh.
-Strained ankle.|Abane sheeynt.
-Straight on before me.|Er my hoshiaght.
-Strained relations.|Asschaarjys.
-Straitjacket.|Jaggad kianglee.
-Straining the vegetables.|Sheeley ny glassreeyn.
-Straining at a rope.|Tayrn dy chionn er tead.
-Stone trough.|Ammyr cloaie.
-Stone that projects from the wall.|Clagh ta deamey ass y voalley.
-Stone walls.|Boallaghyn cloaie.
-Stony heart.|Cree cloaie.
-Stones dislodged from the wall.|Claghyn tuittit veih'n voalley.
-Stoned to death.|Claghit gy baase.
-Stone house.|Thie cloaie.
-Stomach upset.|Teaym gailley.
-Stomach herbs.|Lussyn chiolg.
-Stolen goods.|Griu vaarlee.
-Stone fruit.|Mess as claghyn ayn.
-Stone hedge.|Cleigh cloaie.
-Stone hedge.|Bun-chleighan.
-Stone fruit.|Ny claghyn y ghoaill ass mess.
-Stony politeness.|Cooyrtoilid.
-Stop him talking.|Cur ny host eh.
-Stop here until I return.|Tannee ayn shoh derrey higym er ash.
-Stop press.|Yn naight noa s'jerrinee.
-Stop that hole.|Doon y towl shen.
-Stop someone's mouth.|Fer ennagh y chur ny host.
-Stop here for a while.|Fuirree ayns shoh rish tammylt.
-Stooped person.|Croymmagh.
-Stony stare.|Blakey feayr.
-Stony road.|Bayr claghagh.
-Stop a little.|Fuirree beggan.
-Stop a leak.|Towl y yingey.
-Stop a leak.|Faarn y yingey.
-Steaming hot.|Cheh gaalagh.
-Stag of red deer.|Dow jiarg.
-Stack-yard games.|Gammanyn uhlley.
-Stab in the back.|Saih 'sy dreeym.
-Stair rod.|Maidjey greeish.
-Stallion serving the mare.|Collagh lheim er y laair.
-Stale milk.|Bainney gort.
-Stake high.|Giallyn tromey y chur.
 St. Valentine's Day.|Laa'l Valentine.
-St. John the Evangelist.|Ean Sushtallagh.
 St. John the Baptist's Day.|Feaill' Eoin.
-St. Andrew's Cross.|Crosh Andreays.
 St. John's Eve.|Oie'll Eoin.
 St. Swithin's Day.|Laa'l Sushin.
-St. Peter's church.|Keeill Pheddyr.
-St. Mary Magdalene.|Noo Moirrey Malaine.
-Stallion serving the mare.|Collagh lheimmey y laair.
-Stand firm.|Shass dy chionn.
-Stand it on edge.|Cur eh ny hassoo er e chione.
-Stand in the corner.|Shass 'sy chuinney.
-Stand in a circle.|Shass ayns fainey.
-Stand against the wall.|Shass noi'n voalley.
-Stand as a candidate.|Cur seose son.
-Spring-tide of the Autumn equinox.|Roayrt vooar Laa'l Maayl.
-Spring well.|Farrane.
-Spring water.|Ushtey farraneagh.
-Spring-tide of the Spring equinox.|Roayrt vooar Laa'l Pherick.
-Sprinkling the floor with sand.|Craa geinnagh er y laare.
-Sprinkle of salt.|Craa hollan.
-Sprinkle of rain.|Jeiryn fliaghee.
-Spring water.|Ushtey chibbyragh.
-Spreading dung.|Skeaylley eoylley.
-Spread the table.|Jean y boayrd.
-Spread fat on a fat pig's arse.|Slaa sahll er thoyn muc roauyr.
-Spring a mine.|Meainagh y vleaystey.
-Spring washer.|Sealhan lheimaghan.
-Spring tide.|Roayrt.
-Spring flowers.|Blaaghyn arree.
-Spun yarn.|Tead daa filley.
-Square-root.|Fraue cherrinagh.
-Square up with.|Yn lhiastynys y glenney lesh.
-Square the yards.|Ny slattyn y chur noon as noal.
-Squeeze of lemon.|Cubbyl dy yeir dy limon.
-Squint-eyed person.|Cam-hooillagh.
-Squeezed together.|Jingit.
-Square shoulders.|Geayltyn lhean.
-Square dealing.|Dellal ynrick.
-Square chin.|Smeggyl lhean.
-Spun yarn.|Tead kiare filley.
-Square meal.|Lhongey mie.
-Square root.|Fraue chernagh.
-Square metre.|Meadar kerrinagh.
-Square measure.|Towse kerrinagh.
-Staunching of a blood flow.|Castey folley.
-Staunch friend.|Carrey beayn.
-Statistical representation.|Tuarastyl staddyssaghtoil.
-Stave a barrel.|Claaryn stoandey y chur ry cheilley.
-Stay here till I return.|Tannee aynshoh derrey higym er ash.
-Stay here.|Tannee ayns shoh.
-Stay a while.|Fuirree dreayst.
-Station signal.|Cowrey yn stashoon.
-Starve a cold.|Feayraght y lheihys lesh trostey.
-Starvation wages.|Faill yn gortey.
-Starting switch.|Corrag ghooishtee.
-Starve to death.|Baase y gheddyn jeh'n accrys.
-Stately person.|Staydoilagh.
-State reception.|Failt oikoil.
-State a case.|Cooish leigh y choyrt.
-Stay there.|Tannee myr t'ou.
-Steady pulse.|Cuishley chorrym.
-Steady progress.|Goll er oaie corrym.
-Steam is up.|Ta gaal foee.
-Steady hand.|Laue shickyr.
-Stay-in strike.|Stholk er yn laaragh.
-Stay to dinner.|Tannee ry-hoi jinnair.
-Staying power.|Niart tannee.
 Steady downpour.|Sheer-liaghey.
-Steady a table leg.|Cass buird y yeenysal.
-Standard Manx.|Yn Ghaelg chadjinit.
-Stand-up fight.|Caggey corrym.
-Stand-up collar.|Colliar ard creoi.
-Standard measurement.|Bunhowshan.
-Standing firm against drink.|Staayney noi'n jough.
-Standing camp.|Beayn champ.
-Standard time.|Traa cadjinit.
-Stand-up buffet.|Bee ec y choontyr.
-Stand sideways.|Shass liasragh.
 Stand on your own feet.|Shass er dty chione hene.
-Stand on ceremony.|Formoilid y yannoo.
-Stand so.|Shass myr shen.
-Stand the spade against the wall.|Cur y kiebbey ny hassoo rish y voalley.
-Stand the racket.|Yn tastal y hassoo.
-Stand straight.|Shass jeeragh.
-Standing idly by.|Shassoo gyn veg y yannoo.
-Starboard the helm.|Yn stiurey y chur gys y yesh.
-Star turn.|Ard chloie.
-Star part.|Ard ayrn.
-Stark, raving mad.|Er merre.
-Starting a family.|Geddyn cloan.
-Start a fire.|Aile y 'oaddey.
-Start a clock.|Clag y chur er obbraghey.
-Standing type.|Clou ta heose.
-Standing room.|Reayms shassoo.
-Standing joke.|Beayn spotch.
-Standing in line.|Shassoo er un linney.
-Standing stone.|Clagh hoit.
-Standing timber.|Aamid keylley.
-Standing stone.|Lhiaght.
-Standing stone.|Lhiagh.
-Smooth over a fault.|Beg y yannoo jeh loght.
-Shoemaker's shop.|Shapp greasee.
-Shoe polish.|Follid braag.
-Shock of sheeves.|Sthook.
-Shoot a bird.|Ushag y chur neose.
-Shoot a film.|Scannane y ghlackey.
-Shoot a film.|Fillym y yannoo.
-Shoot a bolt.|Bolt y chur dy valley.
-Shirt of mail.|Lheiney eillee.
-Shipping intelligence.|Fys lhuingys.
-Shipping big seas.|Troggal tonnyn mooarey.
-Ship's carpenter.|Seyr lhuingey.
-Shipping line.|Colught lhuingys.
-Shirt frill.|Robbee lheiney.
-Ships going in opposite directions.|Lhongyn goll noi y cheilley.
-Shoot a goal.|Dean y vebbal.
-Shopping bag.|Poagey shappal.
-Shooting time.|Traa correy.
-Shooting star.|Rollage roie.
-Shopping centre.|Boayl shappal.
-Shorn head.|Kione lommyrtagh.
-Shore up.|Buht y chur rish.
-Shore leave.|Kied goll er traie.
-Shooting range.|Reayn.
-Shoot the net.|Cuirr yn ingagh.
-Shoot the bolt.|Yn bout y ghooney.
-Shoot of ore.|Colloo meainey.
-Shoot the sun.|Ardjid ny greiney y howse.
-Shooting pictures.|Glackey jallooyn.
-Shooting lodge.|Grianane shelg.
-Shooting box.|Bwaane lhiggee.
-Shift of the wind.|Arraghey ny geayee.
-Shift the responsibility on.|Yn currym y chur er.
-Ship bound for England.|Lhong goll lesh Sostyn.
-Ship a sea.|Tonn y hroggal.
-Shin bone.|Craue lurgey.
-Shield the eyes.|Ny sooillyn y choodaghey.
-Shell of horse mussel.|Shlig screebee.
-Shelf three feet deep.|Skelloo tree trieyn er lheanid.
-Sheet tin.|Stainney lhean.
-Shelly shore.|Traie shliggagh.
-Sheltered spot.|Boayl fasteeagh.
-Sheltered industry.|Chynskyl coadit.
-Sheltered from the wind.|Cooyl ny geayee.
-Ship down by the head.|Lhong as e toshiagh f'oee.
-Ship that steers well.|Lhong as stiurey mie urree.
-Ship that spreads much cloth.|Lhong ta gymmyrkey mooarane shiauill.
-Ship pushing for a harbour.|Lhong giall er purt.
-Ship them to England.|Shiauill ad gys Sostyn.
-Ship with a clear run.|Lhong ta glen ny yei.
-Ship under full sail.|Lhong fo lane hiauill.
-Ship under command of Captain Watterson.|Lhong fo kioneys Captan Kodhere.
-Ship on the slips.|Lhong er ny sthockyn.
-Ship in ballast.|Lhong fo ballast.
-Ship impelled by the wind.|Lhong immeeaght roish y gheay.
-Ship hailing from London.|Lhong ass Lunnin.
-Ship in ballast.|Lhong follym.
-Ship of the line.|Lhong cochaggee.
-Ship mounting twenty guns.|Lhong as feed ghunn urree.
-Ship moored head to.|Lhong moarit ass e kione.
-Show him round.|Cur eh er fud.
-Show him out.|Immee gys y dorrys marish.
-Show him in.|Cur stiagh eh.
-Show him the way.|Cur fys echey er yn raad.
 Show me how to do that.|Cur toiggal dou er shen.
-Show him to his room.|Jeeagh e hamyr da.
-Show him through the house.|Jeeagh yn thie da.
-Show a picture.|Caslys y haishbyney.
-Show respect to your betters.|Cur arrym da'n sleih t'er dty skyn.
-Slip your coat off.|Cur jeed dty chooat.
-Slip the ropes.|Feayshil ny teaddyn.
-Slip it into my hand.|Cur eh ayns my laue.
 That won't be much good.|Cha jean shen monney dy vie.
 That won't catch on.|Cha bee monney foays er shen.
 That won't pass.|Cha jean shen jannoo.
@@ -3623,395 +2637,47 @@ That's the lot.|Shen ooilley.
 That's the last thing that's worrying me.|Ta shen yn red s'loo ta dy my voirey.
 That's the same thing.|Ta shen yn un red.
 That's the same thing.|Ta shen yn red cheddin.
-That's the reason he went to Douglas.|Shen y fa dy jagh eh dy Ghoolish.
-Summer time.|Traa souree.
-Summer solstice.|Shass greiney souree.
-Summer residence.|Thie souree.
-Summer's day.|Laa souree.
 Suppose you are right.|Dy beagh yn chiart ayd.
-Supreme judge.|Ard vriw.
-Supreme governor.|Ard-chiannoort.
-Supposing he came back.|Dy derragh eh er ash.
-Superstitious person.|Faasechredjuagh.
-Superior officer.|Ard 'er oik.
 Sup of milk.|Bolgum bainney.
 Sunny shower.|Frass gial.
-Take for a walk.|Cur magh son cosheeaght.
-Take either.|Gow yn derrey yeh na'n jeh elley.
-Take either.|Gow 'nane erbee.
-Take goods out of storage.|Cooid y ghoaill ass tastey.
-Take her to wife.|Ee y phoosey.
-Take heed.|Gow tastey.
-Take half of it.|Gow yn lieh jeh.
 Take cover.|Gow fastee.
-Take breath.|Ennal y hayrn.
 Take council of your own pillow.|Caddil er.
 Take care of it.|Gow kiarail jeh.
-Take care he doesn't fall.|Gow arrey nagh duitt eh.
 Take him about the town.|Gow eh mygeayrt y valley.
 Take it away.|Gow ersooyl eh.
 Take into confidence.|Yn folliaght y lhiggey da.
 Take it, it would be foolish not to.|Gow eh, veagh ommidjagh gyn goaill eh.
-Take it out of pledge.|Feayshil ass gioal eh.
-Take it from her.|Gow voee eh.
-Take in the harvest.|Yn ouyr y chur stiagh.
-Take hold of him.|Gow greim jeh.
-Take his measure for a suit.|E howse y goaill ry-hoi cullee.
-Take him away to England.|Cur lhiat gys Sostyn eh.
-Take holy orders.|Oardaghyn bannee y ghoaill.
-Take in a supply of water.|Tasht ushtey y cur stiagh.
-Take in a sail.|Shiaull y choonaghey.
-Take in a reef.|Kiangle coorse.
-Take a sight of the sun.|Ardjid ny greiney y howse.
-Take a meal.|Lhongey y ee.
-Take a trick with the king.|Cluic y ghoaill lesh yn ree.
-Take an angle.|Uillin y howse.
-Take action.|Obbyr y yannoo.
-Take a fence.|Cleigh y lheimmey.
-Take a bath.|Oo hene y oonlaghey.
-Take a chair.|Soie sheese.
-Take a degree.|Keim y ghoaill.
-Take a corner.|Corneil y cheau.
-Take a copy of the letter.|Jean aascreeuyn jeh.
-Thank you.|Gura mie eu.
-Thank you.|Gura mie ayd.
-Thank you - don't mention it.|Gura mie ayd - she dty vea.
-Thank you in anticipation.|Gura mie eu rolaue.
-Thank you ever so much.|Gura mie mooar ayd.
-Thank you very much.|Gura mie mooar ayd.
-Thank you very much my friend.|Gura mie mooar ayd my charrey.
-Thank you very much indeed.|Gura milley mie ayd.
-Thank you very much. You're welcome.|Gura mie mooar ayd. She dty vea.
 That always troubled me.|Ren shen rieau boirey orrym.
 That alters the case.|Ta shen skeeal elley.
 That belies what I said.|Ta shen cur y vreag er shen ny dooyrt mee.
 That advice was ill-advised.|By ghonney y choyrle shen.
 Tell us your honest opinion.|Insh dooin dty varel ynrick.
-Telling fortunes.|Jannoo faaishnys.
-Telling yarns.|Ginsh skeealyn.
-Telling the sheep.|Coontey ny kirree.
-Telling lies.|Ginsh breagyn.
-That identical man.|Yn dooinney shen ennee.
-That I might bring it.|Dy derrin lhiam eh.
-That I may.|Dy voddym.
-That is a bad habit.|Ta shen drogh oash.
-That is a dictionary word.|Ta shen fockle fockleyragh.
-That is a dead loss.|Ta shen coayl glen.
-That house is too much for me.|Ta'n thie shen rour.
 That holds true.|Ta shen yn irriney.
-That he must.|Dy beign da.
-That he might find the lost way.|Dy vod eh bollagh caillit gheddyn magh.
-That is a good likeness of him.|Ta shen caslys mie jeh.
-That is already spoken for.|Ta fockle er shen hannah.
 That is all there is to it.|Shen ooilley ny t'ayn.
 That is applicable in this case.|Ta shen cooie 'sy chooish shoh.
 That is even more conjectural.|Ta shen eer ny smoointee.
 That is easy to understand.|Ta shen so-hoiggal.
 That is diametrically opposed to the truth.|Ta shen kiart noi yn irriney.
 That is a step forward.|Ta shen keim er oaie.
-That is a lofty room.|Ta shen shamyr ard.
-That is a lively air.|Ta shen carr gastey.
-That is a house.|Ta shen thie.
 That is a matter of course.|Shen my vees eh.
-That is a primitive language.|Ta shen bun-ghlare.
 That is a nice situation.|Ta shen boayl mie.
 That custom is fast disappearing.|Ta'n cliaghtey shen goll ass dy tappee.
-That comes on the next page.|Ta shen er y nah ghuillag.
 That comes before this.|Ta shen cheet roish shoh.
 That cuts both ways.|Ta daa heu er y skeeal shen.
 That disgusts me.|Ta shen cur feoh orrym.
 That deterred me a bit.|Ren shen dy my chumrail red beg.
-That dashed door.|Yn jouyll dy ghorrys shen.
-That coat will last well.|Nee yn cooat shen ceau dy mie.
-That brought them to grief.|Hug shen y guiy-boght orroo.
-That book belongs to him.|Ta'n lioar shen bentyn da.
-That book.|Yn lioar shen.
 That cannot be.|Cha nod shen er ve. 
-That cloth wore well.|Va ceau mie 'syn eaddagh shen.
-That child is a handful.|S'doillee eh dy reayll rick er y phaitchey shen.
-That does not trouble him much.|Cha nel shen cur monney boirey er.
-That forebodes death.|Ta shen monney baaish.
-That floored him.|Hug shen ny host eh.
-That fits.|Ta shen freggyrtagh.
 That gets on my nerves.|Ta shen cur y drogh orrym.
-That gun jumps.|Ta builley 'sy gunn shen.
 That gets on my nerves.|Ta shen dy my voirey.
-That fellow is equal to the other.|Ta'n fer shen corrym rish y fer elley.
 That doesn't come within my duties.|Cha nel shen fo my churrym.
 That doesn't appeal to me.|Cha nel shen dy my hayrn.
 That doesn't appeal to me.|Cha nel monney foays aym er shen.
 That doesn't count.|Cha n'eeu shen.
 That fairly stumped him.|Hug shen ny host eh.
-That dog was worrying the cattle.|Va'n moddey shen cloh yn ollagh.
-Tell that to him.|Insh shen da.
-Take tickets.|Tiggadyn y chionnaghey.
-Take three bagfuls.|Gow tree slane poagaghyn jeh.
-Take this letter down.|Screeu yn screeuyn shoh sheese.
-Take up a station.|Ynnyd y ghoaill.
-Take your gear out of this.|Gow yn cullee ayd magh ass shoh.
-Take your choice.|Jean dty reih hene.
-Take you.|Gow jee.
-Take the wounded away.|Gow ny guintee ersooyl.
-Take the receiver off.|Trog yn glackeyder.
-Take the pot off the fire.|Trog yn poht jeh'n aile.
-Take the oars.|Cum rish ny maidjaghyn.
-Take the second one.|Gow yn derrey yeh.
-Take the turning to your right.|Cass er dty heu yesh.
-Take the service.|Shirveish y hassoo.
-Taken all round.|Trooid as trooid. 
-Taken on the aggregate.|Goaill stiagh y clane.
-Taken as a whole.|'Sy clane.
-Take on passengers.|Troailtee y hroggal.
-Take on a workman.|Obbree y chur staartey da.
-Take off your hat.|Gow jeed dt'edd.
-Take one at a time.|Gow yn derrey yeh as eisht yn jeh elley.
-Take out a car licence.|Keesh ghleashtan y eeck.
-Take one's leave.|Slane y chur er.
-Take one's leave.|Bannaght y chur er.
-Take off your clothes.|Gow dty eaddagh jeed.
-Take lessons in French.|Lessoonyn Frangish y ghoaill.
-Take legal advice.|Coyrle y gheddyn voish leighder.
-Take land on lease.|Thalloo y ghoaill er bargane soiagh.
-Take liberties with.|Daanys y yannoo er.
 Take notice of this.|Gow tastey jeh shoh.
 Take my advice.|Gow my choyrle.
-Take out a licence.|Kiedoonys y ghoaill.
-Take the front seat.|Gow yn toieag hoshee.
-Take the first turning on the left.|Lhiann er y chied chassey er y laue chlee.
-Take the left-handed turn.|Gow yn raad er y cheu chiare.
-Take the millstones and grind corn.|Gow ny claghyn mwyllin as bleih meinn.
-Take the lid off it.|Trog yn farkyl jeh.
-Take the lesser.|Gow y chooid sloo.
-Take the dress in.|Coonee y gooyn.
-Take proceedings against.|Cur gys yn leigh.
-Take out a subscription to a paper.|Sheeyntoose y ghoaill son pabyr naight.
-Take root.|Frauaghey.
-Take the clock to pieces.|Gow yn clag veih my cheilley.
-Take that.|Gow shen.
-Take someone in marriage.|Peiagh ennagh y phoosey.
-Technical school.|Keird-scoill.
-Teat without a scrap of sugar.|Tey gyn grine dy hugyr ayn.
-Teat screw.|Scrod sheeiney.
-Tedious and grievous.|Feiyjagh.
-Teeming crowd.|Chionnal mooar. dy 'leih.
-Tee up.|Yn bluckan y chur er y tee.
-Tedious person.|Cumrailagh.
-Tears welled in her eyes.|Vogg ny jeirnyn ny sooillyn eck.
-Team driver.|Immanagh shesheree.
-Teaching with modern aids.|Gynsaghey lesh coonaghyn noa-emshiragh.
-Teaching through Manx.|Gynsagh trooid Gaelg.
-Team games.|Sleih-ghammanyn.
-Tears started from his eyes.|Haink jeirnyn ass e hooillyn.
-Tears rolling down his cheeks.|Jeirnyn roie sheese e lieckanyn.
-Tear-off calendar.|Feaillere duillagagh.
-Teeming streets.|Straiddyn lome lane.
-Tell me as soon as ever he comes.|Insh dou cha lheah's hig eh.
-Tell him not to go.|Abbyr rish dyn goll.
-Tell me how he did it.|Insh dou cre'n aght ren eh eh.
 Tell me a story.|Insh skeeal dou. 
 Tell me the when and the how of it.|Insh dou cuin as kanys haghyr eh.
-Tell him it to his face.|Insh eh da roish yn eddin echey.
-Telescopic leg.|Lurgey yn-sheeynt.
-Telephone wires.|Strengyn chellvane.
-Telegraph wires.|Strengyn telegraaf.
-Television set.|Chellooishan.
-Talk between two people.|Cooish.
-Taking place.|Goaill ynnyd.
-Taking pains.|Goaill triorys.
-Taking one thing with another.|Eddyr meein as garroo.
-Taking the longest way round.|Goaill yn raad s'odjey.
-Talk away, I'm not listening.|Loayr royd, cha nel mee geaishtagh.
-Taking turns.|Goaill garraghyn.
-Talkative person.|Pleateyr.
-Taunting person.|Conaasagh.
-Target practice.|Cliaghtey targaid.
-Talking shop.|Loayrt mychione dty cheird hene.
-Talking round a question.|Loayrt runt mygeayrt feysht.
-Talking filth.|Loayrt feohoilys.
-Tame bird.|Eean thie.
-Tap washer.|Sealan fyseid.
-Tangent of an angle.|Tanjent uillin.
-The hour has come.|Ta'n traa ayn.
-The leaves are beginning to turn.|Ta'n buigh cheet er ny duillagyn.
-The day is approaching.|Ta'n laa er-gerrey.
-The day has dawned.|Ta'n laa ayn.
-The day is at hand.|Ta'n laa er gerrey.
-The day is declining.|Ta'n laa goll ass.
-The day is dawning.|Ta'n laa dowaney.
-The day is brighter now.|Ta'n laa ny s'gilley nish.
-The day before yesterday.|Arroo y jea.
-The day after.|Yn laa er-giyn.
-The day after tomorrow.|Laa ny nuyr.
-The day before then.|Yn laa roish shen.
-The day after tomorrow.|Nuyr.
-The day after tomorrow.|Laa ny vairagh.
-The coming week.|Yn shiaghtyn shoh cheet.
-The dead of winter.|Yn doo-gheurey.
-The days are lengthening.|Ta ny laghyn sheeyney.
-The day is very sultry.|Ta'n laa feer vreenagh.
-The day is drawing in.|T'eh conghorraghey.
-The day is dirtying.|Ta'n laa goll ny s'girroo.
-The days are getting longer.|Ta ny laghyn sheeyney.
-The days are drawing in.|Ta ny laghyn goll ny s'girrey.
-The days are closing in.|Ta ny laghyn goll ny s'girrey.
-The die is cast.|Ta ny jeeslaghyn ceaut.
-The first touches of Autumn.|Ny chied cosoylaghtyn jeh'n Ouyir.
-The first light of dawn.|Breckey yn laa.
-The fifth of November.|Yn queigoo laa jeh Mee Houney.
-The first breath of Spring.|Chied ghooishtey yn Arree.
-The frost is yielding.|Ta'n rio boggagh.
-The four seasons of the year.|Ny kiare raiee jeh'n vlein.
-The fall of the year.|Yn fouyr.
-The evening arrived.|Haink yn fastyr er.
-The evening, just before dark.|Yn cheerid.
-The evening, just before dark.|Beeal ny h-oie.
-The entry into May.|Beeal Voaldyn.
-The storm is over.|Ta'n sterrym ec kione.
-The storm gathered force.|Niartee yn sterrym.
-The storm calmed down.|Huitt y sterrym.
-The snow is drifting.|Ta'n sniaghtey sheebey.
-The sun is down.|Ta'n ghrian er n'gholl dy lhie.
-The sun is declining.|Ta'n ghrian goll sheese.
-The sun is declining.|Ta'n ghrian goll dy lhie.
-The sun is getting higher.|Ta'n ghrian gyrjaghey.
-The sun dipped below the sea.|Hie'n grian fo'n aarkey.
-The sun at noon.|Grian y vunlaa.
-The sea is running heavily.|Ta'n keayn roie feer hrome.
-The sea is getting up.|Ta'n cheayn gatt.
-The sea is thundering.|Ta'n keayn buirrooghey.
-The sea was as flat as a millpond.|Va'n keayn myr traie gheinnee.
-The sea was as calm as a millpond.|Va'n keayn lane rea.
-The sea is very calm.|Ta'n keayn feer chiune.
-The sea is booming.|Ta'n aarkey buirrooghey.
-The very late afternoon.|Yn fastyr beg.
-The very first day.|Yn chied laa va rieau ayn.
-The very same thing.|Yn red cheddin.
-The very next day.|Yn kiart laa er giyn.
-The very bottom.|Yn eer-vun.
-The tide is turned on the ebb.|Ta'n lane-marrey traih.
-The tide is running out.|Ta'n tidey traie.
-The tide is rising.|Ta'n roayrt lhieeney.
-The tide is up.|Ta lane marrey ayn.
-The tides are on the neap now.|Ta ny tidaghyn er y chontraie nish.
-The tide will lift the boat.|Ardjee yn tidey y baatey.
-The tide of battle turned.|Haink arraghey 'sy chah.
-The tide is out.|Ta'n tidey traihit.
-The tide is down.|Ta'n roayrt er draie.
-The tide is coming in.|Ta'n roayrt lhieeney.
-The tide is coming.|Ta'n roayrt lhieeney.
-The tide is flowing.|Ta'n lhieeney ayn.
-The tide is on the turn.|Ta'n lhiggin ayn.
-The tide is making.|Ta'n roayrt lhieeney.
-The tide is half flowed.|Ta'n tidey lieh lhieent.
-The time has come.|Ta'n traa er jeet.
-The time has come.|Ta'n traa ayn.
-The time for sleep has come.|Ta traa cadlee er jeet.
-The time it takes for the tide to flow.|Shayll varrey.
-The other day.|Yn laa chaie.
-The other part.|Yn chooid elley.
-The other week.|Yn shiaghtyn chaie.
-The past few years.|Ny bleeantyn jerrinagh shoh.
-The month came in with a lot of rain.|Hoshee yn mee lesh ram fliaghey.
-The month of May.|Mee ny Cooagyn.
-The month of May.|Mee ny Boaldyn.
-The moon is at the full.|Ta'n eayst ec y vullagh.
-The more the better.|Myr smoo share.
-The morning was calm and fair.|Va'n moghrey kiune as aalin.
-The morning before.|Yn moghrey roish shen.
-The morning after tomorrow.|Moghrey nuyr.
-The moon is up.|Ta'n eayst ny soie 'syn aer.
-The moon is on the wane.|Ta'n eayst baarnaghey.
-The moon is full tonight.|Ta'n eayst ec y vullagh noght.
-The moon is at the full.|Ta'n eayst lane.
-The moon is on the wane.|Ta'n eayst goll ergooyl.
-The moon is up.|Ta'n eayst heose.
-The moon is up.|Ta'n eayst 'syn aer.
-The moon is setting.|Ta'n eayst goll er e dreeym.
-The night before last.|Arroo y riyr.
-The next year.|Y vlein ny yei.
-The night closed in.|Haink yn oie.
-The night is advanced.|T'eh anmagh er yn oie.
-The night guard.|Arrey ny h-oie.
-The night darkened on us.|Cheeir yn oie orrin.
-The next year.|Y nah vlein.
-The next larger size.|Yn earroo smoo ny yei shen.
-The next instant.|Jeeragh ny yei shen.
-The next house but one.|Yn nah hie veih'n thie shoh.
-The next morning.|Moghrey laa ny vairagh.
-The next week.|Yn chiaghtyn er giyn.
-The next time I see him.|Yn chied traa dy vaikym eh.
-The next three days.|Ny tree laghyn ny yei shen.
-The night is still young.|T'eh moghey foast 'syn oie.
-The north wind's thaw, more snow.|Theinniu ny geay twoaie, tooilley sniaghtey.
-The north wind.|Yn gheay hwoaie.
-The night was far advanced.|Va'n oie foddey ceaut.
-The night that he died.|Yn oie hooar eh baase.
-The night or day before.|Arroo.
-The nights are drawing in.|Ta ny h-oieghyn gaase ny s'lhiurey.
-The nobility.|Yn krinkys.
-The nobility.|Lught ny ooashlys.
-The nights are drawing in.|Ta sheeyney cheet er ny h-oieghyn.
-The near side.|Yn cheu wass.
-The nearest house.|Yn thie s'niessey.
-The neck of the coat.|Mwannal y chooat.
-The necessaries of life.|Cooid yn vea.
-The near horse.|Yn cabbyl toshtal.
-The nasal cavity.|Lhin ny stroanney.
-The narrow glen.|Yn ghlion choon.
-The name stuck to him.|Lhiann yn ennym da.
-The native language.|Chengey ny mayrey.
-The nature of fish is to swim.|She dooghys eeast eh dy snaue.
-The native tongue.|Yn ghlare ghooie.
-The native tongue.|Chengey ny mayrey.
-The needs of the body.|Ymmyrchyn y chorp.
-The next day.|Laa ny vairagh.
-The next day.|Laa ny vairagh.
-The next day but one.|Y nah laa ny yei shen.
-The next day.|Yn laa ny yei.
-The next day.|Y naa laa.
-The new moon is setting.|Ta'n eayst goll er e dreeym.
-The nether regions.|Niurin.
-The river's bank.|Broogh ny hawin.
-The river is swollen.|Ta thooilley 'syn awin.
-The river is in spate.|Ta thooilley 'syn awin.
-The river is in flood.|Ta thooilley 'syn awin.
-The reason is not far to seek.|Ta'n fa dy baghtal ry akin.
-The regular army.|Yn armee hassooagh.
-The right hand.|Yn laue yesh.
-The river discharges into the lake.|Ta'n awin goll stiagh 'sy logh.
-The rising of the sun.|Irree ny greiney.
-The rising generation.|Yn sheeloghe ta girree nish.
-The river empties into the lake.|Ta'n awin roie stiagh 'sy logh.
-The river grows ever wider.|Ta'n awin sheer lheanaghey.
-The river flows through the meadow.|Ta'n awin roie trooid y lheeannee.
-The rising generation.|Yn sheeloghe aeg.
-The Spring of the year.|Arragh ny bleeaney.
-The saints in glory.|Ny nooghyn ayns flaunys.
-The rock is rough to your touch.|Ta'n chreg garroo fo dty vair.
-The roads were not frequented.|Cha row ny raaidyn mooarey er nyn daaghey.
-The roads were crowded.|Va ny raaidyn lung lane.
-The previous day.|Yn laa roish shen.
-The prevailing cold.|Yn feayraght shoh.
-The price was reasonable.|Va'n leagh cooie.
-The preceding day.|Yn laa roie.
-The prayers of the church.|Padjeryn yn agglish.
-The preferred thing.|Yn reih red.
-The present year.|Yn vlein shoh.
-The proceeded to blows.|Haink ad gys buillaghyn.
-The problem is ever so difficult.|Ta'n feysht cha doillee as vaik oo rieau.
-The privileged few.|Yn beggan as foayr oc.
-The poor.|Ny boght.
-The pond was soon iced over.|Va'n dubbyr riojit dy tappee.
-The prosecution.|Yn shualtys.
-The pros and cons.|Yn daa heu jeh'n skeeal.
-The proportion that bears A to B.|Yn choreir ta eddyr A as B.
-The public purse.|Kishtey yn staait.
-The year before.|Yn vlein roish shen.
-The year after next.|Yn vlein ny yei'n vlein ry heet.
-The year before last.|Arroo y nurree.
-The year was wearing to its close.|V'eh tayrn er jerrey ny bleeaney.
-There is a hang-dog look about him.|Ta red ennagh sleetchagh mychione echey.
-There is a great field for these goods.|Ta margey mooar ayn da'n chooid shoh.
 There is a link between them.|Ta boandey eddyr oc.
 There is a lot between right and wrong.|Smoo ta eddyr y chair as yn aggair.
 There is a little community there.|Ta eggys beg ayns shen.
@@ -4021,14 +2687,11 @@ There is a coldness between them.|Cha nel ad feer vooar er y cheilley.
 There is a close resemblance between them.|T'ad feer gollrish y cheilley.
 There is a darkness on the wick.|Ta smull er y vite.
 There is a good yield of wheat this year.|Ta baar mie curnee ayn mleeaney.
-There is a God.|Ta Jee ayn.
 There is a fly in the ointment.|Ta breck 'sy vainney.
 There are days when I am well and other days I'm not.|Ta laghyn ayn as ta mee mie as laghyn elley nagh vel mee.
 There are certain things.|Ta reddyn ayn.
 There are bonds between them.|Ta nastaghyn eddyr oc.
 There are loaches in the pond.|Ta cailleeyn ruy 'sy ghubbyr.
-There are fewer people here this year.|Ta ny sloo sleih ayns shoh mleeaney.
-There are bags of it.|Ta ram ayn.
 There and back.|Ayn as ass.
 There was a cleavage in the society.|Va scoltey 'sy cheshaght.
 There are a hundred fathoms of water.|Ta keead feiy er diunid ayn.
@@ -4408,601 +3071,27 @@ Those eyes of yours.|Ny sooillyn shen ayd.
 Those days are past.|Ta ny laghyn shen ceaut.
 Thousands upon thousands.|Millaghyn er millaghyn.
 This year.|Mleeaney.
-This writing is strange to me.|Cha nel enney aym er y screeuyn shoh.
 This work is beyond me.|Ta'n obbyr shoh er my skyn.
-Thorn in the flesh.|Birrag 'sy vio.
-Thorough rogue.|Jiarg-vitchoor.
-Thorough Manxman.|Manninagh magh as magh.
-Thorny question.|Feysht kialgagh.
-Trade is on the mend.|Ta cochionneeaght cheet urree.
-Trade is on the mend.|Ta cochionneeaght bishaghey.
-Trade is booming.|Ta rah er yn.
-Trade price.|Leagh traghtee.
-Trading stamp.|Clouag chionnee.
-Trading his stamps.|Truckal ny clouagyn echey.
-Trade rests upon credit.|Ta'n dellal croghey er daayl.
-Trade is booming.|Ta bisheydys er yn.
-Toy trumpet.|Cayrn paitchey.
-Toy dog.|Moddey beg.
-Toy army.|Armee maidjey.
-Toy with food.|Crimmey.
-Trade in cotton.|Traght y chadish.
-Traction wheels.|Queeyllyn tayrn.
-Toying with it.|Cloie lesh.
-Trading with Ireland.|Dellal lesh Nerin.
-Tram driver.|Immanagh tram.
-Tram conductor.|Guilley tram.
-Trains to and from London.|Traenyn dys Lunnin as er ash.
-Translated from Irish.|Er ny hyndaa ass y Yernish.
-Translated this into Manx.|Cur Gaelg er shoh.
-Translated from the French.|Veih'n Rangish.
-Transfer ticket.|Yiggad yl-linney.
-Train of thought.|Snaie smooinaght.
-Traffic policeman.|Meoir traghtey.
-Traffic accident.|Drogh-haghyrt raaidjey.
-Traffic accident.|Drogh-haghyrt raad.
-Trail along.|Sleaydey.
-Train a man for the navy.|Dooinney y aarlaghey da'n lhuingys chaggee.
-Trailing his feet.|Stroogey ny cassyn echey.
-Trail arms.|Armyn y ardjaghey.
-Tottering on his feet.|Tuittym ass e hassoo.
-Total wreck.|Slane mooirchoor.
-Total tonnage.|Trimmid slane.
-Touch off a mine.|Meainagh y vleaystey.
-Tough man.|Dooinney creoi.
-Tough cup.|Cappan neuvrishlagh.
-Touching that point.|Mychione shen.
-Total tonnage.|Thunneydys slane.
-Toss the oars.|Ny maidjaghyn raue y ghlenney.
-Toss of the head.|Snug.
-Toss of the head.|Snog.
-Tossed on the sea.|Surlit er y cheayn.
-Tot up.|Ceau seose.
-Tossing the caber.|Ceau yn caabyr.
-Tossing about in bed.|Rollal mygeayrt 'sy lhiabbee.
-Tough meat.|Feill reen.
-Town lying in a plain.|Balley ta soit er magher.
-Towards you.|Nyn gour.
-Towards there.|Chum shen.
-Town of unredeemed ugliness.|Balley feer ghraney.
-Town toll.|Keesh valjagh.
-Town residence.|Thie 'sy valley.
-Town of unredeemed ugliness.|Balley graney magh as magh.
-Towards the surface.|Neealloo.
-Tour de France.|Turrys ny Frank.
-Tour a country.|Turrys y yannoo er fud cheer.
-Tough work.|Obbyr ghoillee.
-Tourist agency.|Oik turrysagh.
-Towards the precipice.|Lesh yn eaynnee.
-Towards noon.|Tayrn er y vunlaa.
-Towards me.|My choair.
-Trooping together.|Cruinnaghey cooidjagh.
-Trooping the colour.|Cur yn brattagh er paraid.
-Trooping in and out of the door.|Cruinnaghey stiagh as magh er yn dorrys.
-Troops.|Sidooryn. 
-Troublesome person.|Boirane.
-Trot around.|Cur lesh mygeayrt.
-Troops in support.|Sidooryn coonee.
-Troop train.|Traen sidooragh.
-Trimming her nails.|Baarey ny hingnyn eck.
-Trimmed with lace.|As laatchey er.
-Trifling with his health.|Cur ayns gaue yn slaynt echey.
-Trinity Sunday.|Doonaght Trinaid.
-Triumphal arch.|Aah ardvarriaghtagh.
-Tripping along.|Daunsey roish.
-Trio of women going home.|Troor dy vraane goll thie.
-Troublesome person.|Seaghnagh.
-True to type.|Rere yn chynney.
-True to type.|Firrinagh.
-True repentance.|Arrys veih'n chree.
-True-born Englishman.|Sostynagh dooie.
-Trust bank.|Banc barrantys.
-Truly not.|Jeer cha nel.
-Truly holy.|Feer noo.
-True north.|Twoaie firrinagh.
-Trudgen stroke.|Builley trudjen.
-Trouser pocket.|Poggaid vreetchyn.
-True Gael.|Gael firrinagh.
-True north.|Twoaie chiart.
-True Manxwoman.|Ben Vanninagh ghooie.
-True Manxman.|Manninagh dooie.
-Treble clef.|Ogher trebbyl.
-Treat metal with acid.|Stoo gort y obbraghey er meain.
-Treadle lathe.|Deill coshey.
-Treble offence.|Comys tree illit.
-Treeless hills.|Cruink lhome. gyn billey.
-Tree uprooted by wind.|Billey tayrnit ass ny fraueyn ec y gheay.
-Treble voice.|Trebbyl.
-Trawl net.|Traal.
-Transporter bridge.|Droghad ymmyrkey.
-Transport worker.|Obbree ymmyrkey.
-Translated word for word.|Chyndaait fockle er fockle.
-Traveller's cheque.|Sheck troailtee.
-Travelling salesman.|Troailtagh.
-Travelling rug.|Fleshag hroailt.
-Travelling expenses.|Feeaghyn troailtagh.
-Trees beaded with dew.|Biljyn druighteenagh.
-Trick at the wheel.|Shayll ec yn stiur.
-Trice up a sail.|Shiaull y chrappey seose.
-Triangular file.|Slieeuan troorane.
-Trier-on.|Tryeyder eaddee.
-Trifling with.|Fooilleyragh rish.
-Trifling matter.|Myn-chooish.
-Trifling his money away.|Jummal yn argid echey.
-Triangles equal to each other.|Trooraneyn ta corrym rish y cheilley.
-Trees stripped of their leaves.|Biljyn lhommit gyn duillag.
-Trees of my own planting.|Biljyn soit aym pene.
-Trees in abundance.|Niart biljyn.
-Trend of my thoughts.|Snaie my smooinaghtyn.
-Trial balance sheet.|Duillag chorrym phrowallagh.
-Trespassers will be prosecuted.|Bee'n leigh currit er trespasseyryn.
-Trespass on.|Trespass y yannoo er.
-Toss it to me.|Ceau hym eh.
-Toad in the hole.|Beayfyn ayns towl.
-To your utmost.|Fo dty reir.
-To your knowledge.|Er dty yss.
-Toast him.|Iu yn slaynt echey.
-Today age struck me.|Jiu woaill yn eash orrym.
-Toby frill.|Robbee muinneel.
-Tobacconist's shop.|Shapp tombagey.
-To your knowledge.|Choud's ta fys ayd.
-To worm out.|Dy vreigey magh.
-To work with patience.|Dy obbraghey dy surransagh.
-To work westwards.|Dy woalley sheear.
-To wound seriously.|Dy creaughey.
-To you and yours.|Dhyts as dy dty luight.
-To write to his dictation.|Dy screeu ny focklyn echey.
-To write a book about.|Dy screeu er.
-Today is Monday.|Jelune t'ayn jiu.
-Toe and heel it.|Daunse y yannoo.
-Toe a sock.|Stroin y chur ayns oashyr.
-Toe a shoe.|Baare y chur er braag.
-Together with.|Myrane lesh.
-Toil and struggle.|Doccarys.
-Toil and struggle.|Doccar.
-Togs.|Cullee.
-Today's paper.|Pabyr yn laa jiu.
-Today is Wednesday.|She Jecrean t'ayn jiu.
-Today is Wednesday.|Jiu yn Crean.
-Today is Monday.|Jiu yn Lhein.
-Today week.|Ayns shiaghtin.
-Today's newspaper.|Pabyr yn laa jiu.
-Today week past.|Shiaghtin er dy henney.
-Today week.|Shiaghtin jiu.
-Toothed sickle.|Corran feeacklagh.
-Toothed wheel.|Queeyl 'eeacklagh.
-Tootle on the flute.|Kiaull y chassey ass y feddan millish.
-Toothsome morsel.|Greim millish.
-Toothpick.|Birrag 'eeackle.
-Tortoise shell cat.|Kayt breck.
-Toss a coin.|Cooinney y hilgey.
-Tory party whip.|Greeseyder yn phartee Toree.
-Tortoise shell limpet.|Barnagh vreck.
-Torn in strips.|Raipit ayns skilleigyn.
-Top level talks.|Coloayrtyssyn eaghtyragh.
-Top hat.|Edd ard.
-Top gear.|Ard-gheear.
-Top of a bucket of corn.|Baarelagh.
-Torchlight procession.|Mooar-hooyl fo doaganyn.
-Top ribs.|Baare-asnaghyn.
-Top of the head.|Claigin.
-Tomorrow's share.|Cooid yn laa mairagh.
-Tomorrow week.|Shiaghtin mairagh.
 Tomorrow night.|Oie ny vairagh.
-Tongues of the nations.|Chengaghyn ny h-ashoonyn.
-Tongue full of venom.|Chengey nieuagh.
-Tomorrow's work.|Obbyr y vairagh.
 Tomorrow morning.|Moghrey ny mairagh.
-Toll a death.|Clag baaish y woalley.
-Tolerance of two thousandths.|Lowaltys daa villioo.
-Tolerance of two thousandths.|Lowaltys daa housaneoo.
-Toll for the dead.|Yn clag y woalley ayns cooinaghtyn jeh ny merriu.
-Tomorrow morning.|Moghrey mairagh.
-Tomorrow is Sunday.|Mairagh yn Doonaght.
-Tomorrow is Sunday.|Mairagh yn Doonaght.
 Tonight.|Noght.
-Too hooked.|Ro ghooanagh.
-Too good.|Ro vie.
-Too far east or too far west.|Roud sheear ny roud shiar.
-Too hot.|Ro heh.
-Too long in time.|Ro 'oddey.
-Too little.|Ro veg.
-Too little.|Cooid veggan.
-Too far east and too far west.|Rouyr shiar as rouyr sheear.
-Tons of times.|Ymmodee keayrtyn.
-Toning bath.|Faarkey toanee.
-Tonight at midnight I will come to you.|Noght ec mean oie higym hood.
-Too beautiful for words.|Aalin erskyn focklyn.
-Too far.|Roud.
-Too far.|Ro 'oddey.
-Too difficult.|Ro ghoillee.
-Ultra violet microscope.|Meegra-hilleyder erskyn ghorrym.
-Ultra modern.|Feer noa-emshiragh.
-Ultimate survival.|Mayrnaght yerrinagh.
-Unable to rise because of sickness.|Er troggloo.
-Unaffected by water.|Gyn assee liorish ushtey.
-Unadorned truth.|Firrinys lhome.
-Unabridged edition.|Reaghane neuyiarrit.
-Ulterior motives.|Aignaghyn follit.
-Tynwald will rise next month.|Nee Tinvaal scuirr yn vee shoh cheet.
-Tynwald is in session.|Ta Tinvaal ny hoie.
-Tynwald Hill.|Cronk Keeill Eoin.
-Tyres that wear for ever.|Croughyn docheauit.
-Ulterior designs.|Aignaghyn follit.
-Ulcerated dermal necrosis.|Yn chingys Yernagh.
-Ugly sight.|Geusooilley.
-Unalloyed happiness.|Maynrys gyn scaa.
-Undamped waves.|Tonnyn gyn meayllaghey.
-Unconsecrated wafer.|Oalan gyn casherickey.
-Uncommonly good.|Mie er bashtal.
-Under a crowd of sail.|Fo lane shiauill.
-Under cover of night.|Fo keim ny hoie.
-Under cover of night.|Er oie.
-Under colour of law.|Fo scaa yn leigh.
-Uncommon word.|Fockle goan.
-Unblamable person.|Meechyndagh.
-Unbecoming headgear on a woman.|Boldhaa.
-Unapt for teaching.|Gyn keeal da'n ynsaghey.
-Uncalled capital.|Bun-argid neu yllit.
-Uncle by marriage.|Naim trooid poosey.
-Uncircumcised male person.|Chymmyltagh.
-Uncalled for.|Meehraaoil.
-Two seater car.|Gleashtan da jees.
-Two seater 'plane.|Etlan daa hoiag.
-Two refusals are better than one promise.|Share daa obbal na gialdyn.
-Two shilling piece.|Peesh daa skillin.
-Two times.|Ghaa wheesh.
-Two stroke motor.|Gleaysheyder daa-vuillagh.
-Two storeyed house.|Thie daa laare.
-Two pounds in weight.|Daa phunt er trimmid.
-Two men.|Daa ghooinney.
-Two males.|Daa irrynagh.
-Two immature lobsters equal one lobster.|Ta daa pherick jannoo un ghimmagh.
-Two men to be hanged.|Daa ghooinney ry chroghey.
-Two pounder trout.|Breck daa phunt.
-Two or three years.|Daa ny tree dy vleeantyn.
-Two o'clock.|Jees er y chlag.
-Two toed.|Daa vairagh.
-Two-way.|Dooblit.
-Two white hands.|Daa laue vaney.
-Two trees of like species.|Daa villey jeh keint cosoylagh.
 Two wrongs do not make a right.|Cha ren rieau daa vreag y firrinys.
-Two-edged sword.|Cliwe daa-foyragh.
-Two years in succession.|Daa vlein ny yei y cheilley.
-Two year old sheep.|Thannid.
-Under way.|Fo-raad.
-Under water.|Fo ushtey.
-Under the treaty.|Rere y conaant.
-Under-strata.|Fo-eaghtyryn.
-Underestimate the range.|Yn foddid-orraghey y choontey ro yiare.
-Underestimate the importance of an affair.|Gyn scansh ny cooish y hoiggal.
-Underdose.|Towse giare.
-Under the table.|Fo'n voayrd.
-Under the present circumstances.|Myr t'eh ec y traa t'ayn.
-Under the open sky.|Mooie fo'n speyr.
-Under the mask of devotion.|Fo scaa craueeaght.
-Under the right breast.|Fo'n cheeagh yesh.
-Under the sole of my foot.|Fo trie my choshey.
-Under the sod.|Fo'n 'oaid.
-Under the sod.|'Syn oaye.
-Underfoot.|Fo chosh.
-Undermining its banks.|Cleiy fo ny brooinyn eck.
-Underhung chin.|Smeg gheyre.
-Underheated.|Fo hiowt.
-Underpants.|Fo-hroosyn.
-Underwrite a risk.|Raanteenys y chur er gaue.
-Understand one's duty.|Toiggal dty churrym y ve ayd.
-Undershot wheel.|Queeyl fo-skiootal.
-Underhand throw.|Ceau fo-laue.
-Underground house.|Thie fo halloo.
-Undergoing surgery.|Goll fo skynn yn 'er-lhee.
-Undergoing repairs.|Goll er karraghey.
-Underground worker.|Fo hallooder.
-Undergrown with scrub.|Fo scroig viljagh.
-Undergrown with scrub.|Fo mynfoiee.
-Undergrown with scrub.|Fo myncheyll.
-Under sentence of death.|Deyrit gy baase.
-Under repair.|Goll er karraghey.
-Under oath.|Fo loo.
-Under separate cover.|Fo coodagh er lheh.
-Under tax.|Fo keesh.
-Under similar circumstances.|Ayns cooish jeh'n sorch cheddin.
-Under servant.|Fo-harvaant.
-Under my care and his.|Fo my chairails as echeysyn.
-Under gardener.|Lhiass gareyder.
-Under favour of the night.|Fo scaa ny h-oie.
-Under cover of your wings.|Fo scaa dty skianyn.
-Under government control.|Fo stiurey yn reiltys.
-Under lock and key.|Fo ghlass.
-Under licence.|Lesh kied.
-Under investigation.|Fo ronsaghey.
-Under the arm.|Fo'n aghlish.
-Under the influence of drink.|As yn jough gobbraghey er.
-Under the influence.|Scooyrit.
-Under the influence.|Er meshtey.
-Under the influence of drink.|Er meshtey.
-Under the lee of the island.|Fo'n ellan.
-Under the lee of the island.|Er cheu yn astee jeh'n ellan.
-Under the influence of republicanism.|Fo cummaght poblaghteyrys.
-Under the guise of friendship.|Fo scaa caarjys.
-Under the circumstances.|Lesh y tuittymys t'ayn.
-Under the cloak of religion.|Fo scaa ny craueeaght.
-Under the eye of the teacher.|Fo stiurey yn 'er ynsee.
-Under the cope of night.|Fo cheim ny hoie.
-Under the cloud of night.|Ayns dorraghys ny hoie.
-Two houses.|Daa hie.
-Turn someone adrift.|Yn dorrys y chur da peiagh ennagh.
-Turn out of doors.|Cur magh.
-Turn something to the best account.|Yn mie y yannoo jeh red.
-Turn the corner.|Yn corneil y chassey.
-Turn the cattle out.|Cur yn ollagh magh.
-Turn the big one off.|Cur y fer mooar ersooyl.
-Turn one's back on.|Dty chooyl y choyrt rish.
-Turn on the light.|Foadd yn soilshey.
-Turn off the gas at the meter.|Meedyr yn ghas y vooghey.
-Turn of the wind.|Chyndaa ny geayee.
-Turn on the tap.|Foshil yn fyseid.
-Turn on the water.|Yn ushtey y chur er roie.
-Turn on the vision.|Cur bree da'n chilley.
-Turn on the tap.|Yn fyseid y 'osley.
-Turn the hay.|Cass yn traagh.
-Turning up the nose.|Stroineeys.
-Turning and twisting.|Cassey as lhoobey.
-Turned out to order.|Jeant rere oardagh.
-Turnip tops.|Duillagyn napin.
-Twaddle.|Boghtynid.
-Tutorial room.|Shamyr ynsee.
-Turret lathe.|Deill tooreenagh.
-Turned out of doors.|Chyndaait magh er y dorrys.
-Turn the room out.|Glen magh yn chamyr.
-Turn the page over.|Cur yn duillag harrish.
-Turn the key in the lock.|Yn ogher y chassey 'sy ghlass.
-Turn the scale.|Yn meih y chroghey.
-Turn your toes out.|Cass dty chassyn magh.
-Turn toes in.|Baare ny cassyn y chassey stiagh.
-Turn the tap on.|Foshil yn fyseid.
-Tuck him up in bed.|Fill stiagh 'sy lhiabbee eh.
-Tuck box.|Kishteig lhongee.
-Tuck into a cake.|Lhiggey stiagh er berreen.
-Tumbling in bed.|Gymmylt 'sy lhiabbee.
-Tumble down.|Lhieggey neose.
-Tug at one's heart strings.|Corrid cree.
-Tuck a rug round.|Fleshag y filley mysh.
-Try a dish.|Bee y vlasstal.
-Trust in the Lord.|Cur treisht ayns yn Chiarn.
-Try and help me.|Jean dty chooid share dy chooney lhiam.
-Tubby woman.|Ben veg roauyr.
-Trying plane.|Locker rea.
-Tune out a station.|Stashoon y yiarrey magh.
-Turn at the wheel.|Shayll ec yn stiur.
-Turn a skin outside in.|Crackan y hyndaa bun ry skyn.
-Turn him out of office.|Cur magh ass oik eh.
-Turn him out off office.|Cur ass oik eh.
-Turn me over.|Chyndaa mee harrish.
-Turn it round.|Chyndaa mygeayrt eh.
-Turn it off.|Jeigh eh.
-Turkish delight.|Miljan Turkagh.
-Tuning in to a station.|Chioonaghey stiagh ayns stashoon.
-Tuning in.|Co-ghlassey.
-Tungsten steel.|Stailleen tungsten.
-Tup with undescended testicles.|Conrea.
-Turfy ground.|Grunt moaney.
-Turf accountant.|Gial-ghlackeyder.
-Turbulent person.|Meereiltagh.
-Twist them together.|Carr ad er y cheilley.
-Twist of tobacco.|Feddan tombaacey.
-Twins of the one birth.|Lhiennoo jeh'n un chennar.
-Twisted straw rope.|Suggane.
-Twisting flowers into a wreath.|Blaaghyn y fee ayns slongan.
-Twisting and turning.|Lhoobey.
-Twisted thing.|Stramlag.
-Twinkling star.|Rollage veekyragh.
-Twin birth.|Ruggyr lannoonagh.
-Twin birth.|Daa lhiannoo ec yn un' chennar.
-Twin bed.|Lhiabbee chubbylagh.
-Twin brother.|Braar lannoonagh.
-Twinkling of an eye.|Meekey sooilley.
-Twine them together.|Cass er y cheilley ad.
-Twin sister.|Shuyr lannoonagh.
-Two and two make four.|Daa as daa, shen kiare.
-Two faggots will burn better than one.|Share lostys daa vrasnag na unnane.
-Two dimensional shape.|Cummey daa howshagh.
-Two decked ship.|Lhong daa lout.
-Two for a penny.|Jees er ping.
-Two hands.|Daa laue.
-Two halves.|Daa lieh.
-Two goals to nil.|Daa ghean noi neunhee.
-Two decked ship.|Lhong daa laare.
-Two by two.|Jees as jees.
-Two big houses.|Daa hie vooarey.
-Two at a time.|Jees as jees.
-Two consenting adults.|Daa phersoon aasit joinagh.
-Two days later.|Daa laa ny yei.
-Two days following.|Daa laa ny yei y cheilley.
-Two courses are open to us.|Ta daa reih ain.
-Twenty miles from here.|Feed meeilley ass shoh.
-Twelve men.|Daa ghooinney jeig.
-Twelfth Night.|Oie yn Nah Laa Jeig.
-Twelfth Night.|Oie yn Ghiense.
-Twelfth Day.|Laa yn Ghiense.
-Twelve and a half per cent.|Daa-yeig dy lieh 'sy cheead.
-Twelve divides by three.|Ta daa yeig yn-rheynn liorish tree.
-Twelve boats.|Daa vaatey yeig.
-Twenty one years.|Blein as feed.
-Twice as much.|Daa cheayrt smoo.
-Twice and one over.|Daa cheayrt as unnane faagit.
-Twice a week.|Daa cheayrt 'sy chiaghtin.
-Twice as much.|Ghaa wheesh.
-Twilit sky.|Speyr yn choleayrtys.
-We are wasting our time.|Ta shin jummal nyn draa.
-What he says is true.|Ta'n 'irriney echey.
 What he says is true.|Ta'n firrinys echey.
 What I say goes.|Mish dy ghra as adsyn dy yannoo eh.
 What I have written I have written.|Ny ta scruit aym t'eh scruit.
 What is done cannot be undone.|Shen ta jeant t'eh jeant.
 What is ours is yours.|Ny ta lhiens t'eh lhieuish.
 What is mine is thine.|Ny ta lhiams, s'lhiats.
-What e'er betide.|Cre erbee haghyrys.
-What the future holds.|Ny reddyn ta ry-heet.
-What is yours is theirs.|Ny ta lhiats s'lhieusyn.
-What is yours is his.|Ny ta lhiats, leshyn eh.
-Were it not.|Erb be dy.
-Were it not for.|Myrragh.
-Were it not.|Erbey dy.
-Wet pack.|Clabbag fliugh.
-Westerly current.|Stroo neear.
-Wet through.|Fliugh baiht.
-Wet the tea.|Yn tey y 'liughey.
-Wet steam.|Gaal ushtey.
-Wet through.|Fliugh ny hrooid.
-Wetting his whistle in the pub.|Fliughey yn scoarnagh echey 'sy thie oast.
 What a funny idea.|Cre'n smooinaght aitt.
-We are tied to England's apron strings.|Ta shin fo slat Hostyn.
 Upon my honour.|Er m'ockle.
-Up to now.|Derrey nish.
-Up to the present.|Derrey nish.
-We always dine out.|Ta shin goaill nyn jinnair dy kinjagh ass y thie.
-We all centred round him.|Chruinnee shin ooilley mygeayrt echey.
 We agreed to differ.|Daag shineddyr ain eh.
-Way of life.|Aght baghee.
-Wattle work.|Spelt.
-Wattle hurdle.|Spelt.
-Waters.|Faarkaghyn.
-Waves out of phase.|Tonnyn ass cophaase.
-Way in.|Bollagh stiagh.
-Waxing moon.|Eayst vishee.
-Waxed thread.|Snaie kereagh.
-Want of judgement.|Jee-vriwnys.
-Virgin forest.|Faasagh keylley.
-Violent quarrel.|Troddan elgyssagh.
-Violent motion.|Jeean-ghleashaght.
-Virgin forest.|Keyll nagh hurr foyr.
-Virtual image.|Jalloo soylagh.
-Virtual image.|Caslys soyllee.
-Virgin forest.|Keyll neuventit.
-Violent emotion.|Raght.
-Video tape.|Rybban chellveeishagh.
-Victoria Terrace.|Ardane Varriaght.
-Victor ludorum.|Cosneyder gammanyn.
-View of the sea.|Reayrt ny marrey.
-Viking longship.|Birling.
-Viewers.|Lught fakin.
-Virulent anger.|Gallvarg.
-Vivid imagination.|Sheiltynyns bioyr.
-Visual observation.|Baght sooilley.
-Visual aids.|Coodaghyn sooilley.
-Vocal minority.|Mynlagh feiyral.
-Voice from above.|Coraa ass Niau.
-Vocational school.|Scoill cheirdey.
-Vocal prayers.|Padjeryn beill.
-Visitor's book.|Lioar ny keayrtee.
-Visible to the naked eye.|Ry akin ec yn tooill.
-Visible signal.|Cowrey fakinagh.
-Virulent anger.|Gallverg.
-Visible under the microscope.|Ry akin fo'n veegrahilleyder.
-Visiting hours.|Ooryn keayrtagh.
-Visiting every house.|Cartaghey.
-Visions of wealth.|Ashlishyn verchys.
-Very spotted thing.|Brecklagh.
-Very small wish.|Sappag.
-Very small piece.|Minniag.
-Very strong taste.|Rah.
-Very thin person.|Shanglane.
-Very stumpy.|Feer whonnagh.
-Very strong wind.|Geay feer vooar.
-Very small man.|Fereen.
-Very short time.|Tootchey.
-Very short time.|Tootch.
-Very short time.|Thurrick.
-Very sick.|Donney.
-Very small herbs.|Lussan.
-Very small ear.|Jeeassag.
-Very small.|Feer veg.
-Very thin person.|Ushylagh.
-Vexation of spirit.|Seaghney cree.
-Veterinary inspector.|Feyshteyder baagh.
-Veteran runner.|Shenn roieder.
-Via Castletown.|Trooid Balley Chashtal.
-Vice-chairman.|Lhiass-chaairliagh.
-Vicarious pleasure.|Taitnys far-ynnydagh.
-Vicar of Bray.|Lhiam-lhiat.
-Vestry book.|Lioar skeerey.
-Very well.|Slane vie.
-Very young mouse.|Jiarganagh.
-Vested interests.|Kiartyn jeelsit.
-Vessel running free.|Saagh roie lesh y gheay.
-Very young woman.|Caillag.
-Walk sharply.|Shooyl dy bioyr.
-Walk out one's girl.|Dty ghoodee y cur magh er cosheeaght.
-Walk on the road.|Cosheeaght.
-Walk the plank.|Yn claair y hooyl harrish boayrd.
-Walking side by side.|Shooyl cosh ry cholbey.
-Walking proudly.|Ard-cheimnaghey.
-Walking in the rain.|Shooyl fo'n 'liaghey.
-Walk of life.|Gerrym.
-Wait, said the man.|Fuirree, as y dooinney.
-Wait until morning.|Tannee gys yn laa.
-Wait until I finish this.|Fuirree derrey verym jerrey er shoh.
-Waiting for the bus.|Fuirraght er y vus.
-Walk in line.|Shooyl rere strane.
-Walk a little way with me.|Shooill marym rish tammylt beg.
-Walking sideways.|Shooyl lhiassagh.
-Wall that drips.|Boalley drigagh.
-Wall of stone.|Boalley cloaie.
-Wall five feet high.|Boalley queig trie er yrjid.
-Wall that drips.|Boalley ta jannoo ushtey.
-Wander the world.|Y seihll y hooyl.
-Walrus moustache.|Far-veeal rauney.
-Walls lined with wood panelling.|Boallaghyn as lineal dy phannal fuygh orroo.
-Wall clad with ivy.|Boalley fo brat hibbin.
-Walking the mountains.|Shooyl ny sleityn.
-Walking steadily.|Shooyl dy neuchorragh.
-Walking slowly.|Talkal.
-Walking the town.|Shooyl y balley.
-Wall a town.|Boallaghyn y hroggal mygeayrt y mysh balley.
-Walking with the aid of a stick.|Shooyl lesh maidjey.
-Walking tour.|Turrys cosheeagh.
-Vulgar fraction.|Corrillagh cadjin.
-Vote by proxy.|Shagh-votal y yannoo.
-Vote a sum.|Sym y votal.
-Vulgar fraction.|Corrillagh cadjin.
-Wading through a book.|Traaue trooid lioar.
-Wading in the sea.|Shooyl 'sy cheayn.
-Wade through a ford.|Aah y hooyl.
-Voracious reader.|Lhaihder jeean.
-Volatile electorate.|Sleihreihys caghlaaee.
-Voice vibrating with emotion.|Coraa er-creau lesh anvea.
-Voice from beyond the grave.|Coraa veih'n traie hoal.
-Voltage drop.|Tuittym voltys.
-Voluntary organisation.|Sheshaght yoinagh.
-Voluntary organisation.|Sheshaght arryltagh.
-Voltaic battery.|Co-chillag voltagh.
-Wagging their heads.|Craa nyn ging.
 Wait for me.|Fuirree orrym.
 Wait awhile.|Fuirree dreayst.
-Wait at the crossroads for me.|Fuirree ec y chrosh orrym.
-Wait for me.|Fuirree rhym.
-Wait until I come.|Fuirree derrey higym.
-Wait for me at the market place.|Fuirree ec y chrosh orrym.
-Wait for me at the market cross.|Fuirree ec y chrosh orrym.
-Waifs and strays.|Paitchyn treigit.
-Wagging their tongues.|Cabberaght.
-Wait a while.|Fuirree tammylt.
+Wait awhile.|Fuirree tammylt.
 Wait a little while.|Fuirree rish tammylt beg.
-Yonder is my country.|Shid y cheer aym.
-Yonder is my country.|Er hid y cheer aym.
-Yonder horse.|Yn cabbyl shid.
-Yonder it is.|Er hid eh.
-You all go first.|Immee-jee ooilley hoshiaght.
-Yonder it is.|Shid eh.
+Wait until I come.|Fuirree derrey higym.
 Yield not to temptation.|Ny lhig lesh miolagh.
-Yet a while.|Dreayst.
-Yesterday was a fine day.|Va'n laa jea aalin.
 Yesterday morning.|Moghrey jea.
-Yet again.|Reesht.
-Yew tree.|Billey euar.
-Yet you are not happy.|Ta shiu feer anvaynrey ny yei.
-Yet more.|Tooilley foast.
 You are able.|T'ou lajer.
 You are able.|T'ou abyl.
 You are able.|Foddee oo.
@@ -5073,82 +3162,8 @@ You are in my light.|T'ou 'sy tollys orrym.
 You are in his room.|T'ou ayns y chamyr echey.
 You are inviting trouble.|T'ou tayrn boirey ort hene.
 You are just as one would expect.|T'ou myr by chooie dhyt.
-Wringing wet.|Sheeley ushtey.
 Words to that effect.|Focklyn jeh'n vree shen.
 Words that don't bear repeating.|Focklyn nagh vod shin aaraa.
-Words passed between them.|Va focklyn eddyr oc.
-Work at the surface.|Obbyr erskyn thalloo.
-Work into.|Cur stiagh.
-Work in shifts.|Shayllyn y yannoo.
-Words in everyday use.|Focklyn cadjin.
-Word in season.|Fockle traaoil.
-Word in season.|Fockle ayns traa.
-Word in everyday use.|Fockle ta cadjin 'sy chengey.
-Word now out of use.|Fockle nish naggyr.
-Words calculated to reassure us.|Focklyn verragh creeaght orrin.
-Word of truth.|Fockle firriney.
-Word of command.|Fockle yn sarey.
-Work into.|Fee stiagh.
-Worked by electricity.|Obbrit liorish lectraghys.
-Work without order, work without thanks.|Obbyr gyn oardagh, obbyr gyn bwooise.
-Work upstream.|Yn awin y eeastagh seose.
-Worker bee.|Shellan obbyr.
-Worker's republic.|Poblaght ny labreeyn.
-Worker's compensation.|Aayeeilley ny labree.
-Worker power.|Niart ny labreeyn.
-Work to windward of the rock.|Gow cheu ny geayee jeh'n chreg.
-Work long hours.|Laa liauyr y obbraghey.
-Woman that gives suck.|Ben chee.
-Woman of the house.|Ben y thie.
-Woman of my heart.|Ben my chree.
-Wood folk.|Mooinjer ny keylley.
-Woollen stockings.|Oashyryn olley.
-Woollen goods.|Eaddeeyn olley.
-Wool mill.|Mwyllin olley.
-Woollen yarn.|Snaie olley.
-Word for word.|Fockle er fockle.
-Word came that he was dead.|Haink fys dy row eh marroo.
-Woolly clouds.|Bodjallyn loamragh.
-Wool grease.|Sahll-keyrragh.
-Wooded place.|Keyll.
-Wood nymph.|Ben-jee ny keylley.
-Wood in the rough.|Foiee lieh-chiart.
-Wooden foot.|Cass vaidjey.
-Wool cloth.|Eaddagh olley.
-Wooden horse.|Cabbyl maidjey.
-Wooden handled hammer.|Oard cass-vaidjey.
-Would wall.|Boallagh.
-Worthy of respect.|Feeu arrym.
-Worthy of honour.|Ooasle.
-Wrapped in paper.|Fillit ayns pabyr.
-Wrapped in meditation.|Dy dowin ayns sursmooinaght.
-Wrap round.|Filley er.
-Wrapped up in clothing.|Soaillit ayns eaddagh.
-Wringing wet.|Lane ushtey.
-Wring clothes dry.|Yn ushtey y faastey ass eaddagh.
-Wreck of the sea.|Mooirchoor ny marrey.
-Wrap round.|Cur coodagh er.
-Woven work.|Obbyr feeit.
-Wounded person.|Guintagh.
-Working man.|Obbree.
-Working like blazes.|Gobbragh gollrish y Jouyll.
-Working in the smithy.|Gobbragh 'sy cheirdee.
-Working miracles.|Jannoo mirrilyn.
-Working spasmodically.|Ratchal.
-Working parts.|Aynyn obbree.
-Working on a book.|Screeu lioar.
-Working in a bungling manner.|Murtaghey.
-Working beast.|Baagh obbree.
-Working a machine.|Gobbraghey jeshaght.
-Working a cure.|Jannoo lheihys.
-Working by night.|Jannoo arnane.
-Working for Peter.|Gobbragh da Peddyr.
-Working drawing.|Bun-linneeaght.
-Working dog.|Moddey cloh.
-Working woman.|Ben obbree.
-Worse than this.|Ny s'messey na shoh.
-Worrying the sheep.|Boirey er ny kirree.
-Worry kills people quicker than work.|Ta boirey marroo sleih ny s'tappee na obbyr.
 Worship of the gods.|Ooashley ny jeeaghyn.
 Worthless person.|Riftan.
 Worthless animal.|Briggyl.
@@ -5540,41 +3555,13 @@ He has been elected president.|T'eh er ve reiht ardreiltagh.
 This law has been abolished.|Ta'n leigh shoh er ve scryssit magh.
 You've been paid.|Ta shiu er ve eeckit.
 He would have been proclaimed emperor.|Veagh eh er ve focklit magh impir.
-The house has been pulled down.|Ta'n thie er ve lhieggit.
 I've been invited.|Ta mee er ve cuirrit.
 You'll be honoured.|Bee onnor currit diu.
-They'll be warned.|Bee raaue currit daue.
-They'd be killed.|Veagh ad er nyn maroo.
-You would be punished.|Veagh shiu kerrit.
-We should be justly blamed.|Veagh foill chair currit orrin.
-He received a dangerous wound.|Hooar eh lhott danjeyragh.
-If they were to speak English oftener.|Dy beagh ad loayrt Baarle ny s'menkey.
-You were obliged to speak French.|Beign diu loayrt Frangish.
-We were obliged to speak quickly.|Beign dooin loayrt dy-tappee.
-You were obliged to speak slowly.|Beign diu loayrt dy moal.
-They had to speak Spanish.|Beign daue loayrt Spaainish.
 You ought to be thankful.|Lhisagh shiu ve booisal.
-You have to brush your clothes.|Shegin diu skeabey nyn eaddeeyn.
-Wash thy hands.|Niee dty laueyn.
-Don't print your book yet.|Ny prent nyn lioar foast.
-Don't throw stones.|Ny ceau claghyn.
-Don't eat so much fruit.|Ny ee wheesh dy vess.
-Let us swim.|Lhig dooin snaue.
-Get your house furnished.|Greigh nyn dhie.
-Mix the drugs.|Mest ny stooghyn-lheihys.
-Dress the children as quickly as possible.|Cur mysh ny paitchyn cha tappee as oddys shiu.
-Don't borrow too much money.|Ny gow rouyr argid er eeasaght.
 Take my advice.|Gow my choyrle.
 Make haste.|Jean siyr.
 Study your lessons.|Ynsee nyn lessoonyn.
-Don't let us spoil our children.|Ny lhig dooin milley nyn baitchyn.
-Don't strike the dog.|Ny bwoaill yn moddey.
-Knock at the door.|Crank er y dorrys.
-Mark the place.|Cowree yn boayl.
-You must give him something.|Shegin diu cur red ennagh da.
 Let us work well to-day.|Lhig dooin gobbraghey dy-mie jiu.
-He has to give you ten shillings.|Shegin da cur dhyt jeih skilleeyn.
-You were obliged to speak softly.|Beign diu loayrt dy-meeley.
 They must give me a good character.|Shegin daue cur dou ambee mie.
 Shake off the dust.|Crie jeh yn joan.
 Don't forget anything.|Ny jarrood red erbee.
@@ -5636,7 +3623,6 @@ These habits are disgusting.|Ta ny oashyn shoh eajee.
 Those words are deceptive.|Ta ny focklyn shen molteyragh.
 Don't say such things.|Ny abbyr lheid ny reddyn.
 That's the best thing you can do.|Shen y red share oddys shiu jannoo.
-To-morrow is Christmas Day.|Ta laa ny vairagh Laa n'Ollick.
 We shall soon be at our journey's end.|Beemayd dy-gerrid ec kione nyn yurnaa.
 How kind it is of you.|Cre cha dooie as ta shiu.
 You are happy.|Ta shiu maynrey.
@@ -5947,47 +3933,25 @@ n'insh dhyt myr|shen, agh cha nel oo dy-
 He'll succeed sooner or later.|Hig nheeghyn lesh ny s'leaie ny ny s'anmee.
 We went all round.|Hie shin ooilley mygeayrt.
 Man is everywhere the same.|Ta dooinney yn lheid cheddin dy- chooilley raad.
-Procrastinating.|Lhiggey my hraa.
 Don't go there.|Ny immee dys shen.
 Come here.|Trooid dys shoh.
-We live quite near.|Ta shin baghey slane er-gerrey.
-Come a little closer.|Trooid red beg ny sniessey.
-She hasn't acted prudently.|Cha nel ee er n'aghtey dy-tastagh.
 Speak sensibly.|Loayr dy-keeallagh.
-Fortunately he wasn't at home.|S'aighoil nagh row eh ec y thie.
 Go in quite quietly.|Immee stiagh slane feagh.
 I'll tell you quite frankly, that you haven't acted honourably in this affair.|Inshym slane foshlit dhyt nagh vel oo er n'aghtey dy-onnoroil ayns y chooish shoh.
 They've had no news at all.|Cha nel naight erbee er ve oc.
 The more merit one has, the more modest one is.|Myr smoo yn toilchinys t'ec fer, s'fasteet'eh.
 The less knowledge one has, the more conceited one is.|Myr sloo yn fys t'ec fer, smoo corvian t'echey.
 The more exercise you take, the better you'll be.|Myr smoo yn roortys ghowys oo, share vees oo.
-You write as well as your brother.|T'ou screeu cha mie as dty vraar.
-My sister writes the best.|Ta my huyr share screeu.
-He writes better and better.|T'eh screeu ny share as ny share.
-You've paid a great deal for your hat.|T'ou er n'eeck mooarane son dty edd.
-It is very wrong of you to go there.|T'ou g'aghtey feer aggairagh goll dys shen.
-You won't find better hats anywhere.|Cha now idd ny share raad erbee.
-You might have bought it cheaper.|Oddagh oo er gionnaghey eh ny s'neugheyr.
-Learn one page at least.|Ynsee un cheu ec y chooid sloo.
-Learn these two pages by heart.|Ynsee yn daa heu shoh liorish cree.
-He'll probably come next Thursday.|Feer likly hig eh Jerdain shoh cheet.
-He feels how guilty he is.|T'eh g'ennaghtyn cre cha oolee as t'eh.
 Don't all speak at once.|Ny loayr ooilley ec y traa cheddin.
 These are the conditions, without which it is impossible to succeed.| Shoh ny conaantyn, nyn vegooish cha nod veg cheet lesh.
 I've forgotten the details of the fact you mention.|Ta mee er n'yarrood ny mynreddyn jeh'n irriney t'ou g'imraa.
-He was a friend whose memory we cherish.|V'eh ny charrey shynney lhienyn e chooinaghtyn.
-Your father is a man to whom I'm under great obligations.| Ta dty ayr ny ghooinney dasyn ta mee lhiastyn mooarane.
 That is where you are mistaken.|Ta shen raad t'ou jannoo marran.
-This book is very entertaining.|Ta'n lioar shoh feer taitnyssagh.
-It's mine, yours, his, hers, ours, yours, theirs.|T'ee lhiams, lhiats, leshyn, lheeish, lhienyn, lhiuish, lhieusyn.
 How can you do that without my permission.| Kys vod oo jannoo eh shen fegooish my chied.
-He who doesn't respect his father cannot be a good man.|Eshyn nagh vel cur arrym da e ayr, cha vod eh ve ny ghooinney mie.
 However opposed our opinions may be, do not let us hate each other.|Kied echey ta nyn gredjueyn shassoo noi e cheilley, ny lhig dooin ve dwoaieagh er y cheilley.
 However rich you may be, don't despise the poor.|Kied echey berchagh as foddee shiu ve ny soie beg jeh ny boghtyn.
 To be truthful is a virtue.|S'mie ve firrinagh.
 You don't know what you are saying.|Cha s'ayd c'red t'ou gra.
 You don't know what has happened.|Cha s'ayd c'red t'er daghyrt.
-We believe what we think probable.|Ta shin credjal shen ny ta shin smooinaghtyn dy ve coso
 I'll give him everything he needs.|Verym da dy-chooilley red t'eh shassoo ayns feme jeh.
 What I wish most is to see you happy.|Cre smoo saillym te dy yeeaghyn oo maynrey.
 Every evil has its remedy.|Ta olk as e chouyr echey.
@@ -6024,31 +3988,8 @@ Thank you for calling to see me.|Gura mie eu son cheet dy my yeeaghyn.
 We haven't too much time.|Cha nel rouyr traa ain.
 Let us follow this path.|Lhig dooin eiyrt er y chassan shoh.
 The fire is very low.|Ta'n aile feer injil.
-You haven't poked the fire.|Cha nel shiu er vroddey yn aile.
-It's not quite out.|Cha nel eh dy-slane mooie.
-You've let the fire go out.|Ta shiu er lhiggey da'n aile goll magh.
-Yes, I remember it very well.| S'cooin lhiam dy-mie eh.
-Winter has come.|Ta'n geurey er jeet.
-It's winter now.|Ta'n geurey ayn nish.
-As for me, I like winter as well as summer.|Er my hons, s'laik lhiam yn geurey chammah's yn sourey.
-We've had no winter this year.|Cha nel geurey erbee er ve ain mleeaney.
-It's like a summer's day to-day.|Te goll-rish laa souree jiu.
-It's the most pleasant of all the seasons.|T'eh yn fer s'taitnysee jeh ooilley ny imbaghyn.
-It's the season I like the best.|Te yn imbagh share s'laik lhiam.
-The weather is like spring.|Ta'n earish goll-rish yn arragh.
 It's not late.|Cha nel eh anmagh.
-It's the nearest way home.|Te yn aagherrid dy-valley.
-We shall soon be back again.|Beemayd dy-leah er-ash.
-It's only half-an-hour's walk.|Cha nel eh agh walkal lieh-oor.
-One can't see at five o'clock.|Cha leayr da fer ec queig er y chlag.
-The evenings are long.|Ta ny fastyryn liauyr.
-Winter is drawing near.|Ta'n geurey tayrn er-gerrey.
-The days are getting much shorter.|Ta ny laghyn g'aase lane s'girrey.
-There will be a great deal of hay.|Bee mooarane traagh ayn.
-The meadows are already mown.|Ta ny lheeaneeyn hannah giarrit.
-No wonder it's so warm, the dog-days are here.|Cha nhyrrys da ve cha cheh, ta ny laghyn-moddee ayn.
-The leaves are already falling.|Ta ny duillagyn hannah tuittym.
-Summer is over.|Ta'n sourey harrish.
+Yes, I remember it very well.| S'cooin lhiam dy-mie eh.
 
 
 There's good news.|Ta naight vie ayn.
