@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Tweet2Learn!</title>
+<title>Tweet2Learn! TEANGA</title>
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.9.0/build/reset/reset-min.css">
 <link rel="stylesheet" href="/resources/tweet2learn.css" type="text/css" media="screen, mobile" charset="utf-8"/>
 <link rel="stylesheet" href="/resources/jquery-ui-1.10.1.custom.min.css" type="text/css" media="screen, mobile" title="smoothness" />
@@ -10,10 +10,11 @@
 <meta name="author" content="Kevin Scannell"/>
 <script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
 <link rel="apple-touch-icon" href="/resources/t2l-icon.jpg"/>
 <link rel="apple-touch-startup-image" href="/resources/t2l-startup.jpg" />
-<script src="/resources/jquery-1.9.1.js"></script>
-<script src="/resources/jquery-ui-1.10.1.custom.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
 <script>
 $(document).ready(function() {
 
@@ -26,9 +27,15 @@ $(document).ready(function() {
             clearStyle: true,
             active: false,
             collapsible: true,
-            heightStyle: "content"
+            heightStyle: "content",
+			animated: 'bounceslide'
 		});
 	}
+
+    $("tr:even").css("background-color", "#FFFFFF");
+    $("tr:odd").css("background-color", "#F0F0F0");
+
+	$("body").show();
 
 });
 </script>
