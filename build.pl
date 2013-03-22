@@ -14,12 +14,18 @@ if ($#ARGV != 0) {
         die "Usage: cat xx.tsv | $0 languagename\n";
 }
 my $ainm = decode('utf-8', $ARGV[0]);
+# set to one if we want table rows to highlight on mouseover (web only)
+my $mouseover = 0;
 
 my $verystart = 1;
 my $sectionstart = 1;
 my $subsectionstart = 1;
 my $has_subsections = 0;
 my $accordion = 0;
+my %seen;
+my $rowattrs='';
+
+$rowattrs = " bgcolor=\"#FFFFFF\" onMouseOver=\"this.bgColor='F0F0F0';\" onMouseOut=\"this.bgColor='#FFFFFF';\"" if $mouseover;
 
 print '<ul id="acc0" class="ui-accordion-container">'."\n";
 while (<STDIN>) {
@@ -60,15 +66,27 @@ while (<STDIN>) {
 	else {
 		if ($line =~ m/\|/) {
 			(my $bearla, my $duchas) = $line =~ m/^(.+)\|(.+)$/;
+			my $normalized  = $duchas;
+			$normalized =~ s/\P{L}//g;
+			if (exists($seen{$normalized})) {
+				print STDERR "Warning ($ainm): msg already seen: $duchas\n";
+			}
+			else {
+				$seen{$normalized} = 1;
+			}
+			# 14 = length(" #tweet2learn ")
+			if (length($duchas) + 14 + length($ainm) > 140) {
+				print STDERR "Warning ($ainm): msg too long: $duchas\n";
+			}
 			my $encoded = uri_escape_utf8($duchas);
 			print "<table>" if $subsectionstart;
 			# can append &via=IndigenousTweet to the URL, optionally
-			print "<tr bgcolor=\"#FFFFFF\" onMouseOver=\"this.bgColor='F0F0F0';\" onMouseOut=\"this.bgColor='#FFFFFF';\"><td><a href=\"https://twitter.com/intent/tweet?text=$encoded&hashtags=tweet2learn,$ainm\"><span class=\"duchas\">$duchas</span><br/><span class=\"bearla\">$bearla</span></a></td></tr>\n";
+			print "<tr$rowattrs><td><a href=\"https://twitter.com/intent/tweet?text=$encoded&hashtags=tweet2learn,$ainm\"><span class=\"duchas\">$duchas</span><br/><span class=\"bearla\">$bearla</span></a></td></tr>\n";
 			$sectionstart = 0;
 			$subsectionstart = 0;
 		}
 		else {
-			print STDERR "Warning: non-empty, non-heading line without a |\n";
+			print STDERR "Warning ($ainm): non-empty, non-heading line without a |\n";
 		}
 	}
 }
