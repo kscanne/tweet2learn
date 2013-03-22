@@ -93,7 +93,10 @@ I am ever so pleased with it.|Ta mee slane jeant magh lesh.
 I am delighted to hear of him.|S'taittin lhiam clashtyn jeh.
 I am very glad.|Ta mee feer voggoil.
 I am relatively happy.|Ta mee mayrnrey dy liooar.
+I was pleased with it.|Daittin lhiam eh.
+I love it.|Shynney lhiam eh.
 In good humour.|Ayns gien mie.
+I thank my stars that I came.|Bwooise da jee dy daink mee.
 **Sadness|Trimshey
 I am exceedingly miserable.|Ta mee trimshagh treih.
 I am heart broken.|Ta my chree brisht.
@@ -101,12 +104,14 @@ My heart is broken.|Ta'n cree aym brisht.
 I was very much sorrowed.|Va mee dy mooar seaghnit.
 I am upset.|Ta boirey orrym.
 I am upset.|Ta anvea orrym.
+I feel low.|Ta mee lag-chreeagh.
 I am dreadfully sorry.|S'treih lhiam dy mooar.
 I am sorry to trouble you.|My leshtal son cur boirey ort.
 I am sorry.|S'doogh lhiam.
 I am sorry to say it.|S'treih lhiam gra eh.
 I am sorry.|S'treih lhiam.
 I am sorry.|S'olk lhiam.
+I was sorry.|By hreih lhiam.
 I'm very sorry that you've done that.|S'treih mooar lhiam dy vel oo er n'yannoo shen.
 **Anger|Ferg
 Becoming angry.|Goaill cheagh.
@@ -124,12 +129,26 @@ I am fearful.|Ta mee faitagh.
 I am frightened.|Ta aggle orrym.
 I am frightened of him.|Ta mee goaill aggle roish.
 Half dead with fright.|Geddyn baase jeh'n aggle.
-I am afraid he will die.|Ta aggle orrym dy jean eh geddyn baase.
-I am afraid he will die.|Yiow eh baase, s'treih lhiam gra.
+I was filled with foreboding.|Va monney olk aym.
+I was frightened to death.|Va mee agglit assym.
 I am afraid of him.|Ta aggle aym roish.
 I am scared.|Ta atchim orrym.
 It gave me a scare.|Hug eh aggle orrym.
 I was a little afraid.|Va red beg d'aggle orrym.
+I was shaking in my shoes.|Va mee er creau ayns my chrackan.
+I was half afraid of that.|Va beggan aggle orrym mychione shen.
+I am afraid he will die.|Ta aggle orrym dy jean eh geddyn baase.
+I am afraid he will die.|Yiow eh baase, s'treih lhiam gra.
+**Shock and Amazement|Greain as Thanvainys
+I was shocked.|Va greain orrym.
+It shocked me.|Hug eh greain orrym.
+I was speechless.|Va mee my host.
+I was speechless.|Va mee balloo.
+I was taken aback.|Va yindys currit orrym.
+I was thunderstruck.|Va mee thanvaanit.
+I never saw any thing like it.|Cha n'aik mee rieau red erbee gollrish.
+I never saw the like before.|Cha n'aik mee rieau 'lheid roie.
+It filled me with wonder.|Hug eh yindys mooar orrym.
 **Gratitude|Booise
 Thank you.|Gura mie eu.
 Thank you.|Gura mie ayd.
@@ -152,9 +171,11 @@ I envy her.|Ta mee jannoo troo moee.
 I am ashamed.|Ta mee goaill nearey.
 I am ashamed.|Ta nearey orrym.
 You make me feel ashamed.|T'ou cur nearey orrym.
+I felt ashamed.|Haink nearey orrym.
 I was mortified.|Va nearey orrym.
 **Indifference|Neuhym
 I am indifferent.|S'cummey lhiam.
+I take no interest in it.|Cha nel foays erbee aym er.
 I don't care a hang.|S'cummey veg lhiam.
 I don't care either way.|She'n red cheddin dooys eh.
 I don't care a jot about it.|S'cummey lhiam rap mychione echey.
@@ -166,11 +187,16 @@ I will have nothing to do with it.|Cha bee eie aym er.
 I will have no concern with it.|Cha bee art ny paart aym ayn.
 **Busy|Tarrooghid
 I am up to my eyes in work.|Ta mee baiht ayns obbyr.
+I am besieged with tasks.|Ta mee chionn agglagh.
+I have a good deal to do.|Ta ram aym ry-yannoo.
 I am behind with the work.|Ta mee ergooyl lesh yn obbyr.
 The daily grind.|Obbyr yn laa.
+I am at work.|Ta mee gobbragh.
 I cannot spare the time.|Cha noddym fordrail yn traa.
 I have so much to do, I shall hardly have finished by to-morrow.|Ta wheesh aym dy yannoo s'goan vees jerrey er m'obbyr liorish laa ny vairagh.
 I've been working all day.|Ta mee er ve g'obbraghey feiy'n laa.
+I have been on the go all day.|Ta mee er ve throng feie yn laa.
+I have been on my legs all day.|Ta mee er ve er chosh feie'n laa.
 Working like blazes.|Gobbragh gollrish y Jouyll.
 I am bored.|Ta dreeys orrym.
 
@@ -227,6 +253,7 @@ I feel better to-day.|Ta mee g'ennagh ny share jiu.
 I am drowsing.|Ta cadley orrym.
 I am sleepy.|Ta'n cadley orrym.
 I am falling asleep again.|Ta'n cadley cheet orrym reesht.
+It makes me drowsy.|T'eh cur saveenys orrym.
 I'm very sleepy.|Ta mee feer chadlagh.
 I became sleepy.|Huitt yn cadley orrym.
 I became sleepy.|Haink mee dy ve cadlagh.
@@ -236,6 +263,7 @@ I am a bit tired.|Ta mee red beg skee.
 It's time to go to bed.|Te traa goll thie.
 Sleep did not close my eyes during the night.|Cha daink cadley er my hooillyn er yn oie.
 I did not sleep a wink all night.|Cha ren mee cadley meekey fud ny hoie.
+I didn't get a wink of sleep.|Cha chaddil mee neeal.
 I couldn't sleep.|Cha d'od mee cadley.
 I awoke at five o'clock and fell asleep again directly.|Ghooisht mee ec queig er y chlag, as huitt mee er cadley reesht chelleeragh.
 I had a good sleep.|Ren mee cadley dy mie.
@@ -302,6 +330,11 @@ I need money.|Ta feme aym er argid.
 I wish for money.|Ta mee geearree argid.
 I am getting on alright without much money.|Ta mee reirey kiart dy liooar dyn monney argid.
 I don't know what my debts amount to.|Cha s'aym c'wooad ta ny feeaghyn orrym.
+I am deep in debt.|Ta mee baiht ayns feeaghyn.
+I ran into debt.|Haink mee fo feeaghyn.
+I am badly in debt.|Ta mee fo lhiastynys mooar.
+I should pay my debts.|Lhisin eeck my eeaghyn.
+I only cleared my expenses.|Cha ren mee agh glenney my chostyssyn.
 Ask your friend for the money.|Shir yn argid er y charrey ayd.
 Money burns a hole in his pocket.|Ta argid lostey towl ny phoagey.
 Money was tight at that time.|By jiark yn argid ec y traa shen.
@@ -316,13 +349,16 @@ I am broke.|Ta mee rooisht argid.
 I am out of cash.|Ta my phoggaid follym.
 I am out of debt.|Ta mee neulhiastynagh.
 I consider it expensive.|S'deyr lhiam eh.
+I paid through the nose for it.|Deeck mee daa leagh er e hon.
 It is free of charge.|T'eh seyr.
 I got it for next to nothing.|Hooar mee son bunnys veg eh.
 I bought mine very cheap.|Chionnee mee yn fer aym feer neugheyr.
 I came in to a lot of money.|Hooar mee ram argid trooid eiraght.
 I am rich.|Ta mee berchagh.
+I have money at hand.|Ta argid aarloo aym.
 I am paying my way.|Ta mee geeck yn ayrn aym.
 I am paying my way.|Ta mee tannaghtyn erskyn ny feeaghyn aym.
+I want a detailed account before I pay.|Saillym mynchoontys roish my eeckym.
 He must have a great deal of money.|Shegin ve mooarane argid echey.
 Saving money for a rainy day.|Tashtey argid cour laa fliaghee.
 You must have less money.|Cha negin ve tooilley argid eu.
@@ -713,6 +749,10 @@ To ride the high horse.|Markiagh er cabbyl ard.
 One swallow does not make a summer.|Cha jean un gollan-geayee sourey.
 It's a poor fox that has but one hole.|She shynnagh boght nagh vel ny smoo na un towl echey.
 To spoil the ship for a ha'porth of tar.|Milley yn lhong son feeagh-lhieng dy herr.
+When the cat is away the mice will play.|Tra vees yn kayt mooie bee ny lughee daunsin.
+When the hand ceases to give, the mouth ceases to praise.|Tra scuirrys y laue dy choyrt, scuirrys y veeal dy voylley.
+When the play is merriest it is better to leave off.|Tra s'reaie yn cloie share faagail eh.
+When the wind is in the trees you will get the lockman.|Tra ta'n gheay 'sy villey, yiow shiu yn guilley gless.
 All's well that ends well.|Ta ooilley dy mie ta jannoo jerrey dy mie.
 If you chase two hares you will catch neither.|My chloys oo daa waagh cha dayr oo unnane jeu.
 When you are in Rome you must do as Romans do.| Tra t'ou ayns y Raue shegin dhyt jannoo myr ta ny Romanee jannoo.
@@ -787,7 +827,6 @@ Soon ripe soon rotten.|Leah appee leah loau.
 When the play is the merriest, 'tis better to leave off.| Tra s'reaie yn cloie share faagail jeh.
 Praise the bridge as you go over it.|Moyll y droghad myr hed oo harrish.
 There are two bad pays, paying before-hand and not paying at all.|Ta daa ghrogh eeck ayn, g'eeck ro laue as dyn eeck edyr.
-Shameful leavings are worse than scandalous eating.|Ta fooillagh naareydagh ny smessey na ee scammyltagh.
 'Tis better to go to bed without supper than to rise in debt.|Share goll dy lhie fegooish shibber na g'irree ayns lhiastynys.
 Store is no sore.|Cha vel sonnys gonnys.
 Many a little makes a mickle.|Ta daa pharick jannoo un ghimmagh.
@@ -823,6 +862,8 @@ I'm a top tweeter in my language!|She reih hweeteyr Gaelgagh mish!
 I am learning Manx.|Ta mee gynsaghey Gaelg.
 I know Manx very well.|Ta Gaelg feer vie aym.
 I have a decent knowledge of Manx.|Ta fys mie dy liooar aym er y Ghaelg.
+I have a smattering of Manx.|Ta breck-oallys jeh'n Ghaelg aym.
+I never could understand Manx.|Cha ren mee rieau toiggal Gaelg dy mie.
 The Manx comes more readily to me than the English.|Ta'n Ghaelg ny s'jeshey dou na'n Vaarle.
 Being a Manxman I speak Manx.|Myr she Manninagh mish ta Gaelg aym.
 Hang on to your Manx, boy!|Cum rish dty Ghaelg, lah!
@@ -1080,14 +1121,22 @@ I never saw the person of whom you speak.|Cha vaik mee rieau yn persoon mychione
 *Activities|Roortyssyn
 I am about to have a bath.|Ta mee er-chee oonlaghey mee-hene.
 I am cooking.|Ta mee jannoo coagyraght.
+I am lying down.|Ta mee my lhie.
 Watching a football match.|Jeeaghyn er cloie bluckan coshey.
 I am minding the child.|Ta mee goaill kiarail jeh'n lhiannoo.
+I spent a day in the country.|Cheau mee laa er y cheer.
+I have some shopping to do.|T'eh orrym kionnaghey red ny ghaa.
+I have a window to clean.|Ta uinnag aym ry-ghlenney.
+I have a letter to write.|Ta screeuyn aym ry screeu.
 A walk over the mountains.|Cosheeaght harrish ny sleityn.
 I am travelling.|Ta mee troailt.
 I was out riding.|Va mee mooie markiagh.
 I was reading.|Va mee lhaih.
 I am killing time.|Ta mee cur stiagh yn traa.
 I am playing.|Ta mee cloie.
+I must get my hair cut.|Shegin dou geddyn m'olt giarit.
+I must shave.|Shegin dou baarey.
+I went to the tailor.|Hie mee hug yn thalhear.
 Playing whist.|Cloie quiss.
 Playing ducks and drakes.|Jollickey.
 Playing dominoes.|Cloie dooreydaneyn.
@@ -1210,6 +1259,7 @@ The days are getting much shorter.|Ta ny laghyn g'aase lane s'girrey.
 Winter is drawing near.|Ta'n geurey tayrn er-gerrey.
 Winter has come.|Ta'n geurey er jeet.
 The year was wearing to its close.|V'eh tayrn er jerrey ny bleeaney.
+I wish it were already Christmas.|Saillym dy beagh yn Ollick hannah ain.
 During Yuletide.|Er y Nollick.
 To-morrow is Christmas Day.|Ta laa ny vairagh Laa n'Ollick.
 Christmas is here.|Ta'n Nollick ayn.
@@ -1493,7 +1543,6 @@ It makes no difference to me.|S'cummey dou.
 It makes me shudder.|T'eh cur er creau mee.
 It makes no odds.|S'cummey.
 It mirrors him well.|T'eh cur reayrt mie jeh.
-It makes me drowsy.|T'eh cur saveenys orrym.
 It made me shudder.|Hug eh orrym craa.
 It made me grey haired.|Hug eh lheeaghys orrym.
 It made her tremble.|Hug eh er creau ee.
@@ -1506,9 +1555,6 @@ It prepossesses me.|T'eh dy my lhieeney.
 It proved a bonanza.|Va'n aigh ny roie ayn.
 It proved a bonanza.|Va airh er ny cushagyn.
 It must come to that.|Hig shen er.
-It often makes a better night.|T'ee dy mennick jannoo oie ny share.
-It occurs to me.|Er lhiam.
-It occurred yesterday.|Haghyr eh jea.
 It is your own arrangement.|She dty reir hene eh.
 It is you I am speaking to.|Rhyts ta mee loayrt.
 It is yours for the asking.|Cha nel eh ort agh eh y yeearree.
@@ -1529,7 +1575,6 @@ It led to nothing.|Cha daink eh gys veg.
 It led to a good result.|Haink jerrey mie er.
 It shows through.|T'eh ry akin ny hrooid.
 It slipped my notice.|Cha ghow mee tastey jeh.
-It shocked me.|Hug eh greain orrym.
 It shaped my life.|Ren eh cummey yn vea aym.
 It smarts.|T'eh piandagh.
 It smarts.|T'eh gortey.
@@ -1577,33 +1622,20 @@ It is very heartening.|T'eh cur cree dou.
 It is very disquieting.|She oyr imnea eh.
 It is very primitive indeed.|T'ee feer vunneydagh dy jarroo.
 It is very up to date.|T'eh feer noa-emshiragh.
-It is sticking to my hand.|T'eh lhiantyn rish my laue.
-It is sticking.|T'eh greimmey.
 It is spitting rain.|T'eh sheeley fliaghey.
-It is smoking.|Ta jaagh cheet jeh.
-It is softer than butter.|T'eh ny s'buiggey na eeym.
-It is soaking.|T'eh er boggyr.
-It is superior to this.|T'eh ny share na shoh.
 It is thundering.|T'eh taarnaghey.
 It is three o'clock.|T'eh tree er y chlag.
-It is to be had.|T'eh ry-gheddyn.
 It is true.|Ta shen slane firrinagh.
-It is too deep.|T'eh ro ghowin.
-It is this way.|Shoh myr t'eh.
 It is tantamount to a refusal.|T'eh corrym rish obbal.
-It is the season I like best.|She'n imbagh share lhiam.
 It is there that I saw him.|Ayns shen honnick mee eh.
 It is the worse for wear.|T'eh bunnys ceaut.
-It is the work of an intelligence.|She obbyr hushtagh eh.
 It crossed my mind.|Roie eh trooid yn aigney aym.
-It didn't take on.|Cha ren eh goaill.
 It depends on you.|She er dty laue hene eh.
 It defies description.|Cha nel soilshaghey erbee er.
 It came to naught.|Haink eh gys neunhee.
 It came off O.K.|Haghyr eh kiart dy liooar.
 It came out of the blue.|Haink eh gyn jerkallys.
 It clouds the issue.|T'eh jannoo yn skeeal dullyr.
-It filled me with wonder.|Hug eh yindys mooar orrym.
 It escaped my notice.|Cha dug mee geill da.
 It doesn't suit you.|Cha nel eh cheet jesh dhyt.
 It bodes well.|S'mie yn monney eh.
@@ -2905,33 +2937,7 @@ Where I was born.|Raad va mee ruggit.
 Wherever you throw it, it stands.|Raad erbee cheauys oo eh, hassys eh.
 Wherever he goes he prospers.|Boayl erbee t'eh goll ta reddyn cheet lesh.
 Whether he comes or not.|Lhig da cheet ny dyn.
-Whether not.|Nagh.
 Whether it be good or bad.|Lhig da ve mie ny sie.
-When we climbed Snaefell.|Tra ghrapp shin Sniaull.
-When two days had passed.|Erreish da daa laa.
-When things were at their worst.|Tra by vessey dagh ooilley nhee.
-When you make the foot, make the inch.|Tra t'ou jannoo yn trie, jean yn oarlagh.
-When they hear.|Tra cheayllys ad.
-When the opportunity occurs.|Tra hig y caa.
-When the moon rises before the day.|Tra ta'n eayst girree roish yn laa.
-When the hand ceases to give the mouth ceases to praise.|Tra scuirrys y laue dy choyrt, scuirrys y veeal dy voylley.
-When the play is merriest it is better to leave off.|Tra s'reaie yn cloie share faagail eh.
-When the wind is in the trees you will get the lockman.|Tra ta'n gheay 'sy villey, yiow shiu yn guilley gless.
-When the time has ended.|Tra vees yn traa ceaut.
-When one door shuts another opens.|Cha ghooin rieau dorrys nagh doshil dorrys elley.
-When next you are over here.|Y nah traa vees oo hoal.
-When the cat is away the mice will play.|Tra vees yn kayt mooie bee ny lughee daunsin.
-When the accident happened.|Tra haghyr y drogh-haghyrt.
-When she came to know him.|Tra hug ee enney kiart er.
-When my ship comes home.|Tra verys yn vooa aym.
-When it came to the point he wouldn't go.|Tra haink eh gys yn slock cha jagh eh.
-When I was young.|Tra va mee aeg.
-When it comes to the crunch.|Tra hig eh gys yn irriney.
-When it was difficult for Pharaoh to let them go.|Tra by ghoillee lesh Pharaoh y raad y lhiggey daue.
-When it pleased God.|Tra by chooidsave lesh Jee.
-When it is convenient.|Tra vees eh cooie.
-I've been invited.|Ta mee er ve cuirrit.
-You ought to be thankful.|Lhisagh shiu ve booisal.
 Make haste.|Jean siyr.
 Study your lessons.|Ynsee nyn lessoonyn.
 Let us work well to-day.|Lhig dooin gobbraghey dy-mie jiu.
