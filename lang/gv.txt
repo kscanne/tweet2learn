@@ -544,7 +544,9 @@ It's wet.|Te feer fliugh.
 There's a heavy dew.|Ta druight trome ayn.
 The weather is very changeable.|Ta'n emshir feer cheaghliagh.
 Heavy weather.|Breenagh.
-It's hailing.|Ta sniaghtey garroo ayn.
+It is hailing.|Ta sniaghtey garroo ayn.
+It is hailing.|T'eh ceau claghyn sniaghtee.
+It is hailing.|T'eh ceau sniaghtey garroo.
 **Hot and Humid|Cheh as Tash
 It's warm.|Te cheh.
 The thermometer is up.|T'eh ny s'choe.
@@ -1415,11 +1417,8 @@ It is for them I did it.|She dauesyn ren mee eh.
 It is found everywhere.|T'eh ry-gheddyn ayns dy-chooilley voal.
 It is four o'clock or thereabouts.|T'eh kiare er y chlag ny myr shen.
 It is half past two.|T'eh lieh oor lurg jees.
-It is going out of view.|T'eh goll ass reayrtys.
 It is growing late.|T'eh lesh yn anmys.
 It is growing dark.|T'eh keeiraghey.
-It is hailing.|T'eh ceau claghyn sniaghtee.
-It is hailing.|T'eh ceau sniaghtey garroo.
 It is going to clear.|Ta glenney er.
 It is going to clear.|Ta glenney ayn.
 It is growing cloudy.|T'eh moorjeeney.
@@ -1530,8 +1529,6 @@ It is a nightmare to me.|T'eh myr tromlhie dou.
 It is a nightmare to me.|Ta mee ass my cheeayll echey.
 It is a long story.|Skeeal mooar liauyr t'ayn.
 It is a sober fact.|She firrinys lhome eh.
-It is a sober fact.|She firriney lhome ee.
-It is a shade too high.|T'eh red beg ro ard.
 It is absolutely necessary.|T'eh slane ymmyrchagh.
 It is all talk.|Cha nel eh agh caaynt.
 It is an age since I saw you.|She tammylt liauyr neayr's honnick mee oo.
@@ -1541,9 +1538,9 @@ It is absolutely necessary.|T'eh ymmyrchagh er dagh ooilley chor.
 It makes no matter.|S'cummey.
 It makes no difference to me.|S'cummey dou.
 It makes me shudder.|T'eh cur er creau mee.
+It made me shudder.|Hug eh orrym craa.
 It makes no odds.|S'cummey.
 It mirrors him well.|T'eh cur reayrt mie jeh.
-It made me shudder.|Hug eh orrym craa.
 It made me grey haired.|Hug eh lheeaghys orrym.
 It made her tremble.|Hug eh er creau ee.
 It made me sweat.|Hug eh magh yn ollish orrym.
