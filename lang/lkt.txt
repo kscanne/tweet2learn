@@ -64,7 +64,7 @@ Where are you hurrying off to?|Tókhiya ináȟni lá he?
 Where do you work?|Tuktél wówaši ečhánuŋ he? 
 Which one?|Tuktúŋma? 
 Which way?|Tuktógna? 
-Who is going to pay (the fee)?|Tuwá kayéžu kta he? 
+Who is going to pay the fee?|Tuwá kayéžu kta he? 
 Whom did you arrive with?|Tuwá kičhí yahí he? 
 Who ran the meeting?|Tuwá omníčiye kiŋ íŋyaŋgkhiya he? 
 Who’s that person in the blue hat?|Wapȟóštaŋ tȟó úŋ kiŋ hé tuwé he? 
@@ -132,7 +132,7 @@ Lend me some money.|Mázaska etáŋ omák’u wo/we.
 Lend me some wheels (your car).|Hugmíyaŋ omák’u wo/we. 
 Let’s get out of here. (to one person)|Síuŋgluha kte. 
 Listen up (to more than one).|Anáǧoptaŋ po/pe. 
-Look at this.|Wáŋ le waŋ. (Waŋlá.) 
+Look at this.|Wáŋ le waŋ.
 Make room for me. (to more than one)|Makíyukȟaŋ po/pe! 
 Open the door.|Thiyópa kiŋ yuǧáŋ yo/ye. 
 Pray for me.|Wačhémičičhiya yo/ye. 
@@ -180,7 +180,8 @@ I’m doing really well.|Matáŋyeȟči.
 I love you.|Thečhíȟila 
 I’m sad.|Iyómakšiče. 
 It’s very sad (there is much sadness).|Líla oíyokšiče. 
-I can (not) speak Lakota.|Lakȟótiwaya owákihi (šni). 
+I can speak Lakota.|Lakȟótiwaya owákihi. 
+I cannot speak Lakota.|Lakȟótiwaya owákihi šni. 
 I hate that (person/thing).|Hé waȟtéwala šni. 
 I’m happy whenever I dance.|Wawáčhi čháŋna šna iyómakphi. 
 I am a little nervous.|Kítaŋla nihíŋmičiye. 
