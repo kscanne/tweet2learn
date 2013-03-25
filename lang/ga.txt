@@ -1,3 +1,4 @@
+Gaeilge
 *Greetings|Beannachtaí
 Hello friends!|Dia dhaoibh a chairde!
 Conas atá tú?|How are you (one person)?
@@ -289,6 +290,7 @@ You help me and I will help you.|Ardaigh orm agus ardóidh mé ort.
 Youth must have its fling.|Is cuma leis an óige cá gcroithfidh sí a cos.
 Youth responds to praise.|Mol an óige is tiocfaidh sí.
 *Similes|Samhlacha
+I am..., You are..., He/she is...|Tá mé..., Tá tú..., Tá sé/sí...
 As bald as a coot.|Chomh maol le croí mo dhearnan.
 As bald as a coot.|Chomh maol le tuairgnín.
 As bare as a rock.|Chomh lom leis an leac.

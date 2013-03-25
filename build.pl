@@ -10,10 +10,7 @@ binmode STDIN, ":utf8";
 binmode STDOUT, ":utf8";
 binmode STDERR, ":utf8";
 
-if ($#ARGV != 0) {
-        die "Usage: cat xx.tsv | $0 languagename\n";
-}
-my $ainm = decode('utf-8', $ARGV[0]);
+my $ainm;
 # set to one if we want table rows to highlight on mouseover (web only)
 my $mouseover = 0;
 
@@ -27,6 +24,7 @@ my $rowattrs='';
 
 $rowattrs = " bgcolor=\"#FFFFFF\" onMouseOver=\"this.bgColor='F0F0F0';\" onMouseOut=\"this.bgColor='#FFFFFF';\"" if $mouseover;
 
+chomp($ainm = <STDIN>);
 print '<ul id="acc0" class="ui-accordion-container">'."\n";
 while (<STDIN>) {
 	chomp;
