@@ -1,7 +1,7 @@
 *Greetings|Beannachtaí
-Hello friends!|Dia dhaoibh a chairde!.
-Conas atá tú?|How are you (one person)?.
-Conas atá sibh?|How are you (more than one)?.
+Hello friends!|Dia dhaoibh a chairde!
+Conas atá tú?|How are you (one person)?
+Conas atá sibh?|How are you (more than one)?
 *Proverbs|Seanfhocail
 A bad bush is better than the open field.|Is fearr suí ar an scáth ná suí ar an mblár folamh.
 A bad workman quarrels with his tools.|Is doiligh corrán maith a fháil do dhrochbhuanaí.
