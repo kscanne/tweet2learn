@@ -24,7 +24,7 @@ A culprit turns a deaf ear to accusation.|Bíonn cluas bhodhar ag fear na foghla
 A deaf man can only attempt to understand what is said.|Níl ag fear bodhar ach lán a chluas a thabhairt leis.
 A diffident man does not get many perquisites (if you will not ask you will not get).|Ní bhíonn fear náireach éadálach.
 A dog doesn't run from a bone.|Ní theitheann cú roimh chnámh.
-A drink comes before a story.|Is túisce deoch ná scéal.
+A drink comes before a story (one should offer a drink before asking for news).|Is túisce deoch ná scéal.
 A friend in court is better than a penny in the purse.|Is fearr focal sa chúirt ná bonn sa sparán.
 A friend in need is a friend indeed.|In am an ghátair a bhraitear an chabhair.
 Age conquers all.|Faightear gach laoch in aisce.
@@ -44,7 +44,6 @@ All our joys are overcast with sorrow (no joy without alloy).|Níor tháinig ria
 All that is ventured is not lost; nothing venture, nothing win.|Níor cailleadh leath dá ndeachaigh i gcontúirt.
 A man can't whistle and drink at the same time.|Ní féidir le duine a bheith ag feadaíl agus ag ithe mine.
 A man is solid in his homeland.|Is buan fear ina dhúiche.
-An accident can happen anywhere under the sun.|Ní leithne an t-aer ná an timpiste.
 A small spark kindles a large fire.|Is lú ná fríd máthair an oilc.
 An empty sack won't stand (it is hard to work on an empty stomach).|Ní sheasann sac folamh.
 An eye for an eye and a tooth for a tooth.|Bualadh ar an mbualadh is buille ar an mbuille.
@@ -142,7 +141,6 @@ Homer sometimes nods.|Ní bhíonn saoi gan locht.
 Honesty is above bargaining (honesty is the best policy).|Tá ionracas os cionn margaidh.
 Hunger is good sauce.|Is maith an t-anlann an t-ocras.
 If you can't beat them join them.|Mura dtaga leat tar leo.
-If you don't give you won't get.|Ní fhaigheann lámh iata ach dorn dúnta.
 If you want to know me come and live with me.|Ní heolas go haontíos; ní thig eolas gan aontíos.
 Instinct is stronger than upbringing.|Is treise dúchas ná oiliúint.
 It is a good horse that never stumbles.|Ní bhíonn rith maith ag gach each i gcónaí.
@@ -208,7 +206,6 @@ One must seek out opportunities.|Ní fhaigheann cos ina cónaí dada.
 One should face up to one's troubles.|Is mairg a mbeadh doicheall roimh dheacair aige.
 One should not go out of one's way to look for trouble.|Ná beannaigh don diabhal go mbeannaí sé duit.
 One should not judge by appearances.|Ní hionann i gcónaí an cófra is a lucht.
-One should offer a drink before asking for news.|Is túisce deoch ná scéal.
 One should try to deal with the proper authorities.|Ná labhair leis na cosa má bhíonn an ceann sa láthair.
 One success leads to another.|Deis a dhéanann deis.
 One swallow does not make a summer.|Ní scaoth breac.
@@ -221,6 +218,7 @@ Penny wise, pound foolish.|An punt a chailleadh ag lorg na pingine.
 Practice makes perfect.|As an obair a thagann an fhoghlaim.
 Praise the crop and not the braird (don't count your chickens before they are hatched).|Mol gort is ná mol geamhar.
 Quality is better than quantity.|Is fearr greim de choinín ná dhá ghreim de chat.
+Rob Peter to pay Paul.|Tuí na háithe a chur ar an muileann.
 Salute the good person and let the bad person pass (cherish your friends and avoid your enemies).|Beannaigh don dea-dhuine agus lig an drochdhuine thart.
 Say what you like and you will hear what you won't like.|Can an rud is áil leat agus cluinfidh tú an rud nach áil leat.
 Silence often denotes guilt.|Is minic a bhí ciúin ciontach.
@@ -266,9 +264,7 @@ The windy day is not the day for scollops (take time by the forelock).|Ní hé l
 The work commends the craftsman (a man may be judged by his achievements).|Molann an obair an saor.
 The world is only wind and smoke.|Níl sa saol ach gaoth agus toit.
 Things are done with a good or a bad grace.|Gabhtar fonn le fonn agus fonn le mífhonn.
-Things will eventually settle down.|Níl tuile dá mhéad nach dtránn.
 Time and tide wait for no man.|Ní fhanann muir le fear sotail.
-Rob Peter to pay Paul.|Tuí na háithe a chur ar an muileann.
 Treachery brings its own punishment.|Filleann an feall ar an bhfeallaire.
 Treachery brings its own punishment.|Más feall fillfidh.
 Unity is strength.|Ní neart go cur le chéile.
