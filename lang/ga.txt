@@ -1,8 +1,8 @@
 Gaeilge
 *Greetings|Beannachtaí
 Hello friends!|Dia dhaoibh a chairde!
-Conas atá tú?|How are you (one person)?
-Conas atá sibh?|How are you (more than one)?
+How are you (one person)?|Cén chaoi a bhfuil tú?
+How are you (more than one)?|Cén chaoi a bhfuil sibh?
 *Proverbs|Seanfhocail
 A bad bush is better than the open field.|Is fearr suí ar an scáth ná suí ar an mblár folamh.
 A bad workman quarrels with his tools.|Is doiligh corrán maith a fháil do dhrochbhuanaí.
@@ -289,6 +289,13 @@ You can't put an old head on young shoulders.|Is deacair ceann críonna a chur a
 You help me and I will help you.|Ardaigh orm agus ardóidh mé ort.
 Youth must have its fling.|Is cuma leis an óige cá gcroithfidh sí a cos.
 Youth responds to praise.|Mol an óige is tiocfaidh sí.
+*Triads|Tréanna
+Three things that make for happiness: hedges, shelter, and early rising.|Trí ní a bhaineann le sonas: fál, foscadh, is mochóirí.
+Three things that don't leave a trace: a bird on the branch, a trout on the pool, a woman's love on a man's heart.|Trí rud nach bhfágann rian: éinín ar an gcraobh, breac ar an linn, grá mná ar chroí fir.
+Three things that can't be taught: singing voice, generosity, and poetry.|Trí ní nach féidir a mhúineadh: guth, féile is filíocht.
+The three strongest strengths: strength of fire, strength of water, strength of an enemy|Na trí neart is treise: neart tine, neart uisce, neart namhad
+Three things that can't be seen: edge, wind and love.|Trí ní nach féidir a fheiscint: faobhar, gaoth agus grá.
+The three signs of a fool: a tilted cap, whistling, and questions.|Trí chomhartha an amadáin: feirc, feadaíl is fiafraí.
 *Similes|Samhlacha
 I am..., You are..., He/she is...|Tá mé..., Tá tú..., Tá sé/sí...
 As bald as a coot.|Chomh maol le croí mo dhearnan.
