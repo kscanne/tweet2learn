@@ -80,6 +80,7 @@ while (<STDIN>) {
 			print "<table>" if $subsectionstart;
 			# can append &via=IndigenousTweet to the URL, optionally
 			print "<tr$rowattrs><td><a href=\"https://twitter.com/intent/tweet?text=$encoded&hashtags=tweet2learn,$ainm\"><span class=\"duchas\">$duchas</span><br/><span class=\"bearla\">$bearla</span></a></td></tr>\n";
+			#print "<tr$rowattrs><td><a href=\"twitter://post?message=$encoded%20tweet2learn%20$ainm\"><span class=\"duchas\">$duchas</span><br/><span class=\"bearla\">$bearla</span></a></td></tr>\n";
 			$sectionstart = 0;
 			$subsectionstart = 0;
 		}
