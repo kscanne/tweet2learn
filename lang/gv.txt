@@ -121,6 +121,7 @@ I am angry.|Ta corree orrym.
 Getting in a rage.|Goll er ouyl.
 Getting in a rage.|Goll cheagh.
 In a rage.|Er ouyl.
+It stirs my bile.|T'eh cur ferg orrym.
 Angry to an extreme degree.|Sproghtit.
 Angry to an extreme degree.|Jiarg-chorree.
 Never in my life did I see anything so contemptible.|Cha naik mee rieau ayns my vea red erbee cha faghidagh.
@@ -140,13 +141,16 @@ I was shaking in my shoes.|Va mee er creau ayns my chrackan.
 I was half afraid of that.|Va beggan aggle orrym mychione shen.
 I am afraid he will die.|Ta aggle orrym dy jean eh geddyn baase.
 I am afraid he will die.|Yiow eh baase, s'treih lhiam gra.
-**Shock and Amazement|Greain as Thanvainys
+**Amazement|Thanvainys
 I was shocked.|Va greain orrym.
 It shocked me.|Hug eh greain orrym.
 I was speechless.|Va mee my host.
 I was speechless.|Va mee balloo.
 I was taken aback.|Va yindys currit orrym.
+It struck me dumb.|Ren eh bolvane jeem.
 I was thunderstruck.|Va mee thanvaanit.
+It was like a bombshell to us.|Haink eh gollrish bleaystan orrin.
+It passed my comprehension.|T'eh erskyn yn toiggal aym.
 I never saw any thing like it.|Cha n'aik mee rieau red erbee gollrish.
 I never saw the like before.|Cha n'aik mee rieau 'lheid roie.
 It filled me with wonder.|Hug eh yindys mooar orrym.
@@ -163,6 +167,7 @@ I am very thankful.|Ta mee feer vooisal.
 I am truly grateful to you.|Ta mee feer wooisal dhyt.
 I am obliged to you.|Ta mee kianglt booisal dhyt.
 I'm very much obliged to you.|Ta mee mooarane kianlt booise diu.
+You've rendered me a great service, I thank you heartily.|Ta shiu er n'yannoo shirveish vooar dou, gura mie mooar eu.
 **Envy|Troo
 I am envious of him.|Ta troo aym er.
 I am envious of him.|Ta jannoo troo mysh.
@@ -181,6 +186,7 @@ I don't care a hang.|S'cummey veg lhiam.
 I don't care either way.|She'n red cheddin dooys eh.
 I don't care a jot about it.|S'cummey lhiam rap mychione echey.
 It does not matter in the least.|Cha nel eh jeh scansh erbee.
+It wouldn't matter to me.|By gummey lhiam.
 I don't give a damn.|S'cummey yn jouyl lhiam.
 It doesn't matter much.|Cha nel eh madyral monney.
 It doesn't matter.|S'cummey.
@@ -199,6 +205,8 @@ I've been working all day.|Ta mee er ve g'obbraghey feiy'n laa.
 I have been on the go all day.|Ta mee er ve throng feie yn laa.
 I have been on my legs all day.|Ta mee er ve er chosh feie'n laa.
 Working like blazes.|Gobbragh gollrish y Jouyll.
+This work is beyond me.|Ta'n obbyr shoh er my skyn.
+This work is a bore.|Ta'n obbyr shoh feer ghree.
 I am bored.|Ta dreeys orrym.
 
 *Physical State|Slaynt
@@ -210,6 +218,7 @@ I am not quite myself today.|Cha nel mee lhiam pene jiu.
 I am not in good trim today.|Cha nel mee ooilley mee hene jiu.
 I am not well.|Cha nel yn claynt aym feer vie.
 I am not well.|Cha nel aym pene.
+There are days when I am well and other days I'm not.|Ta laghyn ayn as ta mee mie as laghyn elley nagh vel mee.
 I am under the weather.|Ta mee red beg ching.
 I feel sick.|Ta mee ching.
 I feel sick.|Ta mee g'ennagh ching.
@@ -236,6 +245,9 @@ I have a bad head.|Ta chingys ching aym.
 My head is swimming.|Ta mee thollaneagh.
 My head itches.|Ta taghys er my chione.
 I am troubled with rheumatism.|Ta'n aacheoid jannoo orrym.
+It smarts.|T'eh piandagh.
+It smarts.|T'eh gortey.
+It smarts.|T'eh gonnagh.
 I have toothache.|Ta ny beishtyn aym.
 My tooth aches.|Ta m'eeackle criughey.
 I've a pain in my side.|Ta pian aym ayns my lhiattee.
@@ -352,6 +364,9 @@ I am out of debt.|Ta mee neulhiastynagh.
 I consider it expensive.|S'deyr lhiam eh.
 I paid through the nose for it.|Deeck mee daa leagh er e hon.
 It is free of charge.|T'eh seyr.
+It is dirt-cheap.|T'eh feer neugheyr.
+It has no monetary value.|Cha nel eh feeu argid erbee.
+It has no intrinsic value.|Cha nel leagh erbee ayn ass e hene.
 I got it for next to nothing.|Hooar mee son bunnys veg eh.
 I bought mine very cheap.|Chionnee mee yn fer aym feer neugheyr.
 I came in to a lot of money.|Hooar mee ram argid trooid eiraght.
@@ -560,6 +575,10 @@ The day is very sultry.|Ta'n laa feer vreenagh.
 There is not a breath of air stirring.|Cha nel geay erbee ayn.
 There's not a breath of air.|Cha nel ennal aer ayn.
 **Cold and Snow|Feayr as Sniaghtey
+It is cold here.|T'eh feayr ayns shoh.
+It is cold.|T'eh feayr.
+It was deadly cold.|V'eh cho feayr as Niurin.
+It was confoundedly cold.|V'eh feayr agglagh.
 Driven snow.|Sniaghtey sheebit.
 Covered with snow.|Coodit lesh sniaghtey.
 The snow is drifting.|Ta'n sniaghtey sheebey.
@@ -588,7 +607,6 @@ Frosty weather.|Emshir rioeeagh.
 Long spell of cold weather.|Shayll liauyr jeh emshir feayr.
 It is so cold that you can see your breaths.|T'eh cha feayr dy vod oo fakin nyn ghruightys.
 It's thawing.|Te tenniu.
-It's cold.|Te feayr.
 It will freeze tonight.|Bee rio ayn noght.
 It is freezing hard.|Ta rio trome ayn.
 It is freezing hard.|T'eh riojey dy creoi.
@@ -632,6 +650,7 @@ Rough wind.|Geay gharroo.
 It is partly cloudy.|T'eh breckvodjallagh.
 The weather is cloudy.|Ta'n emshir bodjallagh.
 It is beclouding.|Ta mooirjeenys er y speyr.
+It is growing cloudy.|T'eh moorjeeney.
 Clouds on the skyline.|Bodjallyn er yn annys.
 Clouds hid the sun.|Haink bodjallyn er y ghrian.
 The sky is getting cloudy.|T'eh mooirjeenagh.
@@ -651,6 +670,7 @@ Fog blankets the airport.|Ta kay coodaghey yn aerphurt.
 
 
 *Proverbs|Raaghyn creeney
+You cannot make a silk purse out of a sow's ear.|S'doillee eh dy gheddyn ollan voish goayr.
 Work without order, work without thanks.|Obbyr gyn oardagh, obbyr gyn bwooise.
 Worry kills people quicker than work.|Ta boirey marroo sleih ny s'tappee na obbyr.
 A man's own praise never went far from his door.|Cha jagh moylley ghooinney hene rieau foddey voish.
@@ -694,6 +714,7 @@ Better to go to bed supperless than to get up in debt.|Share goll dy lhie fegooi
 Better to change horses in mid ford than to drown.|Share chyndaa cabbil ayns mean ny h-aah na goll er vaih.
 Fine feathers make fine birds.|Fedjagyn aalin ushagyn aalin.
 It's an ill wind that blows nobody good.|She drogh gheay nagh sheid mie da pagh ennagh.
+Never look a gift horse in the mouth.|Ny fow foill ayns red hooar oo nastee.
 To take the wind out of his sails.|Dy ghoaill yn gheay ass e hiauill.
 When you're well, you little know the value of health.|Tra ta fer slane; s'beg shione da feeuid slaynt.
 Charity begins at home.|Ta giastyllys goaill toshiaght ec y thie.
@@ -742,9 +763,7 @@ Every dog has his day.|Ta laa echey hene da dagh ooilley voddey.
 Death never came without an excuse.|Cha daink rieau yn baase gyn leshtal.
 A burnt child dreads the fire.|Ta lhiannoo scoaldit goaill aggle roishyn aile.
 God lays on you no burden greater than you can bear.|Cha vel Jee cur ort errey ny smoo na foddee oo ymmyrkey.
-To grin and bear it.|Gyrnal as cummal er.
 He lets people ride over him.|T'eh lhiggey da sleih markiagh harrish.
-It is not worth while.|Cha n'eeu eh.
 They are alike as two peas.|T'ad cha colaik as daa phishyr.
 Judge others by yourself.|Briwnys feallagh elley liort hene.
 When the cats are away the mice will play.|Tra ta ny kiyt ersooyl nee ny lughee cloie.
@@ -783,6 +802,10 @@ To sail with the wind.|Shiaulley lesh y gheay.
 To lay something by for a rainy day.|Cur red ennagh ersooyl cour laa fliaghee.
 You won't make me believe that.|Cha greidym shen dy-bragh.
 Offered wares were never good.|Cha row rieau cooid chebbit mie.
+One dog's death is another dog's life.|Baase yn derrey voddey, grayse y voddey elley.
+One can't get blood out of a stone.|S'doillee eh geddyn ollan voish goayr.
+One must take the horns with the hide.|Shegin goaill ny heairkyn marish y cheh.
+One is very brave to believe a dumb messenger.|T'eh feer ghunnal chredjys chaghter balloo.
 The nearer to the night the more rogues.|Myr s'niessey da'n oie s'lhee mitchooryn.
 The chicken is like its kind before there is down on its head.|Ta'n eean myr e ghooie my vel clooie er e chione.
 If there is an amble in the mare it will be in the colt.|My ta keim sy laair bee keim sy lhiy.
@@ -875,6 +898,8 @@ I took you for a Manxman.|Heill mee dy re Manninagh oo.
 It's a very useful language.|T'eh ny chengey feer ymmydoil.
 We must often speak English.|Shegin dooin loayrt Baarle dy-mennick.
 Express yourself in Manx.|Abbyr eh ayns Gaelg.
+You have the correct accent.|Ta'n blass ayd.
+You have a correct Manx accent.|Ta blass kiart ny Gaelgey ayd.
 Speak Manx.|Loayr Gaelg.
 I've never spoken Manx.|Cha nel mee rieau er loayrt Gaelg.
 Let us only speak Manx.|Lhig dooin ynrican loayrt Gaelg.
@@ -897,6 +922,7 @@ I don't understand the sentence.|Cha nel mee toiggal yn raa.
 I don't understand that word.|Cha nel mee toiggal yn fockle shen.
 I'll do my best.|Nee'm my chooid share.
 It's the pronunciation that puzzles me.|She yn fockley-magh ta boirey mish.
+Pronounce your words correctly.|Focklee magh nyn vocklyn dy-kiart.
 The Manx language is not so easy to learn as some people imagine.|Cha nel y Ghaelg cha aashagh dy ynsagh myr ta sleih ennagh smooinaghtyn.
 All languages are difficult to learn.|Ta ooilley chengaghyn doillee dy ynsagh.
 If you speak slowly and distinctly I can understand you, but if you speak too fast I cannot understand you.|My loayrys shiu dy-moal as dy-baghtal foddym toiggal shiu, agh my loayrys shiu ro happee cha noddym toiggal shiu.
@@ -1119,6 +1145,46 @@ I praise you for your zeal.|Ta mee moylley shiu son nyn yeeanid.
 I beg you not to go so far.|Ta mee guee ort dyn dy gholl choud.
 I had never seen you before.|Cha row mee rieau er n'akin oo roie.
 I never saw the person of whom you speak.|Cha vaik mee rieau yn persoon mychionesyn t'ou loayrt.
+You are able.|T'ou lajer.
+You are able.|T'ou abyl.
+You are able.|Foddee oo.
+You are absolutely correct.|Ta shiu slane kiart.
+You are all alike.|Ta shiu ooilley gollrish y cheilley.
+You are a liar.|T'ou uss dty vreagerey.
+You are a liar.|T'ou uss breagagh.
+You are running your head against a brick wall.|T'ou foaddey aile fo'n cheayn.
+You are right.|Ta'n kiart ayds.
+You are the man for my money.|T'ou uss my ghooinney.
+You are the envy of the town.|Ta'n clane balley jannoo troo mood.
+You are right.|T'ou kiart.
+You are on dangerous ground.|T'ou shooyl er rio thanney.
+You are not yourself today.|Cha nel oo ayd hene jiu.
+You are on the wrong track.|T'ou er shaghryn.
+You are raving.|T'ou rouailley.
+You are quite right.|T'ou slane kiart.
+You are the master.|Uss yn mainshtyr.
+You are wrong.|Cha nel oo kiart.
+You can but try.|S'liooar dhyt geabbey.
+You are the salt of the earth.|Shiuish sollan y thallooin.
+You are under an illusion.|T'ou mollit.
+You are under an illusion.|Ta dallaghey dhoo ort.
+You are up against difficulties.|Ta raad garroo royd.
+You are in a minority of one.|T'ou lhiat hene ayns dty varel.
+You are alone.|T'ou dty lomarcan.
+You are free to do that.|T'ou seyr dy yannoo shen.
+You are free to do that.|Foddee oo jannoo shen.
+You are free to do as you please.|Foddee oo jannoo dty red hene.
+You are at liberty to do it.|Ta kied ayd dy yannoo eh.
+You are in charge.|T'ou ny curmeyder.
+You are mistaken.|Ta marranys ort.
+You are mistaken.|T'ou fo varranys.
+You are most welcome to come.|Tar as failt ort.
+You are not very polite.|Cha nel oo ro chooyrtoil.
+You are not much use.|S'beg yn ymmyd oo.
+You are no better than him.|Cha nel oo veg share na eshyn.
+You are made for this work.|Rug oo ry-hoi'n obbyr shoh.
+You are inviting trouble.|T'ou tayrn boirey ort hene.
+You are just as one would expect.|T'ou myr by chooie dhyt.
 
 
 *Activities|Roortyssyn
@@ -1184,28 +1250,40 @@ Close on nine o'clock.|Bunnys nuy er y chlag.
 At ten o'clock in the forenoon.|Ec jeih er y chlag 'sy voghrey.
 The sun is getting higher.|Ta'n ghrian gyrjaghey.
 All morning through.|Car y voghree.
+It hasn't struck twelve yet.|Cha nel eh er woalley munlaa foast.
+It's noon.|Te munlaa.
 At noon.|Ec munlaa.
 At noon.|Er y vunlaa.
 A bit after midday.|Red beg lurg munlaa.
+It's exactly half-past twelve.|Te lieh oor lurg munlaa.
 It's one o'clock.|Te nane er y chlag.
 It's quarter past one.|Te kerroo oor lurg nane.
 It's half-past one at least.|Te lieh oor lurg nane ec y chooid sloo.
 It's about a quarter to two.|Te mysh kerroo dys jees.
 It's about ten minutes to two.|Te mysh jeih minnidyn dys jees.
+It is half past two.|T'eh lieh oor lurg jees.
+It's nearly three.|Te bunnys tree.
+It will soon strike three.|Bwoaillee eh tree dy-gerrid.
 It is about four o'clock.|T'eh mysh kiare er y chlag.
+It is four o'clock or thereabouts.|T'eh kiare er y chlag ny myr shen.
 At four p.m.|Ec kiare er y chlag 'syn astyr.
 At four o'clock sharp.|Ec bwoalley yn kiare.
+It has just struck four.|Te er woalley kiare.
+It's past four by my watch.|Te lurg kiare liorish yn ooreyder ayms.
+It's twenty minutes past four.|Te feed minnid lurg kiare.
 During the late afternoon.|Anmagh er yn astyr.
 The very late afternoon.|Yn fastyr beg.
 The sun is declining.|Ta'n ghrian goll sheese.
 The sun is declining.|Ta'n ghrian goll dy lhie.
 The day is declining.|Ta'n laa goll ass.
 The sun is down.|Ta'n ghrian er n'gholl dy lhie.
+It is growing dark.|T'eh keeiraghey.
 At the hour of seven.|Ec shiaght er y chlag.
 Early last evening.|Fastyr jea.
 The evening arrived.|Haink yn fastyr er.
 The evening, just before dark.|Yn cheerid.
 The evening, just before dark.|Beeal ny h-oie.
+It is growing late.|T'eh lesh yn anmys.
 Ten o'clock at night.|Jeih er y chlag 'syn oie.
 The time for sleep has come.|Ta traa cadlee er jeet.
 It was hard on midnight.|V'eh tayrn er y vean oie.
@@ -1298,6 +1376,8 @@ Last week.|Yn chiaghtyn shoh chaie.
 Some days ago.|Kuse dy laghyn er dy henney.
 Day before yesterday.|Arroo y jea.
 Night before last.|Arroo y riyr.
+Yesterday morning.|Moghrey jea.
+Yesterday afternoon.|Fastyr jea.
 Last night.|Riyr.
 Late last evening.|Anmagh er yn oie riyr.
 **Ongoing|Er Chosh
@@ -1337,6 +1417,7 @@ Tomorrow night.|Oie ny vairagh.
 The morning after tomorrow.|Moghrey nuyr.
 Day after tomorrow.|Nuyr.
 Day after tomorrow.|Laa ny nuyr.
+Three days from now.|Tree laghyn voish nish.
 The coming week.|Yn shiaghtyn shoh cheet.
 The year after next.|Yn vlein ny yei'n vlein ry heet.
 In the future.|'Sy traa ta ry-heet.
@@ -1412,42 +1493,14 @@ I'll handle that.|Neeym shen y yannoo.
 I'll go off now.|Hem roym nish.
 I'll go with the greatest of pleasure.|Hedym as failt ort.
 It is going first rate.|T'eh goll dy mie mirrilagh.
-It is getting a good speed on.|T'eh troggal bieauid mie.
 It is for you to judge.|Er dty vriwnys t'eh.
 It is for them I did it.|She dauesyn ren mee eh.
-It is found everywhere.|T'eh ry-gheddyn ayns dy-chooilley voal.
-It is four o'clock or thereabouts.|T'eh kiare er y chlag ny myr shen.
-It is half past two.|T'eh lieh oor lurg jees.
-It is growing late.|T'eh lesh yn anmys.
-It is growing dark.|T'eh keeiraghey.
-It is going to clear.|Ta glenney er.
-It is going to clear.|Ta glenney ayn.
-It is growing cloudy.|T'eh moorjeeney.
 It is good to be bold but bad to be too bold.|S'mie dy ve daaney agh s'olk dy ve ro ghaaney.
 It is growing dark.|T'eh conghorraghey.
-It is greatly to be feared that he is dead.|S'mooar yn aggle t'ayn dy vel eh marroo.
 It is difficult to tell them apart.|T'eh doillee dy chur enney orroo veih-my-cheilley.
-It is dependent on this.|T'eh croghey er shoh.
-It is darkening.|T'eh conghorraghey.
-It is dirt-cheap.|T'eh feer neugheyr.
-It is dulling.|T'eh coayl y cullyr echey.
 It is considerably better.|T'eh foddey share.
-It is cold here.|T'eh feayr ayns shoh.
-It is cold.|T'eh feayr.
-It is closing in at Ronaldsway.|T'eh dooney stiagh ec Runnysvaie.
-It is common talk.|Ta fys ec yn theihll.
-It is connected to earth.|T'eh thallooit.
-It is conditioned by the size of the hall.|T'eh rere mooadys y halley.
-It is concentrating now.|T'eh co-ghlooghey nish.
 It is finished.|Ta kione er.
 It is fated that I should remain here.|She my chronney eh dy begin dou tannaghtyn ayns shoh.
-It is exactly the the way he acted.|Ren eh gaghtey eh hene chiart er yn aght cheddin.
-It is finishing.|T'eh cheet gy-kione.
-It is flooded.|Ta thooilley ny hrooid.
-It is flooded.|T'eh fo-ushtey.
-It is finishing.|T'eh jannoo jerrey.
-It is elementary.|She bun-oyragh eh.
-It is elementary.|She bun-stoo eh.
 It is evident enough.|T'eh cronnal dy liooar.
 It is evident enough.|T'eh baghtal dy liooar.
 It is evident to me.|S'leayr dou.
@@ -1456,9 +1509,6 @@ It is no use saying that.|Cha neeu eh shen y ghra.
 It is not adequate for the job.|Cha nel eh corrym rish yn staartey.
 It is not far short of it.|Cha nel eh foddey jeh.
 It is not an unmixed blessing.|Ta'n vie as yn olk ayn.
-It is necessary for me to go home.|Shegin dou goll thie.
-It is my considered opinion.|She my sursmooinaght ee.
-It is my bounden duty.|She my ard-churrym eh.
 It is much the same.|She'n red cheddin eh.
 It is my conviction that he is telling the truth.|She my chredjue dy vel eh ginsh yn irriney.
 It is my opinion that it was greatly by deceit.|Er lhiam pene dy by vooar lesh foalsaght eh.
@@ -1474,33 +1524,20 @@ It is of little value.|S'beg y feeuid t'ayn.
 It is of great utility.|Ta foaynoo mooar ayn.
 It is not working right.|Cha nel eh gobbragh dy kiart.
 It is not our practice.|Cha nel eh yn cliaghtey ain.
-It is not likely that he will come.|Cha nel eh cosoylagh dy jig eh.
-It is not here either.|Cha nel eh ayns shoh edyr.
 It is not possible to do it.|T'eh do-yannoo.
-It is not to be questioned that he did it.|Cha nel ourys erbee ayn dy ren eh eh.
 It is not to be equalled.|Cha nel cormid rish ayn 'sy theihll.
 It is not so very small.|Cha nel eh cha beg as ooilley shen.
 It is in great demand.|Ta aggyrts mooar er.
 It is in good repair.|Ta oardagh mie er.
 It is in full swing.|T'eh fo lane raad.
-It is in character with her.|T'eh rere yn imbee eck.
-It is holding fast.|T'eh greimmaltagh.
-It is high tide.|Ta'n roayrt lhieent.
-It is high tide.|Ta'n roayrt ec y vullagh.
 It is in bad taste.|Cha nel eh cooie.
 It is in my possession.|T'eh aym.
 It is in my possession.|T'eh ayns my helloo.
-It is little he knows.|S'beg ta'n fys echey.
 It is merely a question of time.|Hig eh lesh traa.
-It is meet and right so to do.|S'kiart as cooie eh shen y yannoo.
 It is later than I thought.|T'eh ny s'anmagh na heill mee.
 It is known to me.|Shione dou eh.
-It has no monetary value.|Cha nel eh feeu argid erbee.
-It has no intrinsic value.|Cha nel leagh erbee ayn ass e hene.
 It has been truly stated.|T'eh er ve raait, as s'feer eh.
 It has got to be done.|Shegin da goll y jannoo.
-It hit in the centre.|Woaill eh 'sy vean eh.
-It is a crowded profession.|She gerrym eh gyn reamys da tooilley ayn.
 It interferes with my work.|T'eh cur stiagh er my obbyr.
 It goes against my conscience.|T'eh noi'n chooinsheanse aym.
 It goes without saying.|Ta fys ec y theihll er.
@@ -1533,7 +1570,6 @@ It is a sober fact.|She firrinys lhome eh.
 It is absolutely necessary.|T'eh slane ymmyrchagh.
 It is all talk.|Cha nel eh agh caaynt.
 It is an age since I saw you.|She tammylt liauyr neayr's honnick mee oo.
-It is an understood thing that ...|T'eh dy mie er fys dy ...
 It is acceptable to me.|S'taittin lhiam eh.
 It is absolutely necessary.|T'eh ymmyrchagh er dagh ooilley chor.
 It makes no matter.|S'cummey.
@@ -1543,12 +1579,9 @@ It made me shudder.|Hug eh orrym craa.
 It makes no odds.|S'cummey.
 It mirrors him well.|T'eh cur reayrt mie jeh.
 It made me grey haired.|Hug eh lheeaghys orrym.
-It made her tremble.|Hug eh er creau ee.
 It made me sweat.|Hug eh magh yn ollish orrym.
-It makes him see red.|T'eh cur sproght er.
 It made my flesh creep.|Hug eh grayn orrym.
 It made me wonder.|Hug eh yindys orrym.
-It passed my comprehension.|T'eh erskyn yn toiggal aym.
 It prepossesses me.|T'eh dy my lhieeney.
 It proved a bonanza.|Va'n aigh ny roie ayn.
 It proved a bonanza.|Va airh er ny cushagyn.
@@ -1574,9 +1607,6 @@ It led to a good result.|Haink jerrey mie er.
 It shows through.|T'eh ry akin ny hrooid.
 It slipped my notice.|Cha ghow mee tastey jeh.
 It shaped my life.|Ren eh cummey yn vea aym.
-It smarts.|T'eh piandagh.
-It smarts.|T'eh gortey.
-It smarts.|T'eh gonnagh.
 It runs in the blood.|T'eh 'sy ghooghys.
 It runs in the family.|T'eh 'syn 'uill.
 It rests with you.|T'eh ayns dty laueyn hene.
@@ -1654,7 +1684,6 @@ It all falls on me.|She my churryms ooilley eh.
 It all depends on that.|T'eh ooilley croghey er shen.
 It all but happened.|Dobbyr da taghyrt.
 It appears to be so.|T'eh jeeaghyn dy ve myr shen.
-It began.|Hoshee eh.
 It appears to me that you are right.|Strooys dy vel oo kiart.
 It baffles description.|Cha nod oo chur coontey jeh.
 It augurs no good.|Cha nee cowrey mie eh.
@@ -1690,31 +1719,24 @@ It was too much spoken about.|V'eh ro loayrit mysh.
 It was very wet last night.|Va ram fliaghey jeant riyr.
 It was very useful to me.|V'eh feer ymmydoil dou.
 It was very gratifying to me.|By vooar y taitnys hug eh dou.
-It weighs heavy.|T'eh trome.
 It went favourably for me.|Haink eh lhiam.
 It went down the wrong way.|Hie eh rish my m'ennal.
 It went down by heirship.|V'eh er ny hymney.
 It was necessary for me to come.|B'egin dou cheet.
 It was my thought.|Va shen my aigney.
 It was my inclination.|Va shen my aigney.
-It was no less than him.|Cha row peiagh erbee elley ayn agh eh hene.
 It was nothing like as good.|Cha row eh lieh cha mie.
-It was long before he came.|B'oddey roish my daink eh.
 It was just a blur.|Cha row eh agh cummey do-akin.
 It was in bad taste.|V'eh neuellynagh.
 It was in a great part due to the weather.|By vooar yn emshyr 'sy chooish.
 It was just a blur.|Cha row eh agh meechummey.
 It was like this.|V'eh myr shoh.
-It was like a bombshell to us.|Haink eh gollrish bleaystan orrin.
 It was lifted up.|V'eh troggit.
 It was obvious to me.|B'leayr dou eh.
 It was the inmost.|B'odjey stiagh eh.
 It was something like that.|V'eh red gollrish shen.
 It was the ruin of him.|V'eh yn chragh echey.
 It was the only resort.|Cha row couyr erbee elley ayn.
-It was the least.|By loo eh.
-It was photographed.|Va fotograf jeant jeh.
-It was only my due.|By chair dou eh, shen ooilley.
 It was on the tip of my tongue.|V'eh er baare my hengey.
 It was plain to be.|B'leayr dou.
 It was smashed to atoms.|V'eh brisht ayns peeshyn beggey.
@@ -1724,15 +1746,9 @@ It will tell on your health.|Ver eh jeeyl er dty 'laynt.
 It will surpass everything.|Bee eh ny share na dagh ooilley red.
 It will shade the wall.|Ver eh scaa da'n voalley.
 It will unbalance him.|Ver eh ass e cheeayl eh.
-It will wear well.|Ta ceau mie ayn.
-It will wash out.|Hed eh lesh y niaghyn.
-It will wash off.|Glennee niaghyn eh.
 It will serve the purpose.|Nee eh jannoo da'n chooish.
-It will put some stomach in them.|Ver e creeaght ayndoo.
 It will pay you to do it.|B'eeu eh dhyt jannoo eh.
-It will put some stomach in them.|Ver e stamack ayndoo.
 It will serve as a stopgap.|Lhieenee eh y varney.
-It will run to a hundred.|Nee eh jannoo yn keead.
 It will repair your health.|Nee eh cur foays er dty 'laynt.
 It will wear well.|Ta cooid e ceau ayn.
 It works automatically.|T'eh gobbragh eh hene.
@@ -1758,36 +1774,24 @@ It stands to reason.|T'eh ny lhie rish resoon.
 It stands to reason.|She resoonagh eh.
 It stands out like a sore thumb.|T'eh dy baghtal ry akin.
 It sounds like the truth.|Ta blayst yn irriney er.
-It sounds tinny.|Ta cling yn stainney echey.
 It spoils the day.|T'eh milley yn laa.
 It speaks well for your courage.|S'mie yn cowrey creeaght ort eh.
 It speaks for itself.|S'leayr eh.
 It still holds good.|T'eh foast ny hassoo.
-It sure was a cold night.|Va oie feayr ayn son shickyrys.
 It suited me.|By chooie eh dou.
-It takes up the whole room.|Ta'n chamyr lane jeh.
 It thrilled me.|Hug eh er creau mee.
-It tells the quarters.|T'eh bwoalley ny kerroo-ooryn.
-It tastes of fish.|Ta blass eeast er.
 It suffers from neglect.|Ta meerioose er.
 It stood me in good stead.|By vooar yn couyr dou eh.
-It stirs my bile.|T'eh cur ferg orrym.
 It stinks.|T'eh breinn.
 It stopped my breath.|Ghow eh yn ennal jeem.
-It struck me dumb.|Ren eh bolvane jeem.
-It was done by him.|V'eh jeant liorish.
 It was done beautifully.|V'eh jeant dy aalin.
-It was dinning me.|V'eh dy my vouyraghey.
 It was done in fun.|V'eh jeant myr gamman.
 It was done very well.|V'eh jeant feer vie.
 It was done to death.|V'eh cliaghtit gy-baase.
 It was done in good time.|V'eh jeant dy traaoil.
 It was difficult.|By ghoillee eh.
-It was carried.|V'eh er ny hoiaghey jeh.
 It was clear to me.|B'leayr dou.
-It was deadly cold.|V'eh cho feayr as Niurin.
 It was creeping over me.|V'eh cheet orrym.
-It was confoundedly cold.|V'eh feayr agglagh.
 It was early in the day.|V'eh leah er y laa.
 It was greatly admired.|Va moylley mooar currit da.
 It was great fun.|By vooar yn spoyrt eh.
@@ -1897,7 +1901,6 @@ It's a case for the doctor.|She cooish da'n er lhee eh.
 It yawned at my feet.|Lheanee eh ec my chosh.
 It would not be good.|Cha beagh eh mie.
 It would hardly have done to say it.|S'goan oddagh eh er ve jeant dy ghra eh.
-It wouldn't matter to me.|By gummey lhiam.
 It would turn out to his advantage.|B'lhiass da.
 It's a crying shame.|She scammyltagh eh.
 It's a far cry from here.|S'foddey yn raad eh voish shoh.
@@ -1913,18 +1916,15 @@ It's great here.|T'eh mie er bashtal ayns shoh.
 It's gone out of fashion.|Cha nel eh yn oash nish.
 It's getting late.|T'eh lesh yn anmys.
 It's had it's day.|T'eh jeant.
-It's many a night.|Shimmey oie.
 It's looking up.|T'eh jeeaghyn ny share.
 It's much of a muchness.|T'eh bunnys yn un' red.
 It's most good.|T'eh slane vie.
-It's indifferent.|S'cossyllagh eh.
 It's hard to see.|T'eh comleayrtagh.
 It's high time he went.|She lane traa da dy gholl.
 It's in place now.|T'eh ayns ynnyd nish.
 It's his own.|S'lesh hene eh.
 It's based on the truth.|Ta bun firrinagh rish.
 It's at rest now.|T'eh aashagh nish.
-It's broken off.|Ta jerrey er.
 It's at an end.|T'eh ec kione.
 It's always getting done.|T'eh rieau goll er jannoo.
 It's all wrong.|Cha nel bun ny baare er.
@@ -1933,14 +1933,11 @@ It's as clear as crystal.|T'eh baghtal ry-akin.
 It's as plain as daylight.|T'eh cha baghtal as grian y vunlaa.
 It's as good as done.|T'eh er-chee jeant.
 It's as clear as mud.|Cha jinnagh peiagh erbee toiggal eh.
-It's bust.|T'eh brisht.
 It's early in the night yet.|T'eh aeg 'syn oie foast.
 It's far easier here.|T'eh foddey s'assey ayns shoh.
 It's exceedingly good.|T'eh ree-vie.
 It's enough to make your hair stand on end.|Hroggagh eh folt dty ching.
 It's driving rain.|Ta'n fliaghey greddey roish.
-It's cracking on.|T'eh goll dy bieau.
-It's catching the wind.|T'eh goaill yn gheay.
 It's difficult to get at.|T'eh doillee dy roshtyn.
 It's difficult to get at.|T'eh doillee feddyn magh.
 It's drawing to an end.|T'eh cheet gy-kione.
@@ -1973,10 +1970,6 @@ Once a year.|Un keayrt 'sy vlein.
 Once a week.|Un cheayrt 'sy chiaghtin.
 On the surface everything was well.|Er yn eddin va dagh ooilley nhee dy mie.
 One of these days.|Nane jeh ny laghyn shoh t'ayn.
-One dog's death is another dog's life.|Baase yn derrey voddey, grayse y voddey elley.
-One can't get blood out of a stone.|S'doillee eh geddyn ollan voish goayr.
-One must take the horns with the hide.|Shegin goaill ny heairkyn marish y cheh.
-One is very brave to believe a dumb messenger.|T'eh feer ghunnal chredjys chaghter balloo.
 On the bus.|Er y varroose.
 On the bus.|Er y vus.
 On Monday.|Jelune.
@@ -2006,7 +1999,6 @@ Neither do I take any notice of you.|Chamoo ta mish cur geill dhyt.
 Neither you nor I know.|Cha nel fys ayds ny ayms.
 Next year.|Yn vlein ry heet.
 Next week.|Yn chiaghtin shoh cheet.
-Never look a gift horse in the mouth.|Ny fow foill ayns red hooar oo nastee.
 Never say die.|Bee laa elley ayn.
 Never darken my door again.|Ny tar gys my ghorrys dy bragh arragh.
 Never a one.|Fer erbee.
@@ -2181,8 +2173,6 @@ That is nothing to boast about.|Cha nel shen oyr boggys erbee.
 That is not what I meant to say.|Cha nee shen by vian lhiam gra.
 That is my assessment of it.|Ta shen y towse aym jeh.
 That is immaterial to the question.|Cha nel shen bentyn rish y cheisht.
-That is his trade.|Ta shen y cheird echey.
-That is hallmarked for him.|Ta shen freilt er e hon.
 That is just as he would wish.|Ta shen kiart myr by vian lesh.
 That is my aim.|Ta shen my yeearree.
 That is much better.|Ta shen foddey share.
@@ -2280,7 +2270,6 @@ That's the last thing that's worrying me.|Ta shen yn red s'loo ta dy my voirey.
 That's the same thing.|Ta shen yn un red.
 That's the same thing.|Ta shen yn red cheddin.
 Suppose you are right.|Dy beagh yn chiart ayd.
-Sup of milk.|Bolgum bainney.
 Sunny shower.|Frass gial.
 Take cover.|Gow fastee.
 Take council of your own pillow.|Caddil er.
@@ -2323,24 +2312,12 @@ Tell me the when and the how of it.|Insh dou cuin as kanys haghyr eh.
 There is a link between them.|Ta boandey eddyr oc.
 There is a lot between right and wrong.|Smoo ta eddyr y chair as yn aggair.
 There is a little community there.|Ta eggys beg ayns shen.
-There is a great disturbance on us.|Ta lane bea orrin.
-There is a curve on his back.|Ta cruill er e ghreeym.
 There is a coldness between them.|Cha nel ad feer vooar er y cheilley.
 There is a close resemblance between them.|T'ad feer gollrish y cheilley.
-There is a darkness on the wick.|Ta smull er y vite.
-There is a good yield of wheat this year.|Ta baar mie curnee ayn mleeaney.
 There is a fly in the ointment.|Ta breck 'sy vainney.
-There are days when I am well and other days I'm not.|Ta laghyn ayn as ta mee mie as laghyn elley nagh vel mee.
 There are certain things.|Ta reddyn ayn.
 There are bonds between them.|Ta nastaghyn eddyr oc.
-There are loaches in the pond.|Ta cailleeyn ruy 'sy ghubbyr.
-There and back.|Ayn as ass.
-There was a cleavage in the society.|Va scoltey 'sy cheshaght.
-There are a hundred fathoms of water.|Ta keead feiy er diunid ayn.
-There are about four men left.|Ta red gollrish kiare deiney foast ayn.
-There are about four men left.|Ta mysh kiare deiney er-mayrn
 There are many variations.|Ta ymmodee ceaghlaghyn ayn.
-There are tears on his cheeks.|Ta jeirnyn er e ghruaie.
 There are some things we cannot help.|Ta reddyn ennagh ayn nagh vel niart ain orroo.
 There are some others.|Ta paart elley ayn.
 There are things and things are affecting.|Ta reddyn ayn as ta reddyn goaill.
@@ -2524,32 +2501,15 @@ There is something in the air.|Ta red ennagh 'sy gheay.
 There is thunder in the air.|Ta taarnagh mygeayrt.
 There is the house.|Shen y thie.
 There is the house.|Er hen y thie.
-Thirteen to the dozen.|Tree jeig 'sy dussan.
 This affair was all the more sad because of that.|Va'n chooish shoh wheesh shen s'trimshee er yn oyr shen.
 Things that can not fail to be seen.|Reddyn nagh vod shiu agh fakin.
 Things over which we have no control.|Reddyn nagh vel niart ain orroo.
 Things have turned out well.|Ta reddyn er jeet lhien.
-This day.|Yn laa jiu.
-This day.|Jiu.
 This cold goes through me.|Ta'n feayraght shoh goll stiagh gys ny craueyn aym.
-This day fortnight.|Kegeesh jiu.
-This day month.|Mee laa jiu.
-This day last year.|Yn laa shoh nurree.
-This day last week.|Shiaghtyn laa jiu.
 This coat lasted me two years.|Hooar mee daa vlein ass y chooat shoh.
 This book made him.|Hug yn lioar shoh er bun eh.
-This book is copyright.|Ta'n lioar shoh fo coip-chiart.
 This branded him for life.|Hug shoh drogh ennym er cour e vea.
 Thing are going along all right.|Ta reddyn goll er nyn doshiaght mie dy liooar.
-Thick soup.|Awree chiu.
-Thick leaved.|Roauyr-ghuillagagh.
-Thick forest.|Keyll chiu.
-Thick darkness.|Dorraghys doo.
-Thick lipped.|Brooasagh.
-Thick skulled.|Kione-roauyr.
-Thick skulled.|Doal-inchynagh.
-Thick porridge.|Poddash hiu.
-Thing of beauty.|Nhee aalin.
 Things came to a climax.|Haink reddyn gys baare.
 Things are taking a turn for the better.|Ta reddyn shareaghey.
 Things are proceeding well.|Ta reddyn goll er nyn doshiaght dy mie.
@@ -2565,10 +2525,6 @@ Things are going all anyhow.|Ta reddyn goll bun-ry-skyn.
 Things are improving now.|Ta reddyn bishaghey nish.
 Things are going strong.|Ta reddyn goll dy dunnal.
 Things are going all anyhow.|Ta reddyn goll fud-y-cheilley.
-This is Douglas.|Er hoh Doolish.
-This is composed of many parts.|Ta ymmodee oltyn 'sy red shoh.
-This is certainly the house of God.|Ta shoh son shickyrys Thie Yee.
-This is Douglas.|Ta shoh Doolish.
 This is for your observation.|Ta shoh son dty vaght.
 This is for real.|Ta shoh rieugh.
 This is exactly as good as that.|Ta shoh kiart cha mie as shen.
@@ -2576,18 +2532,11 @@ This is burdening me.|Ta shoh ny lhie trome orrym.
 This is a new departure.|Ta shoh cooish noa.
 This is a good time to go.|Ta shoh caays mie dy gholl.
 This is a very exposed place.|Ta'n boayl shoh gyn fastee erbee.
-This is broader.|Ta shoh ny s'lhea.
 This is brighter than that.|Ta shoh ny s'gilley na shen.
 This is a vicious circle.|Ta shoh kiarkyl olk.
 This is for your own attention.|Ta shoh son dty gheill hene.
-This is my boy.|Shoh my vac.
-This is my beloved son.|Shoh my vac ennoil.
 This is most important.|Ta shoh feer scanshoil.
-This is my dog.|Lhiams y moddey shoh.
-This is my treat.|Orryms eh shoh.
-This is my share.|Ta shoh my chooid.
 This is my point of view.|Shoh my varels.
-This is John's doing.|She Juan ren shoh.
 This is how the song goes.|Myr shoh ta'n arrane.
 This is hers.|Lheeish eh shoh.
 This is fresh water.|Ta shoh far-ushtey.
@@ -2595,7 +2544,6 @@ This is how the word is pronounced.|Myr shoh ta'n fockle er ny 'ockley.
 This is it.|Shoh eh.
 This is it.|Er hoh eh.
 This is how the word is pronounced.|Myr shoh ta'n fockle focklit.
-This far.|Choud's shoh.
 This excludes all possibilities of doubt.|Ta shoh giarrey magh ourys erbee.
 This evening.|Fastyr jiu.
 This here.|Shoh.
@@ -2615,22 +2563,6 @@ This is a dirty business.|Ta shoh obbyr ghraney.
 This is a good time to go.|Ta shoh caa mie dy gholl.
 This is a good brew.|Ta shoh imbyl mie.
 This is a god-forsaken place.|Ta shoh y boayl jerrinagh ren Jee.
-This house is theirs.|S'lhieu yn thie shoh.
-This house is hers.|Lheeish yn thie shoh.
-This house is cursed.|Ta'n thie shoh fo vollaght.
-This house cost me a great deal.|Ta'n thie shoh dy my chostal mooarane.
-This house is his.|S'leshyn yn thie shoh.
-Throughout the day.|Feie'n laa.
-Throughout the year.|Car ny bleeaney.
-Through them.|Nyn drooid.
-Through the agency of water.|Liorish obbraghey ushtey.
-Through me.|My hrooid.
-Through ignorance.|Ass almorys.
-Through the agency of water.|Liorish pooar ushtey.
-Through the summer.|Car y touree.
-Through the night.|Fud ny hoie.
-Through the day.|Feie'n laa.
-Three days from now.|Tree laghyn voish nish.
 Time for bed.|Traa ny lhiabbagh.
 This presents some difficulty.|Ta doilleeid ennagh ayn.
 This sheds a light on it.|Ta shoh ceau soilshey er.
@@ -2646,67 +2578,21 @@ This is the burning question.|Ta shoh yn ard-eysht.
 This is right.|Ta shoh cairagh.
 This is the last of it.|Ta shoh yn jerrey jeh.
 This is the main issue.|Ta shoh yn chooish hoshee.
-This lamp gives a bad light.|Ta drogh-hoilshey ec y londeyr shoh.
-This minute.|Yn vinnid shoh.
 This makes the tenth time.|Shoh yn jeihoo keayrt.
 This Manx word is derived from Irish.|Ta'n fockle Gaelgagh shoh cheet magh ass y Yernish.
 This money is most welcome.|Ta failt vooar roish yn argid shoh.
 This mortal life.|Yn vea varvaanagh. shoh.
-This morning.|Moghrey jiu.
 This monument was erected by her.|Va'n lhiaght shoh er ny hroggal lioree.
-This looks to me like the door.|Shoh'n dorrys er lhiam.
 This law aims at altering it.|Ta'n slattys shoh geearree eh y chaghlaa.
-This land is preserved.|Ta'n thalloo shoh er lheh.
-This land is preserved.|Ta'n thalloo shoh cosnit.
-Thou knowest me.|Ta enney ayd orrym.
-Thou art an evil spirit.|T'ou dty ghrogh spyrryd.
-Those who willed the war.|Adsyn va geearree yn caggey.
-Thou seest.|T'ou fakin.
-Thou shalt not kill.|Cha jean oo dunverys.
-Thou shalt not bear false witness against thy neighbour.|Cha der oo feanish foalsey noi dty naboo.
 Those were his exact words.|V'ad shen ny focklyn haink ass yn veeal echey.
-Those men.|Ny deiney shen.
-Those in the know.|Lught yn yss.
-Those hills.|Ny sleityn shid.
-Those of whom I speak.|Jeusyn ta mee loayrt.
-Thou that knowest all things.|Ayds ta dagh ooilley nhee er fys.
-Thrashing to windward.|Bwoalley er y gheay.
-Thrash to windward.|Bwoaill lhome er y gheay.
-Thread of tow.|Snaie barree.
-Three ball match.|Cloie troor.
-Three and a half hours.|Troor ooryn dy lieh.
-Three and a half hours.|Troor oor dy lieh.
 Thousands of people.|Millaghyn dy 'lieh.
-Though this be not believed.|Ga nagh ragh shoh er credjal.
-Though he is poor.|Ga dy vel eh boght.
-Though he is my son.|Ga dy vel eh my vac.
 Thought is free.|Cha nel streean er smooinaghtyn.
-Thousand pounds and upwards.|Thousane punt as erskyn.
-Thoughtless person.|Persoon gyn tort.
-Thoughtless person.|Meerioosagh.
-This way out.|Magh yn raad shoh.
-This way and that.|Noon as noal.
 This will awaken him to the danger.|Ver shoh toiggalys da jeh'n danjeyr.
-This will produce ten percent.|Cosnee shoh jeih 'sy cheead.
 This will distinguish the men from the boys.|Nee shoh cowraghey ny deiney as ny guillyn.
 This will bridge the gap temporarily.|Lhieenee shoh yn varney son y traa t'ayn.
-This was John.|Va shoh Ean.
-This very day.|Jiu hene.
-This version of the book.|Yn cummey shoh jeh'n lioar.
-This too is too little.|T'eh shoh neesht ro veg.
-This very night.|Oie noght.
-This was antedated by that.|Haink shoh roish shen.
-This very year.|Mleeaney hene.
-This very night.|Oie noght hene.
-This work is a bore.|Ta'n obbyr shoh feer ghree.
 Those are the errors to which I am most prone.|T'ad shen ny marranyn huic ta mee ny smoo croymmey.
 Those are my terms.|Ad shoh my chor.
-Those are breeding horses.|T'ad shen cabbil foalley.
-Those books.|Ny lioaryn shen.
-Those here.|Ad shoh.
-Those eyes of yours.|Ny sooillyn shen ayd.
 Those days are past.|Ta ny laghyn shen ceaut.
-This work is beyond me.|Ta'n obbyr shoh er my skyn.
 Two wrongs do not make a right.|Cha ren rieau daa vreag y firrinys.
 What he says is true.|Ta'n firrinys echey.
 What I say goes.|Mish dy ghra as adsyn dy yannoo eh.
@@ -2722,92 +2608,8 @@ Wait awhile.|Fuirree dreayst.
 Wait awhile.|Fuirree tammylt.
 Wait a little while.|Fuirree rish tammylt beg.
 Wait until I come.|Fuirree derrey higym.
-Yield not to temptation.|Ny lhig lesh miolagh.
-Yesterday morning.|Moghrey jea.
-You are able.|T'ou lajer.
-You are able.|T'ou abyl.
-You are able.|Foddee oo.
-You are absolutely correct.|Ta shiu slane kiart.
-You are all alike.|Ta shiu ooilley gollrish y cheilley.
-You are all adrift.|T'ou slane er-shaghryn.
-You are accountable to him for them.|Ta shiu freggyrtagh rishyn er nyn son.
-You are a bit too previous.|T'ou beggan roish y traa.
-You and yours.|Uss as dty vooinjer.
-You and they are hungry.|Ta accrys orts as orroosyn.
-You are a halfling of a carpenter.|T'ou uss bleih dy seyir.
-You are a long way out.|T'ou foddey veih'n chiart.
-You are a liar.|T'ou uss dty vreagerey.
-You are a liar.|T'ou uss breagagh.
-Yesterday afternoon.|Fastyr jea.
 Yes indeed.|She dy jarroo.
 Yes indeed.|Gyn ourys.
-You are selling the house for nothing.|T'ou creck y thie son veg.
-You are running your head against a brick wall.|T'ou foaddey aile fo'n cheayn.
-You are right.|Ta'n kiart ayds.
-You are the man for my money.|T'ou uss my ghooinney.
-You are the envy of the town.|Ta'n clane balley jannoo troo mood.
-You are sunburnt.|Ta daah ny greiney ort.
-You are right.|T'ou kiart.
-You are on dangerous ground.|T'ou shooyl er rio thanney.
-You are not yourself today.|Cha nel oo ayd hene jiu.
-You are not well.|Cha nel oo slane.
-You are on the wrong track.|T'ou er shaghryn.
-You are raving.|T'ou rouailley.
-You are quite right.|T'ou slane kiart.
-You are quite a stranger.|T'ou uss dty yoarree.
-You are the master.|Uss yn mainshtyr.
-You are wool gathering.|Ta dty cheeayll er shaghryn voyd.
-You are wanted on the telephone.|T'ou goll er shirrey er y chellvane.
-You are wrong.|Cha nel oo kiart.
-You can but try.|S'liooar dhyt geabbey.
-You are wanted.|T'ou ry-laccal.
-You are the salt of the earth.|Shiuish sollan y thallooin.
-You are under an illusion.|T'ou mollit.
-You are up against difficulties.|Ta raad garroo royd.
-You are up against a strong man.|Ta dooinney lajer dt'oi.
-You are under an illusion.|Ta dallaghey dhoo ort.
-You are getting younger.|T'ou gaase ny s'aa.
-You are getting hot.|Ta shiu chiow.
-You are getting her drunk.|T'ou cur urree dy gheddyn scooyrit.
-You are his great-grandmother.|Ta shiuish yn warree wooar echey.
-You are in a minority of one.|T'ou lhiat hene ayns dty varel.
-You are hungry.|Ta accrys ort.
-You are free to do that.|T'ou seyr dy yannoo shen.
-You are at liberty to do it.|Ta kied ayd dy yannoo eh.
-You are alone.|T'ou dty lomarcan.
-You are all welcome.|Nyn geead mea.
-You are excused from running today.|T'ou er dty leshtallaghey voish roie jiu.
-You are free to do that.|Foddee oo jannoo shen.
-You are free to do as you please.|Foddee oo jannoo dty red hene.
-You are favouring him unduly.|T'ou ro foayragh da.
-You are in charge.|T'ou ny curmeyder.
-You are mistaken.|Ta marranys ort.
-You are mistaken.|T'ou fo varranys.
-You are making him guilty.|T'ou jannoo eh oolee.
-You are most welcome to come.|Tar as failt ort.
-You are not very polite.|Cha nel oo ro chooyrtoil.
-You are not much use.|S'beg yn ymmyd oo.
-You are no better than him.|Cha nel oo veg share na eshyn.
-You are made for this work.|Rug oo ry-hoi'n obbyr shoh.
-You are in the gap of danger.|T'ou er y vaarney veayl.
-You are in my light.|T'ou 'sy tollys orrym.
-You are in his room.|T'ou ayns y chamyr echey.
-You are inviting trouble.|T'ou tayrn boirey ort hene.
-You are just as one would expect.|T'ou myr by chooie dhyt.
-Words to that effect.|Focklyn jeh'n vree shen.
-Words that don't bear repeating.|Focklyn nagh vod shin aaraa.
-Worship of the gods.|Ooashley ny jeeaghyn.
-Worthless person.|Riftan.
-Worthless animal.|Briggyl.
-Worsted yarn.|Snaie oashyragh.
-Worn out animal.|Rangan.
-World without end.|Seihll gyn kione.
-World without end.|Seihll gyn jerrey.
-Works of Lenin.|Screeunyn Lenin.
-Worldly goods.|Cooid heihlt.
-Worming his way through.|Keylaghey roish ny hrooid.
-Worldly minded persons.|Cloan y theihll.
-Worldly minded persons.|Cloan ny cruinney.
 You've hit the nail on the head.|T'ou er chur dty vair er.
 You've guessed it.|T'eh er ny ghra ayd.
 You will pay dearly for that.|Eeckee oo son shen.
@@ -2816,35 +2618,24 @@ You will turn me mad.|Ver oo mee  ass my cheeayl.
 You will suffer for it.|Eeckee oo er e hon.
 You will learn by experience.|Bee'n cliaghtey vondeishagh dhyt.
 You will get plenty of use out of it.|Yiow oo lane claght ass.
-You will catch your death of cold.|Yiow uss gorley dty vaaish ass y feayraght shen.
 You'll catch your death if you go out in this.|Gowee oo gorley dty vaaish my hed oo magh ayns shoh.
 You will have to manage with that.|Shegin da shen jannoo dhyt.
 You're welcome.|Dy jig eh lhiat.
 You're welcome.|Gura milley mie ayd.
-You're far better here in Mann.|T'ou foddey share ayns shoh ayns Mannin.
 You've got to do it now.|Shegin dhyt jannoo eh nish.
-You've got hold of the wrong end of the stick.|Cha nel y skeeal kiart ayd.
-You would scarcely believe him.|Veagh eh doillee dhyt dy chredjal eh.
 You would do well to keep quiet.|Bare dhyt ve dty host.
-You would do well to go there.|Bare dhyt goll.
 You'll be the death of me.|Ver oo baase orrym.
 Your wishes have been complied with.|T'eh er ve jeant rere dty yeearreeyn.
-Your presence is requested immediately.|T'ou ry-laccal chelleeragh.
-You have him off to a T.|T'ou er nyannoo arrish kiart jeh.
 You have had your money's worth.|Ta leagh dty chooid argid ayd.
 You have landed us in a nice fix.|Ta shin ayns cront cast ayd.
 You have no call to do so.|Cha nel eh orts dy yannoo eh.
 You have made it flat.|T'ou er n'yannoo braghtan jeh.
 You have made a mess of it.|T'ou er n'yannoo brock jeh.
-You have grass to cut.|Ta faiyr eu ry-vuinn.
 You have an advantage over me.|Ta vondeish ayd orrym.
 You have a wide choice.|Ta reih as teiy ayd.
 You have a long way to go.|Ta raad liauyr royd.
 You have been up to your old tricks.|Ta'n chenn chleaysaght ort reesht.
-You have come at last.|T'ou er-jeet fy-yerrey.
-You have come at last.|T'ou er-jeet fy-yeih.
 You have no choice.|Cha nel eh dty reih hene.
-You have thrown the goodness away.|T'ou er cheau y soo ersooyl.
 You know best.|Ta fys share ayd.
 You know the secrets of our hearts.|Shione dhyt folliaghtyn ny creeaghyn ain.
 You know how I love you.|Ta fys ayd c'wooad ta my ghraih ort.
@@ -2855,28 +2646,16 @@ You have permission to go tomorrow.|Ta kied eu goll mairagh.
 You have only yourself to thank for that.|Cha nel peiagh erbee elley agh oo hene ren eh.
 You have surpassed yourself.|Ren oo ny share na rieau.
 You have the law on your side.|Ta'n leigh lhiat.
-You have the correct accent.|Ta'n blass ayd.
 You have the advantage of me.|Ta laue yn eaghtyr ayd orrym.
-You couldn't sell your loss.|Cha jarg oo dty choayl y chreck.
 You could see that with half an eye.|Oddagh oo fakin shen dy beagh oo doal.
-You come third.|T'ou uss yn treeoo.
 You cut the bonds between us and them.|Yiare oo ny boandaghyn eddyr shinyn as adsyn.
 You did well.|Ren oo dy mie.
-You did vouchsafe.|By chooidsave lhiu.
 You did right.|Ren oo dy kiart.
-You cannot make a silk purse out of a sow's ear.|S'doillee eh dy gheddyn ollan voish goayr.
-You can go.|Foddee shiu goll.
-You can buy it at a price.|T'eh ry-chionnagh agh feer gheyr.
+You did wrong.|Ren oo olk.  
 You can go home now.|Ta kied ayd goll thie nish.
 You can't have it both ways.|Cha nod oo goaill y sheh marish ny h-eairkanyn.
-You can walk it in ten minutes.|Shooillee oo ayns jeih minnid eh.
-You can tell the poverty by the appearance of the street.|Foddee oo fakin y boghtynid liorish cummey yn straid.
-You did wrong.|Ren oo olk.  
 You go on ahead of me.|Er oai lhiat roym.
 You go first.|Uss hoshiaght.
-You get his back up.|T'ou cur fer er.
-You had better keep friends with them.|Bare dhyt tannaghtyn dty charrey daue.
-You have a correct Manx accent.|Ta blass kiart ny Gaelgey ayd.
 You had to look ahead.|B'egin dhyt jeeaghyn royd.
 You had better speak to him than write.|Share dhyt loayrt rish na screeu huggey.
 You fly it now.|Stiur eh oo hene nish.
@@ -2909,7 +2688,6 @@ You may talk until you are blue in the face.|Foddee oo loayrt derrey hig yn anny
 You may rest assured.|Ta mee dy dty hickyraghey.
 You made a good attempt at it.|Hug oo eab mooar er.
 You little know when the time will come.|S'beg shione dhyt tra hig yn traa.
-You ladyship.|Y ven chiarn.
 You look well.|Ta shiu jeeaghyn dy mie.
 You look simply lovely.|T'ou aalin erskyn insh.
 You must accustom yourself to it.|Shegin dhyt cliaghtey oo hene rish.
@@ -2941,7 +2719,6 @@ Study your lessons.|Ynsee nyn lessoonyn.
 Let us work well to-day.|Lhig dooin gobbraghey dy-mie jiu.
 Don't forget anything.|Ny jarrood red erbee.
 Let us thank God.|Lhig dooin cur booise da Jee.
-Pronounce your words correctly.|Focklee magh nyn vocklyn dy-kiart.
 Don't disobey me.|Ny bee meeviallagh hym.
 You ought to have been more polite.|Lhisagh shiu er ve ny s'cooyrtoiley.
 This news is incredible.|Ta'n naight shoh anchredjuagh.
@@ -2984,15 +2761,6 @@ There's nothing the matter with me.|Cha nel veg jannoo orrym.
 It is to be hoped that it will have no bad consequences.|Shegin dooin treishteil nagh bee drogh eiyrtys.
 I'm very happy to hear it.|Ta mee feer vaynrey clashtyn eh.
 That's the best thing you can do.|Shen y red share oddys shiu jannoo.
-It's eleven o'clock at the latest.|Te unnane-jeig er y chlag ec y chooid s'anmee.
-It's twenty minutes past four.|Te feed minnid lurg kiare.
-It hasn't struck twelve yet.|Cha nel eh er woalley munlaa foast.
-It's exactly half-past twelve.|Te lieh oor lurg munlaa.
-It's noon.|Te munlaa.
-It's nearly three.|Te bunnys tree.
-It's past four by my watch.|Te lurg kiare liorish yn ooreyder ayms.
-It has just struck four.|Te er woalley kiare.
-It will soon strike three.|Bwoaillee eh tree dy-gerrid.
 It's impossible for me to learn my lesson.|Te neuyantagh dou dy ynsagh my lessoon.
 I'm writing my exercise.|Ta mee screeu my roortys.
 Don't push me.|Ny seiy mee.
@@ -3077,32 +2845,22 @@ Nothing's easier than that.|Cha nel veg ny sassey na shen.
 You talk more than you study.|Ta shiu taggloo ny smoo na gynsagh.
 They're at church.|T'ad ec y cheeill.
 You are joking.|Ta shiu spotcheraght.
-Thou art my rock and my fortress.|She uss my chreg as my ghoon.
 The more difficult a thing is, the greater the honour in doing it.|Myr s'doillee red, smoo yn onnor jannoo eh.
 The more diligent you are, the more you'll improve.| Myr s'jeidee ta shiu, share hig shiu dy ve.
 The kinder one is, the more is one beloved.|Myr s'dooie fer, smoo shynney lesh sleih ad.
-He is exceedingly angry.|T'eh corree as towse.
-Those are the errors to which men are most prone.|Ad shen ny marranyn hug ta 
-deiney smoo|croymmey.
 Nobody has seen him there.|Cha nel pagh erbee er n'akin eh ayns shen.
 He hasn't been there yet.|Cha nel eh er ve ayns shen foast.
-Yes. Not much.|Ta. Cha nel monney.
 Yes, unfortunately.|Ta, s'treih lhiam gra.
+Yes, to be sure.|Ta, dy ve shickyr.
 It's a difficult undertaking, you won't succeed in it.|Bee eh doillee diu dy ghoaill ayns laue, cha jig eh lhiu.
 You'll see them all there.|Nee shiu fakin ad ooilley ayns shen.
 I've been there.|Ta mee er ve dys shen.
 You've been there lately.|Ta shiu er ve ayns shen er-y-gherrid.
 Not for some days.|Cha nel rish shiartanse dy laghyn.
-Yes, to be sure.|Ta, dy ve shickyr.
-They won't forget me.|Cha jarrood ad mee.
 The more one has the more one wants.|Myr smoo t'ec fer, smoo saillish.
-She offered me a seat in her carriage.|D'arr ee dou soiag ayns e carriads.
 That will be very disagreeable to them.|Bee shen feer neuhaitnyssagh daue.
-You've rendered me a great service, I thank you heartily.|Ta shiu er n'yannoo shirveish vooar dou, gura mie mooar eu.
-He relies upon that.|T'eh croghey er shen.
 Nothing is worse than that.|Cha vel veg ny smessey na shen.
 Stay there for a moment.|Fuirree ayns shen shallid.
-He did it on purpose.|Ren eh eh dy-jeean.
 The braver a man is, the less he boasts.|Myr s'gastey dooinney, sloo boggys t'echey.
 Don't stir from the place.|Ny gleash veih'n voayl.
 I've often told you so, you never pay any attention.|Ta mee dy-mennick er 
