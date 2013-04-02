@@ -98,10 +98,12 @@ I was pleased with it.|Daittin lhiam eh.
 I love it.|Shynney lhiam eh.
 In good humour.|Ayns gien mie.
 I thank my stars that I came.|Bwooise da jee dy daink mee.
+I should be delighted.|Veagh taitnys vooar orrym.
 **Sadness|Trimshey
 I am exceedingly miserable.|Ta mee trimshagh treih.
 I am heart broken.|Ta my chree brisht.
 My heart is broken.|Ta'n cree aym brisht.
+I was grieved to hear the news.|B'olk lhiam clashtyn y naight.
 I was very much sorrowed.|Va mee dy mooar seaghnit.
 I am upset.|Ta boirey orrym.
 I am upset.|Ta anvea orrym.
@@ -114,10 +116,12 @@ I am sorry.|S'treih lhiam.
 I am sorry.|S'olk lhiam.
 I was sorry.|By hreih lhiam.
 I'm very sorry that you've done that.|S'treih mooar lhiam dy vel oo er n'yannoo shen.
+I am very sorry indeed.|S'treih mooar lhiam dy jarroo.
 **Anger|Ferg
-Becoming angry.|Goaill cheagh.
+I am disposed to anger.|Ta mee currit da'n ferg.
 I am angry.|Ta mee corree.
 I am angry.|Ta corree orrym.
+Becoming angry.|Goaill cheagh.
 Getting in a rage.|Goll er ouyl.
 Getting in a rage.|Goll cheagh.
 In a rage.|Er ouyl.
@@ -150,10 +154,16 @@ I was taken aback.|Va yindys currit orrym.
 It struck me dumb.|Ren eh bolvane jeem.
 I was thunderstruck.|Va mee thanvaanit.
 It was like a bombshell to us.|Haink eh gollrish bleaystan orrin.
+I was very much surprised.|Va yindys mooar orrym.
 It passed my comprehension.|T'eh erskyn yn toiggal aym.
 I never saw any thing like it.|Cha n'aik mee rieau red erbee gollrish.
 I never saw the like before.|Cha n'aik mee rieau 'lheid roie.
+I never saw such a thing in all my experience.|Cha vaik mee rieau yn lhied ayns ooilley'n seihll aym.
+I never saw the like ever.|Cha naik mee rieau y lhied roie.
+I never saw the like in my lifetime.|Cha naik mee rieau y lhied ayns ooilley'n seihll aym.
 It filled me with wonder.|Hug eh yindys mooar orrym.
+I wonder at it sometimes.|Ta mee goaill yindys jeh ny keayrtyn.
+I am surprised.|Ta yindys mooar orrym.
 **Gratitude|Booise
 Thank you.|Gura mie eu.
 Thank you.|Gura mie ayd.
@@ -176,6 +186,7 @@ I envy her.|Ta mee jannoo troo moee.
 **Shame|Nearey
 I am ashamed.|Ta mee goaill nearey.
 I am ashamed.|Ta nearey orrym.
+I was ashamed of it.|Va nearey orrym jeh.
 You make me feel ashamed.|T'ou cur nearey orrym.
 I felt ashamed.|Haink nearey orrym.
 I was mortified.|Va nearey orrym.
@@ -197,13 +208,17 @@ I am up to my eyes in work.|Ta mee baiht ayns obbyr.
 I am besieged with tasks.|Ta mee chionn agglagh.
 I have a good deal to do.|Ta ram aym ry-yannoo.
 I am behind with the work.|Ta mee ergooyl lesh yn obbyr.
+I have many demands on my time.|Ta ymmodee currymyn orrym.
 The daily grind.|Obbyr yn laa.
 I am at work.|Ta mee gobbragh.
 I cannot spare the time.|Cha noddym fordrail yn traa.
+I am in an awful haste.|Ta driss mooar orrym.
+I am in a dreadful hurry.|Cha nel corsoie aym.
 I have so much to do, I shall hardly have finished by to-morrow.|Ta wheesh aym dy yannoo s'goan vees jerrey er m'obbyr liorish laa ny vairagh.
 I've been working all day.|Ta mee er ve g'obbraghey feiy'n laa.
 I have been on the go all day.|Ta mee er ve throng feie yn laa.
 I have been on my legs all day.|Ta mee er ve er chosh feie'n laa.
+I work hard.|Ta mee gobbragh dy creoi.
 Working like blazes.|Gobbragh gollrish y Jouyll.
 This work is beyond me.|Ta'n obbyr shoh er my skyn.
 This work is a bore.|Ta'n obbyr shoh feer ghree.
@@ -220,10 +235,14 @@ I am not well.|Cha nel yn claynt aym feer vie.
 I am not well.|Cha nel aym pene.
 There are days when I am well and other days I'm not.|Ta laghyn ayn as ta mee mie as laghyn elley nagh vel mee.
 I am under the weather.|Ta mee red beg ching.
+I have been sick.|Va mee ching.
+I have been sick.|Ta mee er ve ching.
+I have been laid up.|Ta mee er ve er my lhiabbee.
 I feel sick.|Ta mee ching.
 I feel sick.|Ta mee g'ennagh ching.
 I've been ill during the last few days.|Va mee ching rish laa ny ghaa.
 I've been ill during the last few days.|Ta mee er ve ching rish laa ny ghaa.
+I got over the illness.|Haink mee my laue.
 Fresh attack of sickness.|Teaym noa dy hingys.
 This illness weakens me very much.|Ta'n chingys shoh jannoo mee feer faase.
 My strength is failing.|Ta mee coayl my niart.
@@ -237,12 +256,14 @@ I have a cold in my head.|Ta peeaghane aym.
 My nose is stuffed up.|Ta'n 'troin aym lhieent.
 I have the snuffles.|Ta ny stronnyn orrym.
 I caught a chill there.|Hooar mee feayraght ayns shen.
+I have the hiccups.|Ta'n ellag orrym.
 I've got a headache.|Ta kione ching aym.
 My head burns.|Ta my chione er aile.
 I have a frightful headache.|Ta kione ching agglagh aym.
 I have a bad head.|Ta my chione ching.
 I have a bad head.|Ta chingys ching aym.
 My head is swimming.|Ta mee thollaneagh.
+I feel faint.|Ta mee goll my-nealloo.
 My head itches.|Ta taghys er my chione.
 I am troubled with rheumatism.|Ta'n aacheoid jannoo orrym.
 It smarts.|T'eh piandagh.
@@ -250,15 +271,18 @@ It smarts.|T'eh gortey.
 It smarts.|T'eh gonnagh.
 I have toothache.|Ta ny beishtyn aym.
 My tooth aches.|Ta m'eeackle criughey.
-I've a pain in my side.|Ta pian aym ayns my lhiattee.
 I dislocated my shoulder.|Chur mee my gheaylin ass olt.
 My shoulder is dislocated.|Ta my gheaylin mooie.
+I have pains in my inside.|Ta pianyn ayns my volg.
+I've a pain in my side.|Ta pian aym ayns my lhiattee.
 I am seasick.|Ta chingys marrey orrym.
 My foot is sore.|Ta pian ayns my chass.
 My foot is sore.|Ta my chass gonnagh.
 My foot is asleep.|Ta my chass magganeagh.
 My foot is asleep.|Ta maggane ayns my chass.
 My foot has gone to sleep.|Ta my chass kyrloghit.
+I have pins and needles in my foot.|Ta cadley jargan ayns my chass.
+I have lost the power of my foot.|Ta mee er choayl lheihll my choshey.
 My finger twinges.|Ta minniag ayns my vair.
 I feel very much better.|Ta mee foddey ny share.
 I feel better to-day.|Ta mee g'ennagh ny share jiu.
@@ -270,14 +294,27 @@ It makes me drowsy.|T'eh cur saveenys orrym.
 I'm very sleepy.|Ta mee feer chadlagh.
 I became sleepy.|Huitt yn cadley orrym.
 I became sleepy.|Haink mee dy ve cadlagh.
+I sleep badly these days.|Ta mee lieh chadley ny laghyn shoh.
+I slept in.|Cha ren mee dooishtey.
+I was asleep.|Va mee my chadley.
+I snored.|Ren strinnoogh.
+I slept out the day.|Ren mee cadley feie'n laa.
+I slept it off.|Hug mee eh jeem ayns my chadley.
 I am very yawny.|Ta mennuighys mooar orrym.
 I am a bit tired.|Ta mee skeeagh.
 I am a bit tired.|Ta mee red beg skee.
 It's time to go to bed.|Te traa goll thie.
+I didn't get a wink of sleep.|Cha chaddil mee neeal.
 Sleep did not close my eyes during the night.|Cha daink cadley er my hooillyn er yn oie.
 I did not sleep a wink all night.|Cha ren mee cadley meekey fud ny hoie.
-I didn't get a wink of sleep.|Cha chaddil mee neeal.
+I didn't have a wink of sleep all night.|Cha chaddil mee neeal er yn oie.
 I couldn't sleep.|Cha d'od mee cadley.
+I don't like going to bed late.|Cha laik lhiam goll dy lhie dy-anmagh.
+I must be up by break of day.|Shegin dou ve er my chosh ec brishey'n laa.
+I am accustomed to get up early.|Ta mee cliaghtit dy irree dy-moghey.
+I generally rise early.|Ta mee g'irree dy-moghey dy-cliaghtagh.
+I get up every morning at six o'clock.|Ta mee g'irree dagh moghrey ec shey er y chlag.
+I generally go to bed early.|Ta mee dy-cadjin goll dy lhie dy-moghey.
 I awoke at five o'clock and fell asleep again directly.|Ghooisht mee ec queig er y chlag, as huitt mee er cadley reesht chelleeragh.
 I had a good sleep.|Ren mee cadley dy mie.
 I've had a very good night's rest.|Ta aash oie feer vie er ve aym.
@@ -309,6 +346,7 @@ I am getting drunk.|Ta mee goaill y scooyr.
 I am half drunk.|Ta mee lieh scooyrit.
 I am half drunk.|Ta mee lieh er meshtey.
 I drank overmuch.|Diu mee roud.
+I drank my fill.|Diu mee my haie.
 I am fond of drink.|Ta mee currit da'n jough.
 **Hot and Cold|Cheh as Feayr
 I am frozen.|Ta mee lhejit.
@@ -372,8 +410,11 @@ I bought mine very cheap.|Chionnee mee yn fer aym feer neugheyr.
 I came in to a lot of money.|Hooar mee ram argid trooid eiraght.
 I am rich.|Ta mee berchagh.
 I have money at hand.|Ta argid aarloo aym.
+I also got money.|Hooar mee argid neesht.
 I am paying my way.|Ta mee geeck yn ayrn aym.
 I am paying my way.|Ta mee tannaghtyn erskyn ny feeaghyn aym.
+I will go halves in it.|Gowym yn lieh jeh.
+I will go halves in it.|Bee y lieh orryms.
 I want a detailed account before I pay.|Saillym mynchoontys roish my eeckym.
 He must have a great deal of money.|Shegin ve mooarane argid echey.
 Saving money for a rainy day.|Tashtey argid cour laa fliaghee.
@@ -511,6 +552,8 @@ The rain increased.|Hrommee yn fliaghey.
 The rain has soaked through my coat.|Ta'n fliaghey er n'gholl stiagh trooid my chooat.
 The rain has revived all the plants.|Ta'n fliaghey er n'aavioghey ny lossreeyn ooilley.
 The rain is heavy.|Ta trome-liaghee ayn.
+I believe we shall have rain before long.|Ta mee credjal dy bee fliaghey ain roish foddey.
+I feel some drops of rain.|Ta mee g'ennagh bineyn fliaghee.
 It has rained a great deal.|Ta ram fliaghey er ve jeant.
 It's blowing up for rain.|T'eh sheidey seose fliaghey.
 It has the appearance of rain.|T'eh moorjeenagh.
@@ -606,6 +649,9 @@ It's snowing in great flakes.|Ta floagyn sniaghtee mooarey ayn.
 Frosty weather.|Emshir rioeeagh.
 Long spell of cold weather.|Shayll liauyr jeh emshir feayr.
 It is so cold that you can see your breaths.|T'eh cha feayr dy vod oo fakin nyn ghruightys.
+I wish that the winter were already over.|Saillym dy beagh yn geurey hannah harrish.
+I have been longing for the spring.|Ta mee er ve goaill foddeeaght ny yei yn arragh.
+I fear we shall have cold weather after this.|Ta aggle orrym dy bee emshir feayr ain ny lurg shoh.
 It's thawing.|Te tenniu.
 It will freeze tonight.|Bee rio ayn noght.
 It is freezing hard.|Ta rio trome ayn.
@@ -1036,7 +1082,6 @@ By all means.|Er dagh ooilley chor.
 But I tell you I saw it.|Agh ta mee ginsh dhyt dy vaik mee eh.
 But for you I was done for.|Myr ragh uss va mee rey.
 Be well assured.|Ny bee ourys ort.
-Bear him in mind.|Cooinee er.
 Be reasonable.|Gow dty resoon hood.
 Be that as it may.|Bee shen myr t'eh.
 Briefly this is the story.|Dy yannoo skeeal giare jeh, er hoh yn skeeal.
@@ -1194,18 +1239,37 @@ I am lying down.|Ta mee my lhie.
 Watching a football match.|Jeeaghyn er cloie bluckan coshey.
 I am minding the child.|Ta mee goaill kiarail jeh'n lhiannoo.
 I spent a day in the country.|Cheau mee laa er y cheer.
+I had a look round the town.|Yeeagh mee er y valley.
+I walked the whole town.|Hooill mee y balley.
+I like walking.|S'mie lhiam y chosheeaght.
+I am going to the shops.|Ta mee goll gys ny shappyn.
 I have some shopping to do.|T'eh orrym kionnaghey red ny ghaa.
 I have a window to clean.|Ta uinnag aym ry-ghlenney.
 I have a letter to write.|Ta screeuyn aym ry screeu.
+I have just been writing.|Ta mee kiart er ve screeu.
+I have not been to church.|Cha row mee ec y cheeill.
 A walk over the mountains.|Cosheeaght harrish ny sleityn.
 I am travelling.|Ta mee troailt.
 I was out riding.|Va mee mooie markiagh.
+I am going across the road.|Ta mee goll tessyn y raad.
+I am going along the road.|Ta mee goaill yn raad.
+I am cleaning my my hands.|Ta mee glenney my laueyn.
+I am cleaning my my hands.|Ta mee goonlaghey my laueyn.
+I am clearing out rubbish.|Ta mee ceau magh trustyr.
+I am dieting.|Ta mee fo leodys-bee.
 I was reading.|Va mee lhaih.
+I read the book from cover to cover.|Lhaih mee y lioar voish toshiaght gys jerrey.
+I read it several times over.|Lhaih mee eh reesht as reesht.
+I had a spate of work.|Haink thooilley obbyr aym.
 I am killing time.|Ta mee cur stiagh yn traa.
 I am playing.|Ta mee cloie.
+I like the pipes.|S'mie lhiam y phiobberaght.
 I must get my hair cut.|Shegin dou geddyn m'olt giarit.
 I must shave.|Shegin dou baarey.
+I would like a wash.|By vie lhiam oonley.
 I went to the tailor.|Hie mee hug yn thalhear.
+I cut the grass.|Vuinn mee y faiyr.
+I favour going fishing.|Ta mish son goll dy eeastagh.
 Playing whist.|Cloie quiss.
 Playing ducks and drakes.|Jollickey.
 Playing dominoes.|Cloie dooreydaneyn.
